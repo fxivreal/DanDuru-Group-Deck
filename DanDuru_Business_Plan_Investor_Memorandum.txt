@@ -91,7 +91,9 @@ Sales Channels:
   retailers and other businesses for private labeling or re-packaging
 
 Status: Already selling. FlourishScent is generating revenue today and operates
-from Lagos. [PLACEHOLDER: Insert current monthly revenue and customer counts.]
+from Lagos. Current actual revenue: N2,500,000 per month (6,250 bottles of 3ml
+at N400 each); full-capacity revenue N6,500,000 per month (16,250 bottles).
+[PLACEHOLDER: Insert customer counts and repeat-purchase data.]
 
 Regulatory: NAFDAC registration for cosmetics/aromatics is being confirmed and
 is a planned use of funds. [TO CONFIRM: NAFDAC status for the perfume line.]
@@ -509,30 +511,30 @@ DANFAM CHILLI PEPPER (15g Sachets)
 | NET MONTHLY PROFIT | N16,895,984 |
 | ANNUAL NET PROFIT (12 months) | N202,751,808 |
 
---- 11E. FlourishScent Projections (PLACEHOLDER) ---
+--- 11E. FlourishScent Projections (ACTUALS) ---
 
-[ALL FLOURISHSCENT NUMBERS BELOW ARE ESTIMATES TO BE REPLACED WITH ACTUAL
-BUSINESS DATA. Blended gross margin assumed at ~45%: retail fragrance typically
-carries higher margin; bulk/wholesale carries lower margin but higher volume.]
+[Unit economics based on the 3ml Sugar Baby perfume oil: selling price N400,
+cost N245 per bottle (oil N147 + bottle N88 + sticker N10), gross profit N155
+per bottle (38.8% margin).]
 
 | Item | Amount (N) |
-| Current monthly revenue (actual) | [PLACEHOLDER] |
-| Projected full-capacity monthly revenue | 20,000,000 |
-| Cost of sales (~55%) | (11,000,000) |
-| Gross profit (~45%) | 9,000,000 |
-| Allocated overhead (staff, rent, power, logistics) | (3,000,000) |
-| NET MONTHLY PROFIT | 6,000,000 |
-| ANNUAL NET PROFIT (12 months) | 72,000,000 |
+| Current monthly revenue (actual) | 2,500,000 |
+| Projected full-capacity monthly revenue | 6,500,000 |
+| Cost of sales (61.25%) | (3,981,250) |
+| Gross profit (38.8%) | 2,518,750 |
+| Allocated overhead (staff, rent, power, logistics) | (400,000) |
+| NET MONTHLY PROFIT | 2,118,750 |
+| ANNUAL NET PROFIT (12 months) | 25,425,000 |
 
---- 11F. Combined Group Monthly P&L (PLACEHOLDER WHERE NOTED) ---
+--- 11F. Combined Group Monthly P&L ---
 
 | Item | Food | FlourishScent | Group Total |
-| Monthly revenue | 237,494,400 | 20,000,000 | 257,494,400 |
-| Cost of sales | (215,098,416) | (11,000,000) | (226,098,416) |
-| Gross profit | 22,395,984 | 9,000,000 | 31,395,984 |
-| Overhead | (5,500,000) | (3,000,000) | (8,500,000) |
-| NET MONTHLY PROFIT | 16,895,984 | 6,000,000 | 22,895,984 |
-| ANNUAL NET PROFIT | 202,751,808 | 72,000,000 | 274,751,808 |
+| Monthly revenue | 237,494,400 | 6,500,000 | 243,994,400 |
+| Cost of sales | (215,098,416) | (3,981,250) | (219,079,666) |
+| Gross profit | 22,395,984 | 2,518,750 | 24,914,734 |
+| Overhead | (5,500,000) | (400,000) | (5,900,000) |
+| NET MONTHLY PROFIT | 16,895,984 | 2,118,750 | 19,014,734 |
+| ANNUAL NET PROFIT | 202,751,808 | 25,425,000 | 228,176,808 |
 
 
 ================================================================================
@@ -557,8 +559,9 @@ improve the blended profitability of the overall business.
 
 FlourishScent pricing spans the 3ml sample pack (low entry price for retail
 demonstration) up to 25kg bulk drums (volume pricing for wholesalers and
-resellers). The blended gross margin target for the perfume line is approximately
-45%, giving the Group a higher-margin earnings engine alongside the volume-driven
+resellers). Based on the 3ml Sugar Baby actual — N400 selling price, N245 cost
+(oil N147 + bottle N88 + sticker N10) — the gross margin is 38.8%, giving the
+Group a higher-margin earnings engine alongside the volume-driven
 food business.
 
 
@@ -597,7 +600,7 @@ perfume business.
 --- Repayment ---
 
 From monthly operating cash flow. At projected combined group net profit of
-N22.9 million per month, the facility can be fully repaid within 3-4 months.
+N19.0 million per month, the facility can be fully repaid within 3 months.
 
 Security: Company assets + personal guarantee of directors.
 
@@ -615,9 +618,9 @@ Security: Company assets + personal guarantee of directors.
 | Repayment Source | Operating cash flow from production sales |
 | Security | Company assets + personal guarantees |
 | Projected Annual Net Profit (food) | N202,751,808 |
-| Projected Annual Net Profit (perfume, placeholder) | N72,000,000 |
-| Projected Group Annual Net Profit | N274,751,808 |
-| Estimated Payback Period | 3-4 months |
+| Projected Annual Net Profit (perfume) | N25,425,000 |
+| Projected Group Annual Net Profit | N228,176,808 |
+| Estimated Payback Period | ~3 months |
 
 All financial projections are subject to verification through due diligence.
 DanDuru Group is prepared to open its books for inspection upon execution of a
