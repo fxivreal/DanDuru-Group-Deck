@@ -1,0 +1,116 @@
+================================================================================
+          DANDURU GROUP — INVESTOR DATA ROOM
+          (DanDuru Industries + FlourishScent)
+          Google Drive Folder Structure
+================================================================================
+
+Create a single Google Drive folder named:
+"DanDuru Group — Investor Data Room [Confidential]"
+
+Share the link with investors AFTER they sign an NDA. Use password-protected
+link sharing if possible.
+
+================================================================================
+FOLDER STRUCTURE
+================================================================================
+
+DanDuru_Investor_Data_Room/
+│
+├── 01_Pitch_Deck/
+│   ├── DanDuru_Group_Pitch_Deck_2026.pdf      ← Export from HTML deck
+│   └── DanDuru_Group_Pitch_Deck_2026.pptx      ← Optional Canva export
+│
+├── 02_Financial_Model/
+│   ├── DanDuru_Financial_Projections.xlsx      ← Food line (P&L, Cashflow,
+│   │                                            Unit Economics, Overhead, Margins)
+│   ├── FlourishScent_Financial_Projections.xlsx ← Perfume line (same sheets)
+│   ├── Group_Consolidated_Projections.xlsx     ← Combined group P&L
+│   └── DanDuru_Group_Business_Plan_Full.pdf    ← Merged plan document
+│
+├── 03_Legal_Regulatory/
+│   ├── NAFDAC_Registration_Certificates.pdf    ← Food products
+│   ├── NAFDAC_Cosmetics_Aromatics.pdf          ← FlourishScent (TBC)
+│   ├── Pioneer_Status_Approval_Letter.pdf
+│   ├── CAC_Registration_Documents.pdf
+│   └── Company_Profile_TIN.pdf
+│
+├── 04_Products/
+│   ├── DanDuru_Product_Photos/                 ← Folder with flat-lay photos
+│   ├── FlourishScent_Product_Photos/           ← Oils, sprays, bulk drums
+│   ├── Packaging_Mockups/
+│   └── Product_Spec_Sheets.pdf                 ← Weight, ingredients, shelf life
+│
+├── 05_Distribution/
+│   ├── Distributor_Agreements.pdf              ← Redacted if sensitive
+│   ├── Distributor_List.pdf                    ← Names, locations, contact
+│   ├── FlourishScent_Sales_Channels.pdf        ← Retail outlets + wholesale buyers
+│   └── Cameroon_Export_Channel.pdf
+│
+├── 06_Team/
+│   ├── Management_Profiles.pdf
+│   ├── CVs/                                    ← Folder with individual resumes
+│   ├── FlourishScent_Manager_Profile.pdf       ← [Name TBD]
+│   └── Org_Chart.pdf
+│
+├── 07_Traction/
+│   ├── DanDuru_Sales_Records.xlsx              ← Actual food sales since Oct 2024
+│   ├── FlourishScent_Sales_Records.xlsx        ← Actual perfume sales
+│   ├── Customer_References.pdf
+│   └── Purchase_Orders.pdf                     ← If available
+│
+├── 08_Assets/
+│   ├── Equipment_Inventory.pdf                 ← List with purchase dates/values
+│   ├── Factory_Layout.pdf
+│   ├── FlourishScent_Equipment.pdf             ← Filling/mixing/storage
+│   └── Equipment_Vendor_Contracts.pdf
+│
+└── 09_Factory_Tour/
+    └── DanDuru_Group_Factory_Tour.mp4          ← Your 3-minute video
+
+================================================================================
+DOCUMENTS TO PREPARE (Priority Order)
+================================================================================
+
+HIGH PRIORITY (Must have before investor meeting):
+[ ] 01_Pitch_Deck/DanDuru_Group_Pitch_Deck_2026.pdf
+[ ] 02_Financial_Model/Group_Consolidated_Projections.xlsx
+[ ] 03_Legal_Regulatory/NAFDAC_Registration_Certificates.pdf
+[ ] 03_Legal_Regulatory/CAC_Registration_Documents.pdf
+[ ] 03_Legal_Regulatory/Pioneer_Status_Approval_Letter.pdf
+[ ] 09_Factory_Tour/DanDuru_Group_Factory_Tour.mp4
+[ ] 07_Traction/FlourishScent_Sales_Records.xlsx    ← Actual perfume revenue
+[ ] 03_Legal_Regulatory/NAFDAC_Cosmetics_Aromatics.pdf ← Confirm status
+
+MEDIUM PRIORITY (Before or during due diligence):
+[ ] 05_Distribution/Distributor_Agreements.pdf
+[ ] 05_Distribution/Distributor_List.pdf
+[ ] 05_Distribution/FlourishScent_Sales_Channels.pdf
+[ ] 06_Team/Management_Profiles.pdf
+[ ] 06_Team/FlourishScent_Manager_Profile.pdf
+[ ] 08_Assets/Equipment_Inventory.pdf
+[ ] 08_Assets/FlourishScent_Equipment.pdf
+[ ] 07_Traction/DanDuru_Sales_Records.xlsx
+
+NICE TO HAVE:
+[ ] 04_Products/DanDuru_Product_Photos/
+[ ] 04_Products/FlourishScent_Product_Photos/
+[ ] 04_Products/Product_Spec_Sheets.pdf
+
+================================================================================
+RECOMMENDED TOOLS
+================================================================================
+
+| Tool | Purpose | Cost |
+|------|---------|------|
+| Google Drive | Data room hosting | Free (15GB) |
+| Canva | Pitch deck design | Free |
+| Google Sheets | Financial model | Free |
+| Loom / Phone Camera | Factory tour video | Free |
+| DocuSign / SignRequest | NDA signing | Free / Low cost |
+
+================================================================================
+PASSWORD HINT FOR DATA ROOM (Example)
+Use something investors can remember: DanDuru2026
+
+================================================================================
+                        END OF DATA ROOM GUIDE

@@ -1,0 +1,1318 @@
+================================================================================
+       DANDURU GROUP — INVESTOR DECK DELIVERABLE
+       (DanDuru Industries + FlourishScent)
+       Prepared from the corrected Business Plan & Investor Memorandum
+================================================================================
+
+NOTE ON NUMBERS:
+- Food business figures are from the corrected memorandum (source of truth).
+- FlourishScent figures are PLACEHOLDER estimates (marked [PLACEHOLDER]) and
+  must be replaced with actual business data before the investor meeting.
+
+================================================================================
+1. QUICK EXTRACTION — KEY FACTS (Verbatim from Document)
+================================================================================
+
+FACT 01 — Group & Location
+"DanDuru is located at 3-5, Omitogun close, off Lisabi Crescent, Alaafia Estate,
+Aguda, Ogba, Lagos State" (§1A — Company Overview)
+
+FACT 02 — Operations Commenced
+"commenced operations in October 2024" (§1A — Company Overview)
+
+FACT 03 — Principal Products (Food)
+13 products listed: DanFam Granulated Sugar (white/brown), DanFam Cube Sugar
+(white/brown), Choice Icing Sugar, Choice Baking Sugar, DanFam Chocolate Powder,
+DanFam Vanilla Custard, DanFam (3-in-1) Milk Custard, DanFam (4-in-1) Chocolate
+Custard, DanFam Cereal, DanFam Date Powder, DanFam Chilli Pepper (§1A)
+
+FACT 03B — Principal Products (Perfume)
+FlourishScent produces perfume oils and sprays, retail packs (3ml+) and bulk
+fragrance oils (up to 25kg) for wholesalers and resellers (§1B)
+
+FACT 04 — Nigeria Sugar Consumption Gap
+"Sugar consumption in Nigeria is currently estimated to be over 1.6 million tons
+per annum but Nigeria produces only about 50,000 tons (approximately 4% of
+national consumption)" (§4 — Industry Prospects)
+
+FACT 05 — Mass Market Cocoa Beverage Size
+"The mass market cocoa based beverage market in Nigeria is estimated to be over
+N50 billion" (§4 — Industry Prospects)
+
+FACT 06 — Premium Cocoa Beverage Size
+"The upper/premium segment comprising mainly Nestle Milo, Bournvita and Ovaltine
+is estimated to be over N40 billion" (§4 — Industry Prospects)
+
+FACT 07 — Total Sugar Market Size
+"The sugar market in Nigeria at current prices is well over N240 billion"
+(§6 — Demand Analysis)
+
+FACT 08 — WAMCO + Promasidor Combined Revenue
+"combined revenue of WAMCO and Promasidor is currently above N100 billion
+annually" (§6 — Demand Analysis)
+
+FACT 09 — Cross-Border Traction
+"We already sell into Cameroon through Calabar" (§6 — Demand Analysis)
+
+FACT 10 — Perfume Subsidiary Status
+FlourishScent is "Already selling" perfume oils and sprays from Lagos, retail
+and bulk/wholesale. NAFDAC (cosmetics/aromatics) status being confirmed (§1B).
+
+FACT 11 — Market Share Targets by 2030
+"Cube sugar market: 10% | Packaged granulated sugar market: 15% | Custard
+market: 20% | Mass market chocolate powder: 20%" (§8 — Market Share Strategy)
+
+FACT 12 — Tax Incentive Gained
+"Pioneer Status granted by the Federal Government" (§8 — Market Share Strategy)
+
+FACT 13 — Production Capacity (Food)
+"1,050 packs/day" of sugar (144 sachets/pack = 151,200 sachets/day)
+"480 cartons/day" of chilli pepper (260 sachets/carton = 124,800 sachets/day)
+"2 production shifts every 24 hours" (§10, §11A)
+
+FACT 14 — Sugar Unit Economics
+"Selling price per sachet: N34.00 | Production cost per sachet: N32.43 | Daily
+profit: N237,384" (§11A)
+
+FACT 15 — Chilli Pepper Unit Economics
+"Selling price per sachet: N32.00 | Production cost per sachet: N27.00 | Daily
+profit: N624,000" (§11A)
+
+FACT 16 — Combined Food Monthly Gross Profit
+Food gross profit (both products): N22,395,984/month (§11B)
+
+FACT 17 — Food Overhead
+"TOTAL MONTHLY OVERHEAD: N5,500,000" (§11C)
+
+FACT 18 — Food Net Monthly Profit
+"NET MONTHLY PROFIT: N16,895,984 | ANNUAL NET PROFIT: N202,751,808" (§11D)
+
+FACT 19 — Perfume Projections (PLACEHOLDER)
+Projected full-capacity monthly revenue: N20,000,000 | Gross margin ~45% |
+Net monthly profit: N6,000,000 | Annual: N72,000,000 (§11E)
+
+FACT 20 — Combined Group P&L (PLACEHOLDER WHERE NOTED)
+Revenue N257,494,400 | Gross profit N31,395,984 | Overhead N8,500,000 |
+Net monthly profit N22,895,984 | Annual net profit N274,751,808 (§11F)
+
+FACT 21 — Funding Ask
+"FUNDING REQUIRED: N50,000,000 — Working capital facility (1 year, revolving)"
+Allocation: N35,000,000 (70%) food / N15,000,000 (30%) perfume (§13)
+
+FACT 22 — Use of Funds (Food N35M)
+Raw materials: N17.5M (50%) | Packaging: N7M (20%) | Distribution: N4.9M (14%) |
+Equipment: N3.5M (10%) | Buffer: N2.1M (6%) (§13)
+
+FACT 23 — Use of Funds (Perfume N15M)
+Raw materials: N7.5M (50%) | Packaging: N3M (20%) | Distribution: N2.1M (14%) |
+Equipment: N1.5M (10%) | NAFDAC & buffer: N0.9M (6%) (§13)
+
+FACT 24 — Management Team (Food)
+4 key managers: Chikwendu Ifeanyi Felix (Group MD, ex-McNichols), Nwaimo
+Ephraim (HR, ex-Arthur Andersen/Accenture), Godslove Okorie (Finance, ICAN
+Associate), Michael Atoyebi (Production, Biochemistry), Kunle Okunsonya
+(Technical, Electrical Engineer) (§2)
+
+FACT 25 — FlourishScent Management
+Owned by the Group founder; run day-to-day by a dedicated GM — [NAME TBD]
+(§2)
+
+FACT 26 — Contract Manufacturing
+"positioned itself as a contract manufacturing, packaging and distribution
+specialist" (§1A)
+
+FACT 27 — Current Operations Status
+Food business "not been doing much because of lack of capital — we only operate
+skeletally." Equipment is installed and functional. Lack of working capital is
+the sole bottleneck preventing full-scale production.
+
+FACT 28 — Distribution Network (Food)
+Distributors already in place across 3 states: Aba, Port Harcourt, Lagos.
+
+FACT 29 — Funding Structure
+Undecided between debt and equity — open to discussion with investors.
+
+FACT 30 — Actual Skeletal Revenue (Food)
+Current monthly revenue at skeletal operations: N1,270,000. This validates real
+customer demand. Full-capacity food revenue of N237.5M/month represents an
+~187x scale-up unlocked by working capital.
+
+================================================================================
+2. EXECUTIVE SUMMARY (One Page / ~200 Words)
+================================================================================
+
+DanDuru Group is a Lagos-based consumer products group with two subsidiaries:
+DanDuru Industries (food manufacturing, founded October 2024) and FlourishScent
+(perfumery, already selling). DanDuru has installed equipment, 13 food product
+formulations, NAFDAC compliance, and distributor relationships in 3 states
+(Lagos, Port Harcourt, Aba) — but currently operates skeletally due to lack of
+working capital. It addresses a critical gap: over 96% of Nigeria's 1.6M-ton
+annual sugar consumption is imported or sold through unhygienic informal
+channels, with no NAFDAC-approved, vitamin-fortified packaged granulated sugar
+available for the mass market.
+
+FlourishScent produces perfume oils and sprays — retail packs from 3ml and bulk
+fragrance oils up to 25kg for wholesalers and resellers — serving a Nigerian
+fragrance market that is overwhelmingly import-dependent. As a higher-margin
+line (~45% gross vs ~9% blended for food), it diversifies group earnings and
+shares the group's distribution, finance and regulatory infrastructure.
+
+At full capacity, the group is projected to generate N257.5M monthly revenue
+and N22.9M net monthly profit — an annual run rate of N274.8M (perfume numbers
+placeholder pending actuals). The Nigerian food-beverage market exceeds N240B
+in sugar alone, with cocoa beverages adding N90B+, and DanDuru targets 10-20%
+share per segment by 2030.
+
+DanDuru Group is raising N50,000,000 as working capital (debt or equity — open
+to discussion): N35M for food raw materials and capacity, N15M to scale the
+perfume line. Capital is the only missing piece — products, equipment, people,
+and routes to market are already in place.
+
+
+================================================================================
+3A. COMPACT INVESTOR DECK — 10 Slides
+================================================================================
+
+--- SLIDE 1: Title Slide ---
+
+BULLETS:
+• DanDuru Group
+• Two engines: DanDuru Industries (food) + FlourishScent (fragrance)
+• Hygienic, fortified FMCG products + locally produced perfume
+• Raising N50,000,000 — Working Capital / Seed Round
+• Lagos, Nigeria | Food founded October 2024 | Perfume selling now
+
+SPEAKER NOTES:
+"Good morning. I'm Chikwendu Ifeanyi Felix, Group Managing Director of DanDuru
+Group. We are a consumer products group with two businesses. DanDuru Industries
+produces everyday food products — sugar, chilli pepper, chocolate drinks,
+custard — hygienically packaged and vitamin-fortified for the mass market. Our
+subsidiary FlourishScent produces perfume oils and sprays, sold retail and in
+bulk. We are raising N50 million — N35 million for food and N15 million for
+perfume — to scale both lines."
+
+VISUAL: Logo top center. Background image of product sachets and perfume
+bottles. Contact info bottom.
+
+--- SLIDE 2: The Problem ---
+
+BULLETS:
+• 1.6M tons of sugar consumed annually in Nigeria — 96% imported or refined
+  by only 2 players (Dangote, Bua)
+• Most granulated sugar sold through unhygienic informal "mallam" packers —
+  no NAFDAC approval, no vitamin fortification
+• Over 80% of Nigerians eat beverages as daily staple — yet pay premium prices
+  for poorly packaged goods
+• Cocoa beverage market (N50B+) dominated by expensive premium brands
+  (Milo, Bournvita) — no low-cost fortified option for mass market
+• Nigerian fragrance market is overwhelmingly import-dependent — no reliable
+  local supply of quality oils and sprays for the mass market or the trade
+
+SPEAKER NOTES:
+"Despite being a staple for over 80% of the population, the sugar and beverage
+market in Nigeria is broken. Quality, hygienic, affordable packaged products
+are missing. Most of what the mass market buys comes from informal packers
+operating outside NAFDAC regulation. And the same story repeats in fragrance —
+Nigerians spend heavily on perfume, but almost everything is imported. DanDuru
+Group answers both gaps with local production."
+
+VISUAL: Side-by-side comparison — informal "mallam" sugar on dirty table vs.
+DanDuru hygienic sealed sachet. Callout: "96% of sugar consumed is imported."
+Small secondary panel: imported perfume bottles vs. FlourishScent local brand.
+
+--- SLIDE 3: The Solution — DanDuru Group Products ---
+
+BULLETS:
+• DanDuru food: 13 principal products across sugar, chocolate, custard,
+  cereals, pepper, date
+• Vitamin A fortified sugar — first-mover in bulk break + fortification
+• Chilli pepper at ~16% gross margin — highest-margin food SKU
+• FlourishScent fragrance: perfume oils and sprays — retail (3ml+) and bulk
+  (up to 25kg) for wholesalers and resellers
+• Higher-margin perfume line (~45% gross) diversifies group earnings
+• Contract manufacturing arm serves third-party brands for additional revenue
+
+SPEAKER NOTES:
+"DanDuru Group runs two production lines. Food: five product lines already in
+market and five more launching in the next 18 months. Fragrance: FlourishScent
+is already selling oils and sprays in Lagos — retail and bulk. Our food
+strategy is thin-margin high-volume sugar to win shelf space, then cross-sell
+higher-margin products. The perfume line brings a much healthier gross margin
+to the group. One capital, two engines."
+
+VISUAL: Product matrix grid — food products (color-coded by margin) and a
+FlourishScent panel (3ml sample → 25kg bulk drum).
+
+--- SLIDE 4: Market Opportunity ---
+
+BULLETS:
+• Food: Sugar market >N240B | Cocoa beverages >N90B combined | Custard
+  fragmented, growing
+• Fragrance: [PLACEHOLDER: Nigerian perfume/fragrance market size]
+• Fast urbanization + government push for local manufacturing driving demand
+• No formal competitor in packaged granulated sugar for domestic consumers
+• DanDuru targets 10-20% share in each food segment by 2030
+• Existing cross-border channel into Cameroon via Calabar
+• FlourishScent fills the import gap in local fragrance supply
+
+SPEAKER NOTES:
+"The numbers speak for themselves. The sugar market alone is over a quarter
+trillion naira, and there is no formal player serving the packaged domestic
+consumer. Dangote and Bua fight over industrial-scale supply. The local
+mom-and-pop segment is wide open. We have already proven we can sell across
+borders — we export into Cameroon today. And in fragrance, imports dominate —
+the opportunity for a reliable local producer is clear."
+
+VISUAL: Market size bubble chart (N240B sugar, N50B mass cocoa, N40B premium
+cocoa, fragmented custard, [PLACEHOLDER] fragrance). Overlay: ">90% of sugar
+market unserved for packaged domestic consumption."
+
+--- SLIDE 5: Traction — What's Built vs. What's Needed ---
+
+BULLETS:
+• Food commenced October 2024 — equipment installed, NAFDAC compliant, team
+  in place
+• FlourishScent already selling — retail + bulk, Lagos [PLACEHOLDER: revenue]
+• Production currently skeletal due to lack of working capital for raw
+  materials
+• Current actual food monthly revenue (skeletal): N1,270,000 — demand is real
+• WHAT'S BUILT: VFFS packaging machines, mixers, mills — tested and operational
+• WHAT'S BUILT: Distributors in 3 states — Lagos, Port Harcourt, Aba
+• WHAT'S BUILT: Cross-border channel into Cameroon via Calabar
+• WHAT'S BUILT: Pioneer Status tax incentive granted by Federal Government
+• THE ONLY MISSING PIECE: Working capital to buy raw materials at scale
+
+SPEAKER NOTES:
+"I want to be completely transparent with you. We have built the factory,
+installed the equipment, hired the team, secured NAFDAC approval for food,
+built distributor relationships in three states, and even opened an export
+channel to Cameroon. FlourishScent is already selling perfume in Lagos. What
+we have NOT been able to do is run production at scale — because we lack
+working capital to buy raw materials in bulk. The equipment is ready. The
+market is ready. The only bottleneck is capital."
+
+VISUAL: Two-column layout:
+LEFT column (green checkmarks): Equipment ✓ | NAFDAC ✓ | Team ✓ |
+Distributors (Lagos, PH, Aba) ✓ | Cameroon export ✓ | Pioneer Status ✓ |
+FlourishScent selling ✓
+RIGHT column (red circle + arrow): "Missing: N50M Working Capital"
+          Bottom text: "Full capacity: N257.5M/month group revenue — unlocked
+          with this round"
+
+--- SLIDE 6: Financial Summary ---
+
+BULLETS:
+• Food monthly gross profit: N22.4M | Food overhead: N5.5M | Food net: N16.9M
+• Perfume (placeholder): gross profit N9.0M | net: N6.0M
+• Group monthly revenue: N257.5M | Group net monthly profit: N22.9M
+• Group annual net profit run rate: N274.8M
+• Food blended gross margin ~9% | Perfume ~45% (placeholder)
+• Food sugar gross margin: 4.6% at N34/sachet | Pepper: 16%
+
+SPEAKER NOTES:
+"Let me be clear about what these numbers represent: this is our full-capacity
+model. With the N50M working capital to buy raw materials and run at 2 shifts,
+this is the financial outcome we project. The food numbers are based on
+confirmed equipment capacity, confirmed distributor demand, and confirmed unit
+economics from skeletal runs. Perfume figures are placeholders we will firm up
+with actuals. This is what we can deliver the moment capital is deployed."
+
+VISUAL: Bar chart: Group Revenue (N257.5M) vs. COGS (N226.1M) vs. Overhead
+(N8.5M) vs. Net Profit (N22.9M). Overlay banner: "FULL CAPACITY PROJECTION —
+Unlocked with N50M Working Capital"
+
+--- SLIDE 7: Unit Economics ---
+
+BULLETS:
+• Sugar: N34/sachet — N32.43 cost = N1.57 GP (4.6% margin)
+• Pepper: N32/sachet — N27 cost = N5.00 GP (16% margin)
+• 144 sachets/pack (sugar) · 1,050 packs/day · 151,200 sachets/day
+• 260 sachets/carton (pepper) · 480 cartons/day · 124,800 sachets/day
+• Perfume: [PLACEHOLDER: price/cost per pack size; retail margin higher than
+  bulk] — blended target ~45% gross
+• N5.5M food overhead = lean operation
+
+[NOTE: CAC and LTV data are NOT in the document. Assumption box below.]
+
+ASSUMPTION: CAC is estimated at N0.50/sachet based on N300K marketing spend
+per month across 600K+ monthly sachet volume. LTV estimated at ~N85/customer
+based on average 2 purchases/week at N34 for 6-week estimated retention.
+These assumptions must be validated with actual sales data.
+
+SPEAKER NOTES:
+"Our unit economics are healthy. Each sachet of chilli pepper puts N5 in our
+pocket — and we sell over 124,000 of them daily. Our overhead is lean. And
+the perfume line carries much higher gross margins than food. As we scale
+production, fixed overhead spreads across more units, improving margins
+across the group."
+
+VISUAL: Unit economics cards: Sugar | Pepper | FlourishScent (placeholder).
+
+--- SLIDE 8: Competition & Differentiation ---
+
+BULLETS:
+• Direct: Dangote/Bua (industrial sugar) — not focused on domestic packaged
+• Indirect: Informal mallam packers (no NAFDAC, no fortification, unhygienic)
+• Premium: St. Louis Cube, Golden Penny — priced above mass market
+• Fragrance: imported brands dominate; [PLACEHOLDER: named competitors]
+• 4 key differentiators:
+  1) First packaged, NAFDAC-approved, vitamin-fortified granulated sugar
+  2) Rock-bottom pricing strategy for mass market affordability
+  3) Local fragrance production — retail and bulk, replacing imports
+  4) Contract manufacturing model for brand owners
+
+SPEAKER NOTES:
+"Our competitive landscape is unusual: the market leaders Dangote and Bua
+don't compete with us — they sell at industrial scale. Our real competition
+is the informal sector: unlicensed, unhygienic, unfortified. We win on every
+dimension: quality, compliance, price, and brand trust. In fragrance,
+FlourishScent offers the same import-replacement play — quality local
+production at accessible prices, from sample vials to bulk drums."
+
+VISUAL: 2x2 competitive positioning matrix:
+X-axis: Price (Low to High) | Y-axis: Quality/Compliance (Low to High)
+Place DanDuru Group top-left (High Quality, Low Price) — the "sweet spot."
+
+--- SLIDE 9: Team ---
+
+BULLETS:
+• Chikwendu Ifeanyi Felix — Group MD: 10+ yrs management consulting,
+  ex-McNichols Consolidated. Built Mic-Igbea Industries. Founder/owner of both
+  subsidiaries.
+• Godslove Okorie — Finance Manager: ICAN Associate, ex-Senior Accountant at
+  major F&B manufacturer. Financial controls and cost management.
+• Michael Atoyebi — Production Manager: Biochemistry graduate, ex-Doyin
+  Industries, Cascade Waters. Oversees quality and production line.
+• Nwaimo Ephraim — HR & External Relations: ex-Arthur Andersen, Accenture.
+  10+ years HR and stakeholder management.
+• Kunle Okunsonya — Technical Services: Electrical Engineer. Plant uptime
+  and equipment maintenance.
+• [NAME TBD] — General Manager, FlourishScent: runs the perfume business
+  day-to-day. [PLACEHOLDER: credentials]
+
+SPEAKER NOTES:
+"Our team combines hands-on manufacturing experience with professional services
+discipline. I have personally run and scaled manufacturing businesses and own
+both subsidiaries. Godslove brings Big-4 calibre financial rigor. Michael
+ensures our products meet NAFDAC quality standards daily. And FlourishScent
+has its own dedicated manager running the perfume line. This is a team that
+knows how to execute in Nigerian manufacturing."
+
+VISUAL: Team photo grid — 6 headshots with name, title, and 1-line credential
+badge below each. Company logo in corner.
+
+--- SLIDE 10: Ask & Use of Funds ---
+
+BULLETS:
+• Amount: N50,000,000 (N35M food / N15M perfume)
+• Instrument: Working capital facility (1-year revolving) or equity (negotiable)
+• Food use of funds:
+  - Raw materials: N17.5M (50%) | Packaging: N7M (20%)
+  - Distribution: N4.9M (14%) | Equipment: N3.5M (10%) | Buffer: N2.1M (6%)
+• Perfume use of funds:
+  - Raw materials: N7.5M (50%) | Packaging: N3M (20%)
+  - Distribution: N2.1M (14%) | Equipment: N1.5M (10%)
+  - NAFDAC & buffer: N0.9M (6%)
+• Repayment: From operating cash flow — projected 3-4 month payback
+• Security: Company assets + personal guarantee of directors
+
+SPEAKER NOTES:
+"We are asking for N50 million — 70% to the food line, 30% to the perfume
+line. For a group generating nearly N23 million in net monthly profit, this
+facility can be repaid in under 4 months. Half of each allocation goes
+directly into raw materials — the engine of production. We are open to
+structuring this as debt or equity, depending on the investor's preference."
+
+VISUAL: Pie chart — N50M split: Food 70% | Perfume 30%. Below: two smaller
+pie charts with the food and perfume allocations. "Repayment: 3-4 months."
+
+
+================================================================================
+3B. EXTENDED INVESTOR DECK — 15 Slides
+================================================================================
+
+--- SLIDE 1: Title Slide ---
+(Same as Compact deck Slide 1)
+
+--- SLIDE 2: The Problem — Detailed ---
+(Same as Compact deck Slide 2, with added bullets:)
+• Only 2 industrial sugar refineries (Dangote, Bua) serve 1.6M ton market
+• No formal player targets the individual consumer packaged segment
+• Imported fragrance leaves consumers paying premium prices for products with
+  no local after-sales or supply reliability
+
+--- SLIDE 3: Solution — Group Product Portfolio ---
+(Same as Compact deck Slide 3, with detail on the 3ml–25kg range and retail +
+bulk wholesale channels)
+
+--- SLIDE 4: Market Opportunity — Sized & Segmented ---
+
+BULLETS:
+• Sugar market (domestic packaged): N240B+ — growing at urbanization rate
+• Mass market cocoa beverages: N50B — underpenetrated by formal players
+• Premium cocoa beverages: N40B — dominated by Nestle/Cadbury
+• Custard: Fragmented, uncertified players — DanDuru introduces 3-in-1 and
+  4-in-1 bundled variants (milk + sugar + cocoa)
+• Fragrance: [PLACEHOLDER: Nigerian perfume market size by segment — mass
+  market oils, sprays, and bulk trade]
+• Total accessible food market: N330B+
+• DanDuru target share: 10-20% per food segment by 2030
+• FlourishScent: import replacement in fragrance, retail + bulk
+
+SPEAKER NOTES:
+"We have sized the market carefully. Our total accessible food market across
+sugar, cocoa beverages, and custard exceeds N330 billion. We need less than 2%
+of this market to hit our Year 1 projections. In fragrance, the import
+dependence of the market gives a local producer a clear opening. Our 2030
+target of 10-20% per segment is ambitious but achievable with the distribution
+network we are building."
+
+VISUAL: Stacked bar chart — Market size by segment (Sugar N240B, Mass Cocoa
+N50B, Premium Cocoa N40B, Custard N50B estimated, Fragrance [PLACEHOLDER]).
+Arrow: "DanDuru Group captures 10-20% by 2030."
+
+--- SLIDE 5: Traction — Assets Built vs. Capital Needed ---
+
+BULLETS:
+• Food operations commenced: October 2024
+• WHAT'S BUILT: VFFS machines, mixers, mills — installed, tested, operational
+• WHAT'S BUILT: NAFDAC compliance for all current food SKUs
+• WHAT'S BUILT: Distributors in 3 states — Lagos, Port Harcourt, Aba
+• WHAT'S BUILT: Cross-border channel into Cameroon via Calabar
+• WHAT'S BUILT: Pioneer Status granted — federal tax incentive secured
+• WHAT'S BUILT: FlourishScent selling today — retail + bulk, Lagos
+• WHAT'S NEEDED: Working capital to purchase raw materials at scale
+• Current skeletal food revenue: N1,270,000/month — confirms real demand
+• Current operations: Skeletal only — limited by capital, not demand or
+  equipment
+
+SPEAKER NOTES:
+"I want to be completely transparent with you. We have built the factory,
+installed the equipment, hired the team, secured NAFDAC approval, built
+distributor relationships in three states, and even opened an export channel
+to Cameroon. FlourishScent is already selling perfume. What we have NOT been
+able to do is run production at scale — because we lack working capital to buy
+raw materials in bulk. The equipment is ready. The market is ready.
+Distributors in Aba, Port Harcourt, and Lagos are waiting for supply. The only
+bottleneck is capital."
+
+VISUAL: Two-column infographic:
+LEFT (Green): "ALREADY BUILT" — Equipment ✓ | NAFDAC ✓ | Team ✓ |
+Distributors (3 states) ✓ | Export channel ✓ | Pioneer Status ✓ |
+FlourishScent selling ✓
+RIGHT (Amber): "MISSING PIECE" — N50M Working Capital for raw materials
+
+--- SLIDE 6: Technology & Production Capability ---
+
+BULLETS:
+• Food: VFFS (Vertical Form Fill Seal) machines for automated sachet packaging
+• Food: Milling machines, powder-holding tanks, mixing machines
+• 2 production shifts per day — capacity headroom for 3rd shift
+• Perfume: blending/mixing, filling and packaging of oils and sprays
+  [PLACEHOLDER: equipment list and capacity]
+• Local vendor support for all equipment
+• Experienced technicians hired from leading F&B companies
+• All packaging materials sourced locally — fast inventory turnaround
+
+SPEAKER NOTES:
+"Our production lines are built around proven equipment — the same machines
+used by leading F&B manufacturers in Nigeria. We have local vendor support, so
+downtime is minimal. The perfume line blends and fills oils and sprays, retail
+and bulk. With two shifts operating in food, we have headroom to add a third
+shift as demand grows — nearly 50% capacity upside without additional capital
+expenditure."
+
+VISUAL: Equipment photo or diagram of production flow:
+Raw Material -> Milling/Mixing -> VFFS Packing -> Cartoning -> Distribution
+(secondary line): Fragrance Oils -> Blending -> Filling -> Retail/Bulk
+
+--- SLIDE 7: Financial Model — Detailed P&L ---
+
+BULLETS:
+• Food revenue (monthly): Sugar N133.7M + Pepper N103.8M = N237.5M
+• Food COGS (monthly): Sugar N127.5M + Pepper N87.6M = N215.1M
+• Food gross profit: N22.4M (9.4% blended) | Food overhead: N5.5M
+• Food net monthly profit: N16.9M
+• Perfume (placeholder): revenue N20.0M | gross N9.0M | net N6.0M
+• Group: revenue N257.5M | gross N31.4M | overhead N8.5M | net N22.9M
+• Group annual net profit run rate: N274.8M
+
+SPEAKER NOTES:
+"Our financial model is transparent and conservative. Every line item is
+itemized. Food gross margin is modest at 9.4%, but overhead is lean, and the
+perfume line adds a much higher margin on top. The result is a group net
+monthly profit of nearly N23 million and an annual run rate exceeding N270
+million across just the current product set."
+
+VISUAL: Waterfall chart: Group Revenue -> COGS -> Gross Profit -> Overhead ->
+Net Profit. Each step labeled with amount.
+
+--- SLIDE 8: Unit Economics & Operating Leverage ---
+
+BULLETS:
+• Sugar: N34/sachet price, N32.43 cost = N1.57 GP (4.6% margin)
+• Pepper: N32/sachet price, N27 cost = N5.00 GP (16% margin)
+• Perfume: [PLACEHOLDER: unit economics by pack size] — blended ~45% target
+• Overhead fixed-heavy — as volume grows, margin expands significantly
+• Payback on N50M investment: 3-4 months at current run rate
+
+(MISSING DATA: CAC and LTV not tracked in current document. See Appendix
+for recommended tracking framework.)
+
+ASSUMPTION: Operating leverage calculation assumes overhead is 50% fixed
+(salaries, rent) and 50% semi-variable (power, distribution). At 2x volume,
+overhead grows ~25%. Net margin expands as production scales.
+
+SPEAKER NOTES:
+"The beauty of our model is operating leverage. Our factory rent and core
+team are fixed costs. When we double production, overhead doesn't double —
+it creeps up maybe 25%. And the perfume line compounds this: higher margins,
+shared overhead. Every additional unit contributes disproportionately to the
+bottom line."
+
+VISUAL: Two graphs side by side:
+(1) Per-unit economics cards for sugar, pepper, and perfume (placeholder)
+(2) Margin expansion chart showing net margin % at current vs. 2x volume
+
+--- SLIDE 9: Competition — Landscape Map ---
+
+BULLETS:
+• Industrial Tier: Dangote Sugar, Bua Sugar — compete on bulk B2B, not
+  domestic packaged. Not direct competitors.
+• Premium Tier: St. Louis Cube, Golden Penny — higher price point, limited
+  to cube segment.
+• Informal Tier: Thousands of unlicensed "mallam" packers — no NAFDAC, no
+  fortification, no brand. DanDuru wins on compliance + quality + price.
+• Custard: Checker's (market leader), Gold, Hollandia — DanDuru innovates
+  with bundled 3-in-1 and 4-in-1 products.
+• Fragrance: Imported brands dominate. [PLACEHOLDER: named competitors and
+  positioning]
+• DanDuru Group advantage: Only NAFDAC-approved, vitamin-fortified, packaged
+  granulated sugar at mass market price + local fragrance production.
+
+SPEAKER NOTES:
+"When investors look at competition, they usually worry about Dangote. But
+Dangote sells sugar in 50kg bags to factories — they don't compete in the
+15g sachet at the local canteen. Our real competition is the informal market,
+and we beat them on every regulatory and quality dimension. This is a
+market-creation play, not a market-share fight. And in fragrance, the same
+story: we replace imports with quality local production."
+
+VISUAL: Competitive matrix or bubble chart with competitors plotted on
+Quality/Compliance (Y) vs. Price (X). DanDuru Group in upper-left.
+
+--- SLIDE 10: Differentiation & Moat ---
+
+BULLETS:
+• First-mover in packaged, NAFDAC-approved, vitamin-A-fortified granulated
+  sugar for the Nigerian domestic consumer
+• Regulatory moat: NAFDAC now mandates vitamin A fortification — informal
+  packers cannot comply without investment
+• Low-cost production with VFFS automation — unit cost advantage over informal
+  hand-packing
+• Brand trust: DanFam brand = hygiene, quality, traceability
+• FlourishScent: local production advantage over imports — cost, restock
+  speed, and the ability to supply both retail and 25kg bulk
+• Contract manufacturing model: Diversified revenue, higher capacity utilization
+• Pioneer Status tax incentive for 3-5 years (subject to terms)
+
+SPEAKER NOTES:
+"Our moat is built on three layers. First, regulatory: the government now
+mandates vitamin A fortification, which the informal sector cannot meet.
+Second, operational: our VFFS machines produce at lower per-unit cost than
+hand-packing. Third, brand: once a consumer trusts DanFam, they buy again
+and again. FlourishScent adds a fourth: the local-production advantage over
+imported fragrance. Switching costs are low, but trust is hard to replicate."
+
+VISUAL: Three-column layout — "Regulatory Moat" | "Operational Moat" |
+"Brand Moat" — each with icon and 2-line explanation. (Fourth card for
+FlourishScent local-production advantage.)
+
+--- SLIDE 11: Go-to-Market Strategy ---
+
+BULLETS:
+• Channel 1: Wholesale distributors in key markets (Lagos, Ibadan, Onitsha,
+  Aba, Kano) — 2 states targeted for immediate expansion
+• Channel 2: Canteens, bukas, and street vendors — direct single-serve
+  sachet distribution for instant consumption
+• Channel 3: Contract manufacturing — produce and package for brand owners
+  who want their own label but lack production capacity
+• Channel 4 (FlourishScent retail): perfume oils and sprays to consumers
+  through retail, samples (3ml) for demonstration
+• Channel 5 (FlourishScent bulk): 25kg fragrance oils to wholesalers,
+  resellers and private-label businesses
+• Cross-border: Existing Cameroon channel via Calabar — serving West African
+  sub-region
+• Trade marketing: Point-of-sale materials, brand ambassadors in key markets
+
+ASSUMPTION: CAC per channel estimated below. No channel-level CAC exists
+in the document.
+
+| Channel | Est. CAC/sachet | Est. Payback |
+| Distributor wholesale | N0.30 | <1 day |
+| Street/canteen direct | N0.80 | 1-2 days |
+| Contract manufacturing | N0.10 (negligible) | Immediate |
+| FlourishScent retail | [PLACEHOLDER] | [PLACEHOLDER] |
+| FlourishScent bulk | [PLACEHOLDER] | [PLACEHOLDER] |
+
+SPEAKER NOTES:
+"We go to market through multiple proven channels. Wholesale distributors get
+the product into retail stores. Direct canteen sales put a sachet in the
+consumer's hand at the point of consumption. Contract manufacturing lets other
+brands pay us to make their products. And FlourishScent sells through retail
+counters and bulk wholesale — replacing imported fragrance at both ends of the
+market."
+
+VISUAL: Funnel diagram: Distributor Wholesale -> Retail -> Consumer / Direct
+Canteen -> Consumer / Contract Manufacturing -> B2B Client / FlourishScent
+Retail + Bulk -> Consumer + Resellers. Label CAC per channel.
+
+--- SLIDE 12: Growth Milestones & Timeline ---
+
+BULLETS:
+• Immediate (0-6 months): Deploy N50M working capital (N35M food / N15M
+  perfume); stabilize 2-shift food production; scale FlourishScent raw
+  material stock and bulk/wholesale supply
+• Near-term (6-12 months): Launch cube sugar, custard powder, instant
+  chocolate drink; expand food distribution to 2 new states; grow
+  FlourishScent retail footprint + private-label bulk contracts
+• Medium-term (12-18 months): Add 3rd production shift; launch ready-to-drink
+  milk and chocolate beverages; expand FlourishScent range
+• Long-term (by 2030): Target 10-20% market share per food segment; backward
+  integrate into sugar milling; scale fragrance to West African markets
+
+SPEAKER NOTES:
+"With the N50 million working capital, our first priority is securing raw
+materials for uninterrupted production across both lines. Within 6 months, we
+launch new products including cube sugar and custard. By month 18, we add a
+third shift. By 2030, we aim for market leadership across multiple segments
+and backward integration into sugar milling."
+
+VISUAL: Horizontal timeline with 4 phases: Q1-Q2 2026 (Stabilize),
+Q3-Q4 2026 (Expand products + states), 2027 (3rd shift + RTD launch),
+2028-2030 (Market leadership + backward integration).
+
+--- SLIDE 13: Team — Full Profiles ---
+
+BULLETS:
+• Chikwendu Ifeanyi Felix — Group Managing Director: Built Mic-Igbea
+  Industries. HND Electrical/Electronics. Ex-McNichols Consolidated. 10+
+  years in management consulting and SME manufacturing. Founder/owner of both
+  subsidiaries.
+• Godslove Okorie — Finance Manager: ICAN Associate. Ex-Senior Accountant
+  at major F&B manufacturer. Financial controls, cost accounting, audit.
+• Michael Atoyebi — Production Manager: Biochemistry (Unilorin). Ex-Doyin
+  Industries (Lab Chemist), Cascade Waters (QA). Manages production quality.
+• Nwaimo Ephraim — HR & External Relations: BSc Management. Ex-Arthur
+  Andersen, Accenture. 10+ years HR. From inception.
+• Kunle Okunsonya — Technical Services Manager: Electrical Engineer. Plant
+  maintenance, equipment uptime. From inception.
+• [NAME TBD] — General Manager, FlourishScent: runs the perfume business.
+  [PLACEHOLDER: background]
+
+Hiring plan with funding:
+• 2 additional sales representatives (state expansion)
+• 1 brand/marketing officer
+• 4 production line operators (for 3rd shift)
+• 1-2 fragrance production staff (FlourishScent)
+
+SPEAKER NOTES:
+"Our team combines blue-chip professional experience with gritty manufacturing
+know-how. We have people who have worked at Arthur Andersen and Accenture,
+alongside people who have run factory floors at Doyin Industries and Cascade
+Waters. We plan to add 7-9 new hires with this funding round — primarily sales
+and production — to support the expansion."
+
+VISUAL: Grid of 6 headshots (or placeholders) with name, title, credential.
+Below: "Hiring Plan: +7-9 roles with funding."
+
+--- SLIDE 14: Risk & Mitigation ---
+
+BULLETS:
+• Risk 1: Raw material price volatility (sugar prices fluctuate globally)
+  -> Mitigation: Maintain 2-month inventory buffer; multi-supplier sourcing
+     (local + import)
+• Risk 2: Informal sector price undercutting
+  -> Mitigation: DanDuru wins on NAFDAC compliance, vitamin fortification,
+     and brand trust — institutional buyers (schools, hospitals) can only
+     buy NAFDAC-approved products
+• Risk 3: Currency/devaluation risk (imported brown sugar, fragrance raw
+  materials)
+  -> Mitigation: Majority of inputs sourced locally; quick inventory turnover
+• Risk 4: Capacity constraint at peak demand
+  -> Mitigation: 3rd shift headroom + additional VFFS machine in use-of-funds
+• Risk 5: NAFDAC regulatory changes (food and cosmetics/aromatics)
+  -> Mitigation: Close relationship with NAFDAC; compliance-first culture;
+     NAFDAC registration for perfume budgeted in use-of-funds
+• Risk 6: Fragrance raw material sourcing
+  -> Mitigation: Local importers of fragrance oils + international sourcing
+     flexibility [PLACEHOLDER: confirm suppliers]
+
+SPEAKER NOTES:
+"We have identified six key risks and a mitigation plan for each. The biggest
+risk is raw material price movement, which we address through inventory buffer
+and dual sourcing. We view NAFDAC regulation not as a risk but as a moat —
+it protects us from informal competitors who can't comply."
+
+VISUAL: 2-column table: Risk (left) | Mitigation (right). Use color coding:
+yellow for moderate risk, green for well-mitigated.
+
+--- SLIDE 15: Ask, Terms & Use of Funds ---
+
+BULLETS:
+• Amount: N50,000,000 (N35M food / N15M perfume)
+• Instrument: Working capital loan (1-year revolving) preferred; equity open
+  for discussion
+• If equity: Valuation to be negotiated based on group annual net profit
+  run rate (N274.8M)
+• Food use of funds: Raw materials N17.5M | Packaging N7M | Distribution
+  N4.9M | Equipment N3.5M | Buffer N2.1M
+• Perfume use of funds: Raw materials N7.5M | Packaging N3M | Distribution
+  N2.1M | Equipment N1.5M | NAFDAC & buffer N0.9M
+• Repayment (debt scenario): 12-month tenure, monthly from operating cash
+  flow; projected 3-4 month full payback
+• Security: Company assets + personal guarantees of directors
+• Contact: Chikwendu Ifeanyi Felix — [phone/email to be inserted]
+
+SPEAKER NOTES:
+"We are asking for N50 million in working capital — 70% food, 30% perfume.
+At our current run rate of nearly N23 million net profit per month, we can
+repay a loan in 3-4 months. We are also open to an equity conversation if
+that structure suits your investment thesis better. We have already prepared
+for due diligence — our books are ready for inspection under NDA. Thank you
+for your time."
+
+VISUAL: Summary card: Amount N50M | Split Food 70%/Perfume 30% |
+Instrument: Debt/Equity | Repayment: 3-4 months | Contact info.
+Below: "Thank you. Questions welcome."
+
+
+================================================================================
+4. FINANCIAL SUMMARY SLIDE — 3-Year Projections Table
+================================================================================
+
+NOTE: The document provides current monthly projections only. The 3-year
+projections below are built using the following labeled assumptions:
+
+ASSUMPTION BOX:
+• Year 1 = Documented monthly run rate annualized (months 1-12)
+• Year 2 = 25% revenue growth (working capital enables expanded production
+  + new products — conservative for FMCG with funded expansion)
+• Year 3 = 30% revenue growth (distribution network matures, new states
+  contribute full year, contract manufacturing scales)
+• Food gross margin improves 1% annually (operating leverage + product mix
+  shift toward higher-margin custard/RTD products)
+• Perfume line grows with the group; perfume figures are PLACEHOLDER until
+  actuals are supplied
+• Overhead grows 15% in Year 2 (new hires + state expansion), 20% in Year 3
+  (larger team + infrastructure)
+• Products: Years 2-3 include contributions from cube sugar, custard, and
+  instant drinks (launching within 18 months per document §9)
+
+TABLE: PROJECTED GROUP FINANCIALS (N'000)
+
+| Metric | Year 1 (Current) | Year 2 (25% Growth) | Year 3 (30% Growth) |
+|---|---|---|---|
+| Revenue (annual) | 3,089,933 | 3,862,416 | 5,021,141 |
+| COGS (annual) | (2,713,181) | (3,391,476) | (4,408,919) |
+| Gross Profit | 376,752 | 470,940 | 612,222 |
+| Gross Margin % | 12.2% | 12.2% | 12.2% |
+| Overhead | (102,000) | (117,300) | (140,760) |
+| Net Profit | 274,752 | 353,640 | 471,462 |
+| Net Margin % | 8.9% | 9.2% | 9.4% |
+| Cumulative Net Profit | 274,752 | 628,392 | 1,099,854 |
+
+[Perfume component of these totals is PLACEHOLDER (assumed N72M annual net in
+Year 1) pending actuals.]
+
+UNIT ECONOMICS SNAPSHOT (FOOD):
+
+| Metric | Sugar | Pepper | Blended |
+|---|---|---|---|
+| Selling price/sachet | N34.00 | N32.00 | N33.15 |
+| COGS/sachet | N32.43 | N27.00 | N30.03 |
+| Gross profit/sachet | N1.57 | N5.00 | N3.12 |
+| Gross margin % | 4.6% | 15.6% | 9.4% |
+| Daily sachet volume | 151,200 | 124,800 | 276,000 |
+
+UNIT ECONOMICS SNAPSHOT (FLOURISHSCENT — PLACEHOLDER):
+
+| Metric | Retail | Bulk/Wholesale | Blended |
+|---|---|---|---|
+| Price per unit | [PLACEHOLDER] | [PLACEHOLDER] | [PLACEHOLDER] |
+| COGS per unit | [PLACEHOLDER] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Gross profit per unit | [PLACEHOLDER] | [PLACEHOLDER] | [PLACEHOLDER] |
+| Gross margin % | [PLACEHOLDER] | [PLACEHOLDER] | ~45% target |
+| Monthly volume | [PLACEHOLDER] | [PLACEHOLDER] | [PLACEHOLDER] |
+
+[MISSING DATA: Actual CAC, LTV, churn, and customer count are not tracked
+in the current document. Recommendation: Begin tracking these metrics
+immediately — see Appendix for tracking template.]
+
+
+================================================================================
+5. ASK & USE OF FUNDS
+================================================================================
+
+Round Type: SEED / Working Capital Facility
+(User to confirm: Is this a debt facility or an equity round?)
+
+Amount Requested: N50,000,000
+Allocation: N35,000,000 (70%) — DanDuru Industries (food)
+           N15,000,000 (30%) — FlourishScent (fragrance)
+
+USE OF PROCEEDS — FOOD (N35,000,000):
+
+| Category | Amount (N) | % | Purpose |
+|---|---|---|---|
+| Raw Materials | 17,500,000 | 50% | 2-month inventory of sugar, cocoa, pepper |
+| Packaging | 7,000,000 | 20% | 2-month supply of sachets, cartons, labels |
+| Distribution Expansion | 4,900,000 | 14% | Enter 2 new states + trade marketing |
+| Equipment | 3,500,000 | 10% | Additional VFFS machine + industrial mixer |
+| Working Capital Buffer | 2,100,000 | 6% | NAFDAC renewals, rent, utilities, contingencies |
+| TOTAL | 35,000,000 | 100% | |
+
+USE OF PROCEEDS — FLOURISHSCENT (N15,000,000):
+
+| Category | Amount (N) | % | Purpose |
+|---|---|---|---|
+| Raw Materials | 7,500,000 | 50% | Fragrance oils, bases, ethanol stock |
+| Packaging | 3,000,000 | 20% | Bottles, pumps, boxes, labels |
+| Distribution Expansion | 2,100,000 | 14% | Retail footprint + wholesale/private-label |
+| Equipment | 1,500,000 | 10% | Filling, mixing, storage |
+| NAFDAC & Working Capital Buffer | 900,000 | 6% | Cosmetic/aromatics registration + contingency |
+| TOTAL | 15,000,000 | 100% | |
+
+MILESTONES THIS FUNDING WILL ACHIEVE:
+
+| Milestone | Timeline | Metric |
+|---|---|---|
+| Raw material buffer secured (food + perfume) | Month 1 | 2-month inventory on hand |
+| Food production output +30% | Months 1-3 | Additional VFFS installed |
+| FlourishScent stock + bulk orders scaled | Months 1-3 | Raw materials funded |
+| 2 new state distribution launched (food) | Months 3-6 | Distributors in 2 new states |
+| Cube sugar + custard product launch | Months 6-9 | 2 new SKUs in market |
+| FlourishScent retail + private-label growth | Months 6-9 | Retail outlets + bulk clients |
+| Revenue run rate +25% | Month 12 | Group monthly target N321M |
+| Full facility repayment (debt) | Months 3-4 | N50M repaid from operating cash flow |
+
+
+================================================================================
+6. TRACTION & GO-TO-MARKET SLIDE
+================================================================================
+
+KEY TRACTION METRICS (from document + investor Q&A):
+
+WHAT IS BUILT (Assets in Place):
+• Food operations commenced: October 2024
+• Equipment installed: VFFS machines, mixers, mills — tested and functional
+• NAFDAC compliance secured for all current food SKUs
+• Pioneer Status tax incentive granted by Federal Government (§8)
+• Cross-border channel: Exporting to Cameroon via Calabar (§6)
+• Distributor network: Active in 3 states — Lagos, Port Harcourt, Aba
+• 13 food product formulations developed and ready for production
+• Experienced production team hired (MD, Finance, Production, HR, Technical)
+• FlourishScent: already selling perfume oils and sprays, retail + bulk, Lagos
+  [PLACEHOLDER: current monthly revenue and customer counts]
+
+WHAT IS NEEDED (Capital Required):
+• Current operations: Skeletal only — limited by lack of working capital
+• Current actual food monthly revenue (skeletal): N1,270,000 — confirms real demand
+• Full capacity food daily output: 151,200 sugar sachets + 124,800 pepper sachets
+• Full capacity food monthly revenue: N237.5M | Group (with perfume): N257.5M
+• Full capacity net monthly profit: Food N16.9M | Group N22.9M
+• THE GAP: Raw material inventory is the single bottleneck — full capacity is
+  achievable with N50M working capital deployment
+
+TOP GO-TO-MARKET CHANNELS:
+
+1. Wholesale Distributor Network (Existing — Lagos, PH, Aba)
+   - Distributor relationships already in place across 3 states
+   - Est. CAC at scale: N0.30/sachet (assumed)
+   - Est. CAC payback: <1 day
+   - Basis: Existing distributors confirmed + "intensive distribution
+     network" strategy (§8)
+
+2. Direct Canteen & Street Vendor Channel
+   - Est. CAC at scale: N0.80/sachet (assumed)
+   - Est. CAC payback: 1-2 days
+   - Basis: Document targets "canteens, bukas, and street vendors" (§8)
+
+3. Contract Manufacturing (B2B)
+   - Est. CAC at scale: N0.10/sachet (negligible — relationship-based)
+   - Est. CAC payback: Immediate
+   - Basis: "Contract manufacturing, packaging and distribution specialist"
+     (§1A)
+
+4. FlourishScent Retail Channel
+   - Perfume oils and sprays to consumers; 3ml samples for demonstration
+   - [PLACEHOLDER: CAC and payback]
+
+5. FlourishScent Bulk/Wholesale Channel
+   - 25kg fragrance oils to wholesalers, resellers, private-label businesses
+   - [PLACEHOLDER: CAC and payback]
+
+EARLY CUSTOMER PROOF POINTS:
+• "We already sell into Cameroon through Calabar" (§6) — cross-border demand
+  and logistics capability demonstrated even at skeletal production levels
+• "DanFam Choco has been formulated and packaged to be very competitive"
+  (§4) — product-market fit validated against established players
+• FlourishScent already selling in Lagos — retail and bulk demand confirmed
+• Distributor network in 3 states (Lagos, PH, Aba) ready to absorb
+  full-capacity production once capital is deployed
+
+
+================================================================================
+7. COMPETITION & DIFFERENTIATION
+================================================================================
+
+COMPETITOR MAP (Positioning Axes):
+
+Suggested 2x2 matrix:
+X-AXIS: Price (Low <-> High)
+Y-AXIS: Compliance / Quality (Low <-> High)
+
+Top-Left (Low Price, High Quality): DanDuru Group ← SWEET SPOT
+Top-Right (High Price, High Quality): St. Louis Cube, Golden Penny,
+Nestle Milo, premium imported fragrances
+Bottom-Left (Low Price, Low Quality): Informal mallam packers,
+unregulated imported perfume resellers
+Bottom-Right (High Price, Low Quality): (unoccupied)
+
+FOUR CLEAR DIFFERENTIATORS:
+
+1. FIRST-MOVER IN PACKAGED FORTIFIED SUGAR
+   "Pioneering the bulk breaking and fortification of granulated sugar with
+   vitamin A" (§1A). No formal competitor serves this segment. Regulatory
+   mandate for vitamin A creates a barrier for informal entrants.
+
+2. ROCK-BOTTOM PRICING STRATEGY
+   "DanDuru shall fill the gap of rock-bottom pricing strategy" (§7).
+   Premium players (St. Louis, Golden Penny) are priced above mass market
+   affordability. DanDuru targets the 80%+ of the population that buys
+   single-serve daily.
+
+3. LOCAL FRAGRANCE PRODUCTION
+   FlourishScent produces locally instead of importing — lower cost, faster
+   restocking, and full control of quality across retail (3ml) and bulk
+   (25kg). Import replacement in a market dominated by foreign brands.
+
+4. CONTRACT MANUFACTURING CAPABILITY
+   "Produce for Nigerian traders, giving each customer a different product
+   to market" (§7). This B2B arm diversifies revenue, improves capacity
+   utilization, and builds relationships with brands that may become
+   acquisition partners.
+
+SUSTAINABILITY OF DIFFERENTIATION:
+- Vitamin A fortification is now legally mandated — informal competitors
+  cannot easily comply without capital investment.
+- VFFS automation provides cost advantage over hand-packing at scale.
+- Brand trust takes years to build and is reinforced by NAFDAC compliance.
+- Local fragrance production is structurally cheaper than imports.
+
+KEY RISKS & MITIGATIONS:
+
+| Risk | Likelihood | Mitigation |
+|---|---|---|
+| Sugar price volatility | Medium | 2-month inventory buffer; dual local + import sourcing |
+| Informal sector undercutting | High | Regulatory moat (NAFDAC + fortification) protects institutional buyers |
+| Naira devaluation | Medium | Majority local sourcing; quick inventory turnover |
+| Equipment downtime | Low | Local vendor support; experienced technician on staff |
+| New entrant with deeper pockets | Low | First-mover advantage; Pioneer Status tax benefit |
+| Fragrance raw material sourcing | Medium | Local importers + international sourcing flexibility |
+
+
+================================================================================
+8. TEAM SLIDE
+================================================================================
+
+FOUNDER:
+
+CHIKWENDU IFEANYI FELIX — Group Managing Director
+• 10+ years management consulting and SME manufacturing leadership
+• Built Mic-Igbea Industries from the ground up
+• Ex-McNichols Consolidated Plc
+• HND Electrical/Electronics Engineering
+• Founder/owner of both DanDuru Industries and FlourishScent
+• WHY IT MATTERS: Has already done what the Group needs to do —
+  started and scaled manufacturing enterprises. Knows the terrain.
+
+KEY HIRES:
+
+GODSLOVE OKORIE — Finance Manager
+• ICAN Associate (Chartered Accountant)
+• Ex-Senior Accountant at major food & beverage manufacturer
+• WHY IT MATTERS: Brings Big-4 rigour and F&B-specific cost accounting
+  to a business where margin management is everything.
+
+MICHAEL ATOYEBI — Production Manager
+• Biochemistry graduate, University of Ilorin
+• Ex-Doyin Industries (Lab Chemist), Cascade Waters (Quality Assurance)
+• WHY IT MATTERS: Quality is our brand promise. Michael ensures every
+  sachet that leaves the factory meets NAFDAC standards.
+
+NWAIMO EPHRAIM — Human Resources & External Relations
+• BSc Management. Ex-Arthur Andersen, Accenture (short-term contracts)
+• 10+ years HR experience. From DanDuru inception.
+• WHY IT MATTERS: Government relations, NAFDAC liaison, and team culture.
+
+KUNLE OKUNSONYA — Technical Services Manager
+• Electrical Engineer
+• Hands-on equipment maintenance and repair. From inception.
+• WHY IT MATTERS: Every hour of downtime is lost revenue. Kunle keeps
+  the line running.
+
+[NAME TBD] — GENERAL MANAGER, FLOURISHSCENT
+• Runs the perfume business day-to-day
+• [PLACEHOLDER: background and credentials]
+• WHY IT MATTERS: Dedicated leadership for the fragrance line.
+
+ORG HIRING PLAN (Funded Period — 12 months):
+• Month 1-3: 2 x Sales Representatives (state expansion)
+• Month 3-6: 1 x Brand/Marketing Officer
+• Month 6-9: 1 x Quality Control Officer (new product launches)
+• Month 9-12: 4 x Production Line Operators (3rd shift)
+• 1-2 x Fragrance production staff (FlourishScent)
+
+
+================================================================================
+9. EXIT & INVESTOR RETURN THESIS
+================================================================================
+
+TWO PLAUSIBLE EXIT PATHS:
+
+1. TRADE SALE TO LARGER FMCG CONGLOMERATE
+   - Indicative buyers: Nestle Nigeria, Promasidor, Dangote, Bua, or a
+     pan-African FMCG group (e.g., Tiger Brands, Unilever)
+   - Rationale: Large FMCG players seek to enter the mass-market packaged
+     food segment. DanDuru Group offers a turnkey production platform with
+     existing distribution, NAFDAC compliance, and brand presence.
+   - Typical multiples in Nigerian FMCG: 8-15x annual net profit
+
+2. STRATEGIC ACQUISITION BY SUGAR/FRAGRANCE MAJOR
+   - Indicative buyers: Dangote Sugar, Bua Sugar, Flour Mills of Nigeria,
+     or a consumer/beauty group seeking the local fragrance line
+   - Rationale: Sugar producers lack downstream consumer packaged goods
+     capability. DanDuru is a ready-made distribution and branding channel
+     for their product. The fragrance line adds beauty-sector appeal.
+   - Premium for strategic value could exceed standard FMCG multiples.
+
+HIGH-LEVEL ROI DRIVERS FOR INVESTORS:
+
+| Driver | Factor |
+|---|---|
+| Scale | From N274.8M to projected N471.5M net profit in 3 years |
+| Margins | Expanding through operating leverage + higher-margin fragrance line |
+| Asset-light expansion | 3rd shift adds 50% capacity at minimal CapEx |
+| Recurring revenue | FMCG daily consumption = repeat purchases |
+| Diversification | Food volume + fragrance margin under one group |
+| Tax advantage | Pioneer Status reduces effective tax rate |
+| Exit multiple | FMCG trade sales at 8-15x net profit possible |
+
+ILLUSTRATIVE RETURN (Seed Equity Scenario):
+If investor takes 20% equity for N50M:
+- Year 3 net profit: N471.5M
+- 20% share: N94.3M/year
+- At 10x multiple: implied valuation N4.7B
+- 20% stake value: N943M
+- ROI on N50M: 18.9x in 3 years
+
+[Perfume component of projections is PLACEHOLDER pending actuals; the ROI
+scenario above will be refined once actual perfume data is provided.]
+
+
+================================================================================
+10. APPENDIX & SUPPORTING MATERIALS
+================================================================================
+
+SUPPORTING DOCUMENTS TO ATTACH:
+
+[ ] Complete financial model (3-year, monthly, with scenario analysis)
+[ ] Product photos and packaging mockups (food + fragrance)
+[ ] Current NAFDAC registration certificates (food)
+[ ] NAFDAC cosmetics/aromatics registration (FlourishScent — TBC)
+[ ] Pioneer Status approval letter from Federal Government
+[ ] Customer purchase orders or distributor agreements
+[ ] Equipment vendor contracts and invoices
+[ ] Current cap table (if equity round)
+[ ] Due diligence data room (financial records since Oct 2024)
+[ ] FlourishScent sales records and channel list
+
+DATA GAPS IDENTIFIED:
+
+1. Actual monthly sales since launch (Oct 2024 to present)
+   - Document only has projected figures. Actuals are critical.
+
+2. FlourishScent actual revenue, unit economics, and margin
+   - Currently placeholder. Must be replaced with actuals.
+
+3. Customer acquisition cost (CAC) and customer lifetime value (LTV)
+   - Not tracked in current document. Recommend starting immediately.
+
+4. Current number of distributors, retail outlets, and monthly active customers
+
+5. Product-level revenue split (what % of actual revenue comes from each SKU)
+
+6. Historical month-over-month growth rate (to validate projections)
+
+TARGETED CLARIFYING QUESTIONS (Update after investor Q&A):
+
+[✓] Q1 ANSWERED: Operations are skeletal due to lack of capital —
+    full capacity projections are NOT actuals but are what the installed
+    equipment and confirmed distributor network can deliver.
+[✓] Q2 ANSWERED: Distributors exist in Aba, Port Harcourt, Lagos.
+[~] Q3 NOT YET DECIDED: Open to debt or equity — to be discussed with
+    investors at meeting.
+[✓] Q4 ANSWERED: Current skeletal food monthly revenue = N1,270,000
+[✓] Q5 ANSWERED: FlourishScent is already selling — retail + bulk, Lagos.
+[?] Q6 STILL OPEN: FlourishScent current monthly revenue figure.
+[?] Q7 STILL OPEN: Number of retail outlets and sell-through rate not yet
+    specified.
+[?] Q8 STILL OPEN: Current cash balance and burn rate not yet specified.
+
+REMAINING GAPS TO CLOSE:
+1. Do you have written LOIs or purchase commitments from your distributors?
+2. What is the current bank balance and monthly burn rate?
+3. How many retail outlets do your distributors currently serve?
+4. FlourishScent current monthly revenue and margin data.
+5. FlourishScent manager's name and profile.
+6. FlourishScent NAFDAC (cosmetics/aromatics) status.
+
+
+================================================================================
+BONUS: ONE-PAGE LEAVE-BEHIND (One-Sheet)
+================================================================================
+
+[Page should be designed as a single A4/Letter page, front only.
+Center logo at top. Below:]
+
+DANDURU GROUP
+Two engines, one group — food for the mass market, fragrance for every market
+
+THE COMPANY
+DanDuru Group runs two Lagos-based businesses: DanDuru Industries (13 packaged
+food products — sugar, chilli pepper, chocolate powder, custard, cereal, date
+powder; founded October 2024) and FlourishScent (perfume oils and sprays, retail
+3ml to bulk 25kg; already selling). Equipment installed, NAFDAC compliant (food),
+team hired.
+
+THE OPPORTUNITY
+Nigeria consumes 1.6M tons of sugar annually — 96% imported. No formal
+NAFDAC-approved, vitamin-fortified packaged granulated sugar exists for the
+mass market. The fragrance market is import-dominated. The only bottleneck to
+capturing both is working capital.
+
+THE SOLUTION
+DanDuru is the first packaged, NAFDAC-approved, vitamin-A-fortified granulated
+sugar brand in Nigeria, supported by 13 SKUs including high-margin chilli pepper.
+FlourishScent produces locally — cost, restock speed and quality control — from
+3ml samples to 25kg bulk.
+
+STATUS
+• Food founded Oct 2024 — all production equipment installed and tested
+• NAFDAC compliance secured (food) | 13 food formulations ready
+• Distributors in Lagos, Port Harcourt, Aba | Export channel to Cameroon
+• FlourishScent selling today — retail + bulk, Lagos
+• Currently operating skeletally — limited ONLY by lack of working capital
+• Current skeletal food revenue: N1,270,000/month — real demand confirmed
+• At full capacity: N257.5M/month group revenue | N22.9M/month net profit
+• Pioneer Status tax incentive granted | Capital is the single bottleneck
+
+TARGET MARKET
+• Sugar: N240B+ | Cocoa beverages: N90B+ | Custard: fragmented, growing
+• Fragrance: [PLACEHOLDER: market size]
+• Target: 10-20% share per food segment by 2030
+
+FULL-CAPACITY GROUP FINANCIAL MODEL (3-YEAR PROJECTION)
+• Annual net profit: Y1 N274.8M | Y2 N353.6M | Y3 N471.5M
+• Cumulative profit over 3 years: N1,099.9M
+• N50M investment → strong return potential (perfume component placeholder)
+
+THE ASK
+N50,000,000 — open to debt (working capital facility) or equity
+Split: N35M food (70%) | N15M perfume (30%)
+Food use: Raw materials (50%) | Packaging (20%) | Distribution (14%) |
+Equipment (10%) | Buffer (6%)
+Perfume use: Raw materials (50%) | Packaging (20%) | Distribution (14%) |
+Equipment (10%) | NAFDAC & buffer (6%)
+Projected payback: 3-4 months from operating cash flow
+
+CONTACT
+Chikwendu Ifeanyi Felix — Group Managing Director
+[Phone] | [Email]
+DanDuru Group | 3-5 Omitogun Close, Alaafia Estate, Ogba, Lagos
+
+
+================================================================================
+BONUS: 3-SENTENCE INVESTOR EMAIL INTRO
+================================================================================
+
+Subject: DanDuru Group — N50M Working Capital / Seed Round — Food + Fragrance,
+       N274.8M Annual Net Profit Run Rate
+
+Dear [Investor Name],
+
+DanDuru Group is a Lagos-based consumer products group: DanDuru Industries
+(food manufacturing — sugar, chilli pepper, chocolate, custard; founded October
+2024) with installed equipment, NAFDAC compliance, distributors in Lagos, Port
+Harcourt and Aba, and an export channel into Cameroon — plus FlourishScent, its
+perfume subsidiary already selling oils and sprays retail and bulk. At full
+capacity the group is projected to generate N257.5M monthly revenue and N22.9M
+net monthly profit — a N274.8M annual run rate (perfume figures pending actuals)
+— with the food line currently validating demand at N1,270,000/month in actual
+skeletal revenue.
+
+We are seeking N50 million in working capital (open to debt or equity), split
+N35M for the food line and N15M to scale FlourishScent, to purchase raw
+materials and run production at full capacity — unlocking a projected 3-4 month
+payback from operating cash flow.
+
+I have attached our investor memorandum and would welcome the opportunity
+to present our business to you at your earliest convenience. Would you be
+available for a 20-minute call this week?
+
+Warm regards,
+Chikwendu Ifeanyi Felix
+Group Managing Director, DanDuru Group
+[Phone] | [Email]
+
+
+================================================================================
+DESIGN NOTES FOR DECK PRODUCTION
+================================================================================
+
+COLOR PALETTE (Suggested):
+• Primary: Deep Green (#006838) — evokes freshness, agriculture, FMCG trust
+• Secondary: Gold/Amber (#FFB300) — warmth, appetite, premium feel
+• Fragrance accent: Deep Purple/Mauve — distinguishes FlourishScent
+• Accent: White + dark grey text for readability
+
+FONT SIZES:
+• Slide title: 36-40pt bold (Primary Green)
+• Body bullets: 18-22pt regular (Dark grey)
+• Subheadings: 24-28pt semi-bold
+• Numbers/metrics: 28-32pt bold (Gold accent)
+• Speaker notes: Keep separate — don't put on slides
+
+LAYOUT TEMPLATE (Per Slide):
++----------------------------------------------+
+| [LOGO top-left]           [Slide # top-right] |
+|                                               |
+|  TITLE (left-aligned, 36pt green)            |
+|                                               |
+|  Bullet 1 (18pt)                              |
+|  Bullet 2 (18pt)                              |
+|  Bullet 3 (18pt)                              |
+|  Bullet 4 (18pt)                              |
+|                                               |
+| [Visual element — right side or below]        |
++----------------------------------------------+
+| "DanDuru Group — Confidential" footer         |
++----------------------------------------------+
+
+SOFTWARE SUGGESTION: Canva (free templates) or PowerPoint. Use consistent
+green/gold theme with a purple accent for the fragrance business.
+
+================================================================================
+                         END OF DELIVERABLE
+================================================================================

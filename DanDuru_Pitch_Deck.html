@@ -1,0 +1,973 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DanDuru Group — Investor Pitch Deck</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --primary: #2E7D7B;
+    --primary-dark: #1F5C5A;
+    --primary-light: #6AAFAE;
+    --accent: #2E7D7B;
+    --perfume: #7B2E7D;
+    --bg: #EEF5F5;
+    --bg-card: #FFFFFF;
+    --text: #1D1D1D;
+    --text-dim: #6B7280;
+    --border: #E5E7EB;
+    --shadow: 0 4px 24px rgba(0,0,0,0.06);
+    --shadow-hover: 0 8px 32px rgba(0,0,0,0.10);
+  }
+
+  html, body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    height: 100%;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .slides { position: relative; width: 100%; height: 100vh; }
+  .slide {
+    position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+    display: flex; flex-direction: column; justify-content: center;
+    padding: 6vh 8vw;
+    opacity: 0; visibility: hidden; transition: opacity 0.5s ease, visibility 0.5s;
+    overflow-y: auto;
+  }
+  .slide.active { opacity: 1; visibility: visible; position: relative; }
+
+  /* Nav */
+  .nav-bar {
+    position: fixed; bottom: 0; left: 0; right: 0;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 16px 8vw; background: var(--bg-card);
+    border-top: 1px solid var(--border); z-index: 100;
+    box-shadow: 0 -2px 12px rgba(0,0,0,0.04);
+  }
+  .nav-bar .logo { font-weight: 700; font-size: 14px; color: var(--primary); letter-spacing: 1px; }
+  .nav-bar .logo span { color: var(--text-dim); font-weight: 400; }
+  .nav-controls { display: flex; align-items: center; gap: 12px; }
+  .nav-controls button {
+    background: var(--primary); color: white; border: none; width: 36px; height: 36px;
+    border-radius: 50%; cursor: pointer; font-size: 18px; font-weight: 600;
+    transition: all 0.2s; display: flex; align-items: center; justify-content: center;
+  }
+  .nav-controls button:hover { background: var(--primary-dark); transform: scale(1.05); }
+  .nav-controls .counter { font-size: 13px; color: var(--text-dim); min-width: 60px; text-align: center; }
+  .nav-controls .counter strong { color: var(--text); }
+  .progress-track {
+    position: absolute; top: -1px; left: 0; height: 3px; background: var(--primary);
+    transition: width 0.4s ease;
+  }
+  .nav-btn { background: none; border: 1px solid var(--border); border-radius: 8px; padding: 6px 14px; font-size: 12px; font-weight: 500; color: var(--text-dim); cursor: pointer; transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
+  .nav-btn:hover { border-color: var(--primary); color: var(--primary); }
+  .nav-btn.primary-btn { background: var(--primary); color: white; border: none; }
+  .nav-btn.primary-btn:hover { background: var(--primary-dark); color: white; }
+
+  .slide-number {
+    position: absolute; top: 3vh; right: 4vw; font-size: 12px; color: var(--text-dim);
+    letter-spacing: 2px; font-weight: 500;
+  }
+
+  h1 { font-size: clamp(32px, 5vw, 64px); font-weight: 800; line-height: 1.15; letter-spacing: -1px; color: var(--text); }
+  h2 { font-size: clamp(24px, 3.5vw, 48px); font-weight: 700; line-height: 1.2; letter-spacing: -0.5px; }
+  h3 { font-size: clamp(18px, 2vw, 28px); font-weight: 600; }
+  .subtitle { font-size: clamp(14px, 1.4vw, 20px); color: var(--text-dim); font-weight: 400; line-height: 1.6; }
+  .teal { color: var(--primary); }
+  .purple { color: var(--perfume); }
+  .dim { color: var(--text-dim); }
+  .big-number { font-size: clamp(40px, 6vw, 80px); font-weight: 800; line-height: 1; }
+  .big-number .unit { font-size: 0.4em; font-weight: 500; color: var(--text-dim); display: block; margin-top: 4px; }
+
+  .slide-title { text-align: center; }
+  .slide-title .tag {
+    display: inline-block; background: rgba(46, 125, 123, 0.08); color: var(--primary);
+    padding: 6px 20px; border-radius: 100px; font-size: 12px; font-weight: 600;
+    letter-spacing: 2px; text-transform: uppercase; margin-bottom: 24px;
+    border: 1px solid rgba(46, 125, 123, 0.15);
+  }
+  .slide-title h1 { margin-bottom: 16px; }
+  .slide-title .meta { margin-top: 32px; display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; }
+  .slide-title .meta span { font-size: 14px; color: var(--text-dim); }
+  .slide-title .meta strong { color: var(--text); display: block; margin-top: 4px; }
+
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 4vw; margin-top: 3vh; }
+  .three-col { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 2vw; margin-top: 3vh; }
+  .four-col { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 1.5vw; margin-top: 3vh; }
+
+  .card {
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 16px;
+    padding: 24px; box-shadow: var(--shadow); transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+  }
+  .card:hover { transform: translateY(-2px); box-shadow: var(--shadow-hover); }
+  .card .icon { font-size: 28px; margin-bottom: 12px; }
+  .card h4 { font-size: 15px; font-weight: 600; margin-bottom: 8px; color: var(--text); }
+  .card p { font-size: 13px; color: var(--text-dim); line-height: 1.5; }
+  .card .stat { font-size: 28px; font-weight: 700; color: var(--primary); display: block; margin-bottom: 4px; }
+
+  .metrics { display: flex; gap: 3vw; margin-top: 3vh; flex-wrap: wrap; }
+  .metric { text-align: center; flex: 1; min-width: 120px; background: var(--bg-card); border-radius: 16px; padding: 24px 16px; box-shadow: var(--shadow); border: 1px solid var(--border); }
+  .metric .num { font-size: clamp(28px, 3vw, 48px); font-weight: 800; color: var(--primary); }
+  .metric .label { font-size: 12px; color: var(--text-dim); margin-top: 4px; text-transform: uppercase; letter-spacing: 1px; }
+
+  .bar-chart { display: flex; flex-direction: column; gap: 12px; margin-top: 2vh; }
+  .bar-row { display: flex; align-items: center; gap: 16px; }
+  .bar-label { width: 160px; font-size: 13px; font-weight: 500; text-align: right; flex-shrink: 0; color: var(--text); }
+  .bar-track { flex: 1; height: 28px; background: var(--bg); border-radius: 14px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 14px; display: flex; align-items: center; padding-left: 12px; font-size: 12px; font-weight: 600; color: white; }
+  .bar-fill.teal { background: linear-gradient(90deg, var(--primary), var(--primary-light)); }
+  .bar-fill.light { background: linear-gradient(90deg, var(--primary-light), #A8D5D4); }
+  .bar-fill.dim { background: linear-gradient(90deg, #CBD5E1, #E2E8F0); color: var(--text-dim); }
+
+  .check-list { list-style: none; }
+  .check-list li {
+    padding: 10px 0; border-bottom: 1px solid var(--border);
+    font-size: 14px; display: flex; align-items: center; gap: 12px;
+  }
+  .check-list li:last-child { border: none; }
+  .check-list .check { color: var(--primary); font-weight: 700; font-size: 18px; }
+  .check-list .cross { color: var(--primary-light); font-weight: 700; font-size: 18px; }
+
+  .compare-box { padding: 20px; border-radius: 16px; border: 1px solid var(--border); background: var(--bg-card); box-shadow: var(--shadow); }
+  .compare-box.green-box { border-color: rgba(46, 125, 123, 0.25); }
+  .compare-box.amber-box { border-color: rgba(46, 125, 123, 0.25); }
+  .compare-box h4 { font-size: 13px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; }
+
+  .matrix {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--border);
+    border: 1px solid var(--border); border-radius: 16px; overflow: hidden; margin-top: 2vh;
+  }
+  .matrix-cell { background: var(--bg-card); padding: 20px; min-height: 100px; }
+  .matrix-cell h5 { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--text-dim); margin-bottom: 8px; }
+  .matrix-cell p { font-size: 13px; color: var(--text-dim); }
+  .matrix-cell.highlight { background: rgba(46, 125, 123, 0.06); }
+  .matrix-cell.highlight h5 { color: var(--primary); font-weight: 700; }
+  .matrix-cell.highlight p { color: var(--text); }
+
+  table { width: 100%; border-collapse: collapse; margin-top: 2vh; font-size: 13px; }
+  th, td { padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--border); }
+  th { font-weight: 600; color: var(--primary); font-size: 11px; text-transform: uppercase; letter-spacing: 1px; }
+  td { color: var(--text-dim); }
+  tr:last-child td { border: none; }
+
+  .pie-container { display: flex; align-items: center; gap: 3vw; justify-content: center; }
+  .pie {
+    width: 200px; height: 200px; border-radius: 50%;
+    background: conic-gradient(
+      var(--primary) 0% 50%,
+      var(--primary-light) 50% 70%,
+      #A8D5D4 70% 84%,
+      #CBD5E1 84% 94%,
+      #E2E8F0 94% 100%
+    );
+    flex-shrink: 0; box-shadow: var(--shadow);
+  }
+  .pie-legend { font-size: 13px; }
+  .pie-legend div { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+  .pie-legend .dot { width: 12px; height: 12px; border-radius: 3px; }
+
+  .gap-item { background: rgba(46, 125, 123, 0.04); border-left: 3px solid var(--primary); padding: 10px 16px; margin-bottom: 8px; border-radius: 0 8px 8px 0; }
+  .gap-item strong { color: var(--text); }
+  .gap-item span { color: var(--text-dim); font-size: 13px; }
+
+  .built-item { background: rgba(46, 125, 123, 0.04); border-left: 3px solid var(--primary-light); padding: 10px 16px; margin-bottom: 8px; border-radius: 0 8px 8px 0; }
+  .built-item strong { color: var(--text); }
+  .built-item span { color: var(--text-dim); font-size: 13px; }
+
+  .slide h2 { margin-bottom: 0.5vh; }
+  .slide > .subtitle { margin-bottom: 2vh; }
+
+  .slide.active h2, .slide.active .subtitle, .slide.active .card,
+  .slide.active .metrics, .slide.active .bar-chart, .slide.active .two-col,
+  .slide.active .three-col, .slide.active .four-col, .slide.active .matrix,
+  .slide.active table, .slide.active .pie-container, .slide.active .check-list,
+  .slide.active .compare-box, .slide.active .tag {
+    animation: fadeUp 0.6s ease forwards;
+  }
+  .slide.active h2 { animation-delay: 0.05s; }
+  .slide.active .subtitle { animation-delay: 0.1s; }
+  .slide.active .tag { animation-delay: 0s; }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Setup Form Slide */
+  .setup-form { max-width: 720px; margin: 0 auto; width: 100%; }
+  .setup-form h2 { text-align: center; margin-bottom: 4px; }
+  .setup-form > .subtitle { text-align: center; margin-bottom: 24px; }
+  .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .form-group { display: flex; flex-direction: column; gap: 4px; }
+  .form-group label { font-size: 12px; font-weight: 600; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.5px; }
+  .form-group input { padding: 10px 14px; border: 1px solid var(--border); border-radius: 10px; font-size: 14px; font-family: inherit; background: var(--bg-card); color: var(--text); transition: border-color 0.2s; }
+  .form-group input:focus { outline: none; border-color: var(--primary); box-shadow: 0 0 0 3px rgba(46,125,123,0.12); }
+  .form-group.full { grid-column: 1 / -1; }
+  .form-actions { display: flex; gap: 12px; justify-content: center; margin-top: 24px; }
+  .form-actions button { padding: 12px 32px; border-radius: 10px; font-size: 14px; font-weight: 600; font-family: inherit; cursor: pointer; transition: all 0.2s; border: none; }
+  .form-actions .btn-primary { background: var(--primary); color: white; }
+  .form-actions .btn-primary:hover { background: var(--primary-dark); transform: translateY(-1px); }
+  .form-actions .btn-secondary { background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }
+  .form-actions .btn-secondary:hover { border-color: var(--primary); color: var(--primary); }
+
+  @media (max-width: 768px) {
+    .slide { padding: 4vh 5vw; }
+    .two-col, .three-col, .four-col { grid-template-columns: 1fr; }
+    .metrics { gap: 12px; flex-direction: column; }
+    .bar-label { width: 100px; font-size: 11px; }
+    .pie-container { flex-direction: column; }
+    .pie { width: 140px; height: 140px; }
+    .slide-title .meta { gap: 20px; flex-direction: column; align-items: center; }
+    .form-grid { grid-template-columns: 1fr; }
+    .nav-controls .nav-btn span { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="slides" id="slides">
+
+  <!-- ======== SLIDE 0: SETUP FORM (Data Input) ======== -->
+  <div class="slide active" data-index="0" id="setupSlide" style="justify-content: flex-start; padding-top: 10vh;">
+    <div class="slide-number">00 / 11</div>
+    <div class="setup-form">
+      <h2>Proposal <span class="teal">Setup</span></h2>
+      <p class="subtitle">Enter your business data below to generate the investor deck — FlourishScent figures are placeholders</p>
+      <div class="card" style="padding: 28px;">
+        <div class="form-grid">
+          <div class="form-group full">
+            <label>Company Name</label>
+            <input type="text" id="inp_company" value="DanDuru Group">
+          </div>
+          <div class="form-group">
+            <label>Product 1 Name</label>
+            <input type="text" id="inp_p1_name" value="Granulated Sugar">
+          </div>
+          <div class="form-group">
+            <label>Product 2 Name</label>
+            <input type="text" id="inp_p2_name" value="Chilli Pepper">
+          </div>
+          <div class="form-group">
+            <label>P1 Selling Price (N)</label>
+            <input type="number" id="inp_p1_price" value="34">
+          </div>
+          <div class="form-group">
+            <label>P2 Selling Price (N)</label>
+            <input type="number" id="inp_p2_price" value="32">
+          </div>
+          <div class="form-group">
+            <label>P1 Cost per Sachet (N)</label>
+            <input type="number" id="inp_p1_cost" value="32.43" step="0.01">
+          </div>
+          <div class="form-group">
+            <label>P2 Cost per Sachet (N)</label>
+            <input type="number" id="inp_p2_cost" value="27" step="0.01">
+          </div>
+          <div class="form-group">
+            <label>P1 Sachets per Pack</label>
+            <input type="number" id="inp_p1_per" value="144">
+          </div>
+          <div class="form-group">
+            <label>P2 Sachets per Carton</label>
+            <input type="number" id="inp_p2_per" value="260">
+          </div>
+          <div class="form-group">
+            <label>P1 Daily Packs</label>
+            <input type="number" id="inp_p1_daily" value="1050">
+          </div>
+          <div class="form-group">
+            <label>P2 Daily Cartons</label>
+            <input type="number" id="inp_p2_daily" value="480">
+          </div>
+          <div class="form-group">
+            <label>Working Days / Month</label>
+            <input type="number" id="inp_days" value="26">
+          </div>
+          <div class="form-group">
+            <label>Monthly Overhead (N)</label>
+            <input type="number" id="inp_overhead" value="5500000">
+          </div>
+          <div class="form-group">
+            <label>Funding Ask (N)</label>
+            <input type="number" id="inp_ask" value="50000000">
+          </div>
+          <div class="form-group">
+            <label>Annual Growth Rate (%)</label>
+            <input type="number" id="inp_growth" value="20">
+          </div>
+          <div class="form-group full">
+            <label>Presented By</label>
+            <input type="text" id="inp_presenter" value="Chikwendu Ifeanyi Felix — Group Managing Director">
+          </div>
+        </div>
+        <div class="form-actions">
+          <button class="btn-primary" onclick="generateDeck()">✦ Generate Investor Deck</button>
+          <button class="btn-secondary" onclick="window.print()">📄 Export PDF</button>
+        </div>
+      </div>
+      <p style="text-align: center; margin-top: 12px; font-size: 12px; color: var(--text-dim);">Adjust any number, then click Generate to update all slides instantly. Group figures include FlourishScent placeholders (N20M monthly revenue / N6M net).</p>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 1: TITLE ======== -->
+  <div class="slide slide-title" data-index="1">
+    <div class="slide-number">01 / 11</div>
+    <div class="tag">Investment Opportunity</div>
+    <h1><span id="s1_company">DanDuru</span> <span class="teal">Group</span></h1>
+    <p class="subtitle">Two engines, one group — food for the mass market, fragrance for every market</p>
+    <div class="meta">
+      <span>Location <strong>Lagos, Nigeria</strong></span>
+      <span>Founded <strong>October 2024</strong></span>
+      <span>Subsidiary <strong>FlourishScent (fragrance)</strong></span>
+      <span>Stage <strong>Seed / Working Capital</strong></span>
+      <span>Ask <strong id="s1_ask">N50,000,000</strong></span>
+    </div>
+    <div style="margin-top: 40px; text-align: center;">
+      <p style="font-size: 13px; color: var(--text-dim);">Presented by <span id="s1_presenter">Chikwendu Ifeanyi Felix — Group Managing Director</span></p>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 2: THE PROBLEM ======== -->
+  <div class="slide" data-index="2">
+    <div class="slide-number">02 / 11</div>
+    <h2>The <span class="teal">Problem</span></h2>
+    <p class="subtitle">Nigeria's mass market lacks hygienic, affordable packaged staples — food and fragrance</p>
+    <div class="two-col">
+      <div>
+        <div class="card" style="height: 100%;">
+          <div class="icon">📊</div>
+          <h4>Market Gap</h4>
+          <p style="margin-top: 16px;"><span class="stat">1.6M tons</span>of sugar consumed annually in Nigeria</p>
+          <p style="margin-top: 8px;"><span class="stat">96%</span>is imported — only 4% produced locally</p>
+          <p style="margin-top: 8px;"><span class="stat">2 players</span>(Dangote, Bua) control industrial supply</p>
+          <p style="margin-top: 8px;"><span class="stat">Import-heavy</span>fragrance market — local supply is scarce</p>
+        </div>
+      </div>
+      <div>
+        <div class="card" style="height: 100%;">
+          <div class="icon">⚠️</div>
+          <h4>Consumer Pain</h4>
+          <p style="margin-top: 16px;"><span class="stat" style="font-size: 22px;">No NAFDAC-approved</span>packaged granulated sugar for domestic consumers</p>
+          <p style="margin-top: 12px;"><span class="stat" style="font-size: 22px;">Unhygienic</span>"mallam" packers dominate — unlicensed, unfortified</p>
+          <p style="margin-top: 12px;"><span class="stat" style="font-size: 22px;">&gt;80% of Nigerians</span>consume beverages daily — yet pay premium for poor quality</p>
+          <p style="margin-top: 12px;"><span class="stat" style="font-size: 22px;">Premium prices</span>paid for imported perfume — no local quality alternative</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 3: SOLUTION ======== -->
+  <div class="slide" data-index="3">
+    <div class="slide-number">03 / 11</div>
+    <h2>Our <span class="teal">Solution</span></h2>
+    <p class="subtitle">13 food products + FlourishScent fragrance — one group, two production lines</p>
+    <div class="three-col">
+      <div class="card">
+        <div class="icon">🍚</div>
+        <h4>Volume Driver</h4>
+        <p id="s3_p1_desc">DanFam Granulated Sugar (white &amp; brown) — vitamin A fortified, NAFDAC-approved, packaged 15g sachets.</p>
+        <p style="margin-top: 8px; font-weight: 600; color: var(--primary);" id="s3_p1_margin">4.6% margin</p>
+      </div>
+      <div class="card">
+        <div class="icon">🌶️</div>
+        <h4>Profit Engine</h4>
+        <p id="s3_p2_desc">DanFam Chilli Pepper — 15g sachets, hygienically packaged. Highest-margin food SKU.</p>
+        <p style="margin-top: 8px; font-weight: 600; color: var(--primary);" id="s3_p2_margin">15.6% margin</p>
+      </div>
+      <div class="card">
+        <div class="icon">🧁</div>
+        <h4>Innovation Line</h4>
+        <p>Cube Sugar, 3-in-1 Milk Custard, 4-in-1 Choco Custard, Cereal, Date Powder, Chocolate Powder, Baking Sugar, Icing Sugar. Launching within 18 months.</p>
+      </div>
+    </div>
+    <div style="margin-top: 2vh; display: flex; gap: 2vw; flex-wrap: wrap;">
+      <div style="flex:1; min-width:200px; background: rgba(46,125,123,0.04); border-radius: 12px; padding: 16px; border: 1px solid rgba(46,125,123,0.15);">
+        <strong style="color: var(--primary);">Blended Margin Strategy</strong>
+        <p style="font-size: 13px; color: var(--text-dim); margin-top: 6px;">Sugar drives volume &amp; shelf space. Higher-margin pepper, custard &amp; chocolate improve blended profitability.</p>
+      </div>
+      <div style="flex:1; min-width:200px; background: rgba(123,46,125,0.05); border-radius: 12px; padding: 16px; border: 1px solid rgba(123,46,125,0.15);">
+        <strong style="color: var(--perfume);">FlourishScent — Fragrance</strong>
+        <p style="font-size: 13px; color: var(--text-dim); margin-top: 6px;">Perfume oils &amp; sprays — retail (3ml+) and bulk (up to 25kg) for wholesalers and resellers. Higher-margin line (~45% gross, placeholder).</p>
+      </div>
+      <div style="flex:1; min-width:200px; background: rgba(46,125,123,0.04); border-radius: 12px; padding: 16px; border: 1px solid rgba(46,125,123,0.15);">
+        <strong style="color: var(--primary);">Contract Manufacturing</strong>
+        <p style="font-size: 13px; color: var(--text-dim); margin-top: 6px;">B2B arm produces &amp; packages for 3rd-party brands — diversifies revenue, improves capacity utilization.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 4: MARKET OPPORTUNITY ======== -->
+  <div class="slide" data-index="4">
+    <div class="slide-number">04 / 11</div>
+    <h2>Market <span class="teal">Opportunity</span></h2>
+    <p class="subtitle">N330B+ accessible food market — and an import-heavy fragrance market</p>
+    <div class="three-col" style="margin-top: 2vh;">
+      <div class="card" style="text-align: center;">
+        <span class="stat" style="font-size: 36px;">N240B+</span>
+        <h4 style="margin: 8px 0 4px;">Sugar Market</h4>
+        <p style="font-size: 12px;">Consumption 1.6M tons/year. Only Dangote &amp; Bua at industrial scale. No formal packaged player for domestic consumers.</p>
+      </div>
+      <div class="card" style="text-align: center;">
+        <span class="stat" style="font-size: 36px;">N90B+</span>
+        <h4 style="margin: 8px 0 4px;">Cocoa Beverages</h4>
+        <p style="font-size: 12px;">N50B mass market (underpenetrated) + N40B premium (Nestle, Cadbury). DanDuru targets mass market with low-price strategy.</p>
+      </div>
+      <div class="card" style="text-align: center;">
+        <span class="stat" style="font-size: 36px;">[PLACEHOLDER]</span>
+        <h4 style="margin: 8px 0 4px;" class="purple">Fragrance Market</h4>
+        <p style="font-size: 12px;">Import-dominated. FlourishScent produces locally — retail oils/sprays and 25kg bulk for wholesalers and resellers.</p>
+      </div>
+    </div>
+    <div style="margin-top: 2vh; background: rgba(46,125,123,0.04); border: 1px solid rgba(46,125,123,0.15); border-radius: 12px; padding: 16px; text-align: center;">
+      <strong style="color: var(--primary);">Food target: 10–20% market share per segment by 2030</strong>
+      <p style="font-size: 13px; color: var(--text-dim); margin-top: 4px;">Already exporting to Cameroon via Calabar — West African sub-region expansion underway</p>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 5: TRACTION ======== -->
+  <div class="slide" data-index="5">
+    <div class="slide-number">05 / 11</div>
+    <h2>Traction — <span class="teal">Built vs. Needed</span></h2>
+    <p class="subtitle">Capital is the only bottleneck. Everything else is in place.</p>
+    <div class="two-col">
+      <div>
+        <div class="compare-box green-box">
+          <h4 style="color: var(--primary);">✓ Already Built</h4>
+          <div class="built-item"><strong>Equipment</strong> <span>VFFS machines, mixers, mills — installed &amp; tested</span></div>
+          <div class="built-item"><strong>Compliance</strong> <span>NAFDAC approved for all current food SKUs</span></div>
+          <div class="built-item"><strong>Team</strong> <span>5 key managers hired (MD, Finance, Production, HR, Technical)</span></div>
+          <div class="built-item"><strong>Distributors</strong> <span>Active in 3 states — Lagos, Port Harcourt, Aba</span></div>
+          <div class="built-item"><strong>Export</strong> <span>Cross-border channel into Cameroon via Calabar</span></div>
+          <div class="built-item"><strong>Tax Incentive</strong> <span>Pioneer Status granted by Federal Government</span></div>
+          <div class="built-item"><strong>Real Revenue</strong> <span>Food N1,270,000/month skeletal — confirms real demand</span></div>
+          <div class="built-item"><strong>FlourishScent</strong> <span>Already selling perfume oils &amp; sprays — retail + bulk, Lagos</span></div>
+        </div>
+        <div style="margin-top: 16px; border: 1px dashed var(--border); border-radius: 12px; padding: 12px; text-align: center; background: var(--bg-card);">
+          <p style="font-size: 12px; color: var(--primary); font-weight: 600;">▶ Factory Tour Video</p>
+          <p style="font-size: 11px; color: var(--text-dim); margin: 6px 0;">Record 3-min walkthrough — show equipment, products, perfume line</p>
+          <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
+            <span style="font-size: 10px; background: var(--bg); padding: 4px 12px; border-radius: 4px;">📹 Record on phone (landscape)</span>
+            <span style="font-size: 10px; background: var(--bg); padding: 4px 12px; border-radius: 4px;">🔗 Upload to YouTube (unlisted)</span>
+          </div>
+          <div style="margin-top: 8px; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 6px 10px; font-size: 11px; color: var(--text-dim); font-family: monospace;">
+            https://youtube.com/your-video-link-here
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="compare-box amber-box">
+          <h4 style="color: var(--primary);">✦ Missing Piece</h4>
+          <div class="gap-item"><strong id="s5_ask">N50M Working Capital</strong> <span>— N35M food / N15M perfume — for raw materials to run at full capacity</span></div>
+          <div style="margin-top: 20px;">
+            <h3 style="font-size: 16px; margin-bottom: 8px;">Unlocks at full capacity:</h3>
+            <div class="card" style="padding: 16px; margin-bottom: 8px;">
+              <span class="stat" style="font-size: 24px;" id="s5_rev">N257.5M</span>
+              <p style="font-size: 12px; color: var(--text-dim);">Group monthly revenue (food + perfume*)</p>
+            </div>
+            <div class="card" style="padding: 16px;">
+              <span class="stat" style="font-size: 24px;" id="s5_profit">N22.9M</span>
+              <p style="font-size: 12px; color: var(--text-dim);">Group monthly net profit</p>
+            </div>
+            <p style="font-size: 11px; color: var(--text-dim); margin-top: 8px;">*Perfume figures are placeholders pending actuals.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 6: FINANCIAL SUMMARY ======== -->
+  <div class="slide" data-index="6">
+    <div class="slide-number">06 / 11</div>
+    <h2>Financial <span class="teal">Summary</span></h2>
+    <p class="subtitle">Full-capacity group model — unlocked with <span id="s6_ask_label">N50M</span> working capital deployment</p>
+    <div class="metrics">
+      <div class="metric"><div class="num" id="s6_rev">N257.5M</div><div class="label">Group Monthly Revenue</div></div>
+      <div class="metric"><div class="num" id="s6_gp">N31.4M</div><div class="label">Monthly Gross Profit</div></div>
+      <div class="metric"><div class="num" id="s6_np">N22.9M</div><div class="label">Group Net Monthly Profit</div></div>
+      <div class="metric"><div class="num" id="s6_annual">N274.8M</div><div class="label">Annual Net Profit Run Rate</div></div>
+    </div>
+    <div class="two-col" style="margin-top: 2vh;">
+      <div>
+        <h4 style="font-size: 14px; margin-bottom: 12px; color: var(--primary);">Monthly P&amp;L (Full Capacity)</h4>
+        <table>
+          <tr><th>Line Item</th><th style="text-align:right;">Amount</th></tr>
+          <tr><td>Revenue — <span id="s6_p1_name_tbl">Sugar</span></td><td style="text-align:right;" id="s6_p1_rev">N133,660,800</td></tr>
+          <tr><td>Revenue — <span id="s6_p2_name_tbl">Pepper</span></td><td style="text-align:right;" id="s6_p2_rev">N103,833,600</td></tr>
+          <tr><td>Revenue — FlourishScent (placeholder)</td><td style="text-align:right;" id="s6_p3_rev">N20,000,000</td></tr>
+          <tr><td style="color: var(--text-dim);">Group Total Revenue</td><td style="text-align:right; font-weight:600; color: var(--text);" id="s6_total_rev">N257,494,400</td></tr>
+          <tr><td>COGS — <span id="s6_p1_name_cogs">Sugar</span></td><td style="text-align:right;" id="s6_p1_cogs">(N127,488,816)</td></tr>
+          <tr><td>COGS — <span id="s6_p2_name_cogs">Pepper</span></td><td style="text-align:right;" id="s6_p2_cogs">(N87,609,600)</td></tr>
+          <tr><td>COGS — FlourishScent (placeholder)</td><td style="text-align:right;" id="s6_p3_cogs">(N11,000,000)</td></tr>
+          <tr><td style="font-weight:600;">Gross Profit</td><td style="text-align:right; font-weight:600;" id="s6_gp_val">N31,395,984</td></tr>
+          <tr><td>Overhead</td><td style="text-align:right;" id="s6_oh">(N8,500,000)</td></tr>
+          <tr><td style="font-weight:600; color: var(--primary);">Net Profit</td><td style="text-align:right; font-weight:600; color: var(--primary);" id="s6_np_val">N22,895,984</td></tr>
+        </table>
+        <p style="font-size: 11px; color: var(--text-dim); margin-top: 6px;">Product margin: <span id="s6_p1_margin">Sugar 4.6%</span> | <span id="s6_p2_margin">Pepper 15.6%</span> | Perfume ~45% (placeholder)</p>
+      </div>
+      <div>
+        <h4 style="font-size: 14px; margin-bottom: 12px; color: var(--primary);">Food Line 3-Year Projection (<span id="s6_growth_label">20</span>% Growth)</h4>
+        <table>
+          <tr><th>Metric</th><th>Year 1</th><th>Year 2</th><th>Year 3</th></tr>
+          <tr><td>Monthly Revenue</td><td style="text-align:right;" id="s6_y1_rev">N237.5M</td><td style="text-align:right;" id="s6_y2_rev">N285.0M</td><td style="text-align:right;" id="s6_y3_rev">N342.0M</td></tr>
+          <tr><td>Monthly Net Profit</td><td style="text-align:right; color: var(--primary);" id="s6_y1_np">N16.9M</td><td style="text-align:right; color: var(--primary);" id="s6_y2_np">N20.3M</td><td style="text-align:right; color: var(--primary);" id="s6_y3_np">N24.3M</td></tr>
+          <tr><td>Annual Net Profit</td><td style="text-align:right;" id="s6_y1_annual">N202.8M</td><td style="text-align:right;" id="s6_y2_annual">N243.3M</td><td style="text-align:right;" id="s6_y3_annual">N292.0M</td></tr>
+          <tr><td>Cumulative Profit</td><td style="text-align:right;">N202.8M</td><td style="text-align:right;" id="s6_cum2">N446.1M</td><td style="text-align:right;" id="s6_cum3">N738.0M</td></tr>
+        </table>
+        <div style="margin-top: 12px; background: rgba(46,125,123,0.04); border-radius: 12px; padding: 12px; text-align: center; border: 1px solid rgba(46,125,123,0.15);">
+          <p style="font-size: 12px; color: var(--primary); font-weight: 600;"><span id="s6_ask_small">N50M</span> Investment → <span id="s6_roi">14.8x</span> return in 3 years (food model)</p>
+          <p style="font-size: 11px; color: var(--text-dim);">Payback period: ~3 months from operating cash flow</p>
+        </div>
+      </div>
+    </div>
+    <div style="margin-top: 1.5vh; font-size: 12px; color: var(--text-dim); text-align: center; border-top: 1px solid var(--border); padding-top: 10px;">
+      Full capacity model — <span id="s6_days">26</span> working days/month, 2 shifts/day. FlourishScent = placeholder.
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 7: UNIT ECONOMICS ======== -->
+  <div class="slide" data-index="7">
+    <div class="slide-number">07 / 11</div>
+    <h2>Unit <span class="teal">Economics</span></h2>
+    <p class="subtitle">Healthy margins — lean overhead</p>
+    <div class="two-col">
+      <div class="card" style="text-align: center;">
+        <div class="icon" style="font-size: 32px;">🍚</div>
+        <h3 style="color: var(--primary);" id="s7_p1_name">Granulated Sugar</h3>
+        <div style="margin: 16px 0;">
+          <span style="font-size: 13px; color: var(--text-dim);">Selling Price</span>
+          <div><span class="big-number" style="font-size: 36px;" id="s7_p1_price">N34</span> <span style="color: var(--text-dim);">/ sachet</span></div>
+        </div>
+        <div style="margin: 12px 0;">
+          <span style="font-size: 13px; color: var(--text-dim);">Production Cost</span>
+          <div><span class="big-number" style="font-size: 36px;" id="s7_p1_cost">N32.43</span> <span style="color: var(--text-dim);">/ sachet</span></div>
+        </div>
+        <div style="margin: 12px 0; padding: 12px; background: rgba(46,125,123,0.06); border-radius: 12px;">
+          <span style="font-size: 13px; color: var(--text-dim);">Gross Profit</span>
+          <div><span class="big-number" style="font-size: 36px; color: var(--primary);" id="s7_p1_gp">N1.57</span> <span style="color: var(--text-dim);">/ sachet</span></div>
+          <div style="font-size: 12px;" id="s7_p1_margin_text">4.6% margin — volume driver</div>
+        </div>
+        <p style="font-size: 12px; color: var(--text-dim); margin-top: 8px;" id="s7_p1_volume"><span id="s7_p1_per">144</span> sachets/pack · <span id="s7_p1_daily">1050</span> packs/day · <span id="s7_p1_sachets">151,200</span> sachets/day</p>
+      </div>
+      <div class="card" style="text-align: center;">
+        <div class="icon" style="font-size: 32px;">🌶️</div>
+        <h3 style="color: var(--primary);" id="s7_p2_name">Chilli Pepper</h3>
+        <div style="margin: 16px 0;">
+          <span style="font-size: 13px; color: var(--text-dim);">Selling Price</span>
+          <div><span class="big-number" style="font-size: 36px;" id="s7_p2_price">N32</span> <span style="color: var(--text-dim);">/ sachet</span></div>
+        </div>
+        <div style="margin: 12px 0;">
+          <span style="font-size: 13px; color: var(--text-dim);">Production Cost</span>
+          <div><span class="big-number" style="font-size: 36px;" id="s7_p2_cost">N27</span> <span style="color: var(--text-dim);">/ sachet</span></div>
+        </div>
+        <div style="margin: 12px 0; padding: 12px; background: rgba(46,125,123,0.06); border-radius: 12px;">
+          <span style="font-size: 13px; color: var(--text-dim);">Gross Profit</span>
+          <div><span class="big-number" style="font-size: 36px; color: var(--primary);" id="s7_p2_gp">N5.00</span> <span style="color: var(--text-dim);">/ sachet</span></div>
+          <div style="font-size: 12px;" id="s7_p2_margin_text">15.6% margin — profit engine</div>
+        </div>
+        <p style="font-size: 12px; color: var(--text-dim); margin-top: 8px;" id="s7_p2_volume"><span id="s7_p2_per">260</span> sachets/carton · <span id="s7_p2_daily">480</span> cartons/day · <span id="s7_p2_sachets">124,800</span> sachets/day</p>
+      </div>
+    </div>
+    <div style="margin-top: 1.5vh; background: rgba(46,125,123,0.04); border-radius: 12px; padding: 14px; text-align: center; border: 1px solid rgba(46,125,123,0.15);">
+      <strong style="color: var(--primary);">Food blended gross margin: <span id="s7_blended">9.4</span>%</strong>
+      <span style="color: var(--text-dim); font-size: 13px;"> | Perfume ~45% (placeholder) lifts the group average | Overhead = <span id="s7_oh_pct">24.6</span>% of food gross profit</span>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 8: FLOURISHSCENT ======== -->
+  <div class="slide" data-index="8">
+    <div class="slide-number">08 / 11</div>
+    <h2>FlourishScent <span class="purple">— the Fragrance Engine</span></h2>
+    <p class="subtitle">Locally produced perfume oils &amp; sprays — already selling. N15M of the ask funds this line.</p>
+    <div class="three-col">
+      <div class="card" style="text-align: center;">
+        <div class="icon" style="font-size: 32px;">🧴</div>
+        <h4>Retail Range</h4>
+        <p style="font-size: 12px;">Perfume oils and sprays — from 3ml sample vials to consumer bottles. Low entry price, high frequency.</p>
+        <p style="margin-top: 8px; font-weight: 600; color: var(--perfume);">Selling now — Lagos</p>
+      </div>
+      <div class="card" style="text-align: center;">
+        <div class="icon" style="font-size: 32px;">🛢️</div>
+        <h4>Bulk / Wholesale</h4>
+        <p style="font-size: 12px;">Fragrance oils up to 25kg drums for wholesalers, resellers, event businesses and private-label brands.</p>
+        <p style="margin-top: 8px; font-weight: 600; color: var(--perfume);">Import replacement</p>
+      </div>
+      <div class="card" style="text-align: center;">
+        <div class="icon" style="font-size: 32px;">💰</div>
+        <h4>High-Margin Line</h4>
+        <p style="font-size: 12px;">Blended gross margin target ~45% — retail higher, bulk lower. Balances the group's thin food margins.</p>
+        <p style="margin-top: 8px; font-weight: 600; color: var(--perfume);">[PLACEHOLDER figures]</p>
+      </div>
+    </div>
+    <div class="two-col" style="margin-top: 2vh;">
+      <div class="card">
+        <h4 style="font-size: 14px; color: var(--perfume);">Projected Model (Placeholder)</h4>
+        <table>
+          <tr><th>Item</th><th style="text-align:right;">Amount</th></tr>
+          <tr><td>Full-capacity monthly revenue</td><td style="text-align:right;">N20,000,000</td></tr>
+          <tr><td>Cost of sales (~55%)</td><td style="text-align:right;">(N11,000,000)</td></tr>
+          <tr><td>Gross profit (~45%)</td><td style="text-align:right;">N9,000,000</td></tr>
+          <tr><td>Allocated overhead</td><td style="text-align:right;">(N3,000,000)</td></tr>
+          <tr><td style="font-weight:600; color: var(--perfume);">Net monthly profit</td><td style="text-align:right; font-weight:600; color: var(--perfume);">N6,000,000</td></tr>
+        </table>
+        <p style="font-size: 11px; color: var(--text-dim); margin-top: 6px;">Replace with actuals before investor meeting.</p>
+      </div>
+      <div class="card">
+        <h4 style="font-size: 14px; color: var(--perfume);">N15M Allocation</h4>
+        <table>
+          <tr><th>Use</th><th style="text-align:right;">Amount</th></tr>
+          <tr><td>Raw materials (oils, bases, ethanol)</td><td style="text-align:right;">N7,500,000</td></tr>
+          <tr><td>Packaging (bottles, pumps, boxes)</td><td style="text-align:right;">N3,000,000</td></tr>
+          <tr><td>Distribution &amp; retail expansion</td><td style="text-align:right;">N2,100,000</td></tr>
+          <tr><td>Equipment (filling, mixing, storage)</td><td style="text-align:right;">N1,500,000</td></tr>
+          <tr><td>NAFDAC &amp; buffer</td><td style="text-align:right;">N900,000</td></tr>
+        </table>
+        <p style="font-size: 11px; color: var(--text-dim); margin-top: 6px;">NAFDAC (cosmetics/aromatics) status being confirmed.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 9: COMPETITION ======== -->
+  <div class="slide" data-index="9">
+    <div class="slide-number">09 / 11</div>
+    <h2>Competition &amp; <span class="teal">Differentiation</span></h2>
+    <p class="subtitle">DanDuru Group occupies the sweet spot: high compliance + low price</p>
+    <div class="matrix">
+      <div class="matrix-cell highlight">
+        <h5>DanDuru Group ★ (Sweet Spot)</h5>
+        <p>High quality/compliance. Low price. NAFDAC-approved, vitamin-fortified food + locally produced fragrance at mass-market price.</p>
+      </div>
+      <div class="matrix-cell">
+        <h5>St. Louis / Golden Penny</h5>
+        <p>Premium pricing, table sugar only. Not focused on mass-market packaged granulated sugar. Limited SKU range.</p>
+      </div>
+      <div class="matrix-cell">
+        <h5>Informal "Mallam" Packers</h5>
+        <p>Low price but no NAFDAC, no fortification, no hygiene, no brand. Regulatory moat protects DanDuru.</p>
+      </div>
+      <div class="matrix-cell">
+        <h5>Imported Fragrance</h5>
+        <p>Premium-priced imports dominate. FlourishScent replaces them with quality local production — retail and 25kg bulk.</p>
+      </div>
+    </div>
+    <div class="three-col" style="margin-top: 2vh;">
+      <div class="card" style="padding: 16px;">
+        <h4 style="font-size: 14px; color: var(--primary);">1. Regulatory Moat</h4>
+        <p style="font-size: 12px;">Government mandates vitamin A fortification — informal packers cannot comply without capital. DanDuru is already compliant.</p>
+      </div>
+      <div class="card" style="padding: 16px;">
+        <h4 style="font-size: 14px; color: var(--primary);">2. Cost Advantage</h4>
+        <p style="font-size: 12px;">VFFS automation produces at lower per-unit cost than hand-packing. Local fragrance production beats imports on cost and restock speed.</p>
+      </div>
+      <div class="card" style="padding: 16px;">
+        <h4 style="font-size: 14px; color: var(--primary);">3. Brand Trust</h4>
+        <p style="font-size: 12px;">DanFam = hygiene, quality, traceability. Institutional buyers can only buy NAFDAC-approved products.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 10: TEAM ======== -->
+  <div class="slide" data-index="10">
+    <div class="slide-number">10 / 11</div>
+    <h2>Management <span class="teal">Team</span></h2>
+    <p class="subtitle">Seasoned professionals with Big-4 consulting, F&B manufacturing, and ICAN finance expertise</p>
+    <div class="four-col">
+      <div class="card" style="padding: 16px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">👨‍💼</div>
+        <h4 style="font-size: 13px;">Chikwendu I. Felix</h4>
+        <p style="font-size: 11px; color: var(--primary); font-weight: 600;">Group Managing Director</p>
+        <p style="font-size: 11px; margin-top: 6px;">Ex-McNichols. Built Mic-Igbea Industries. Founder/owner of both subsidiaries. 10+ yrs SME manufacturing.</p>
+      </div>
+      <div class="card" style="padding: 16px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">👨‍💼</div>
+        <h4 style="font-size: 13px;">Godslove Okorie</h4>
+        <p style="font-size: 11px; color: var(--primary); font-weight: 600;">Finance Manager</p>
+        <p style="font-size: 11px; margin-top: 6px;">ICAN Associate. Ex-Senior Accountant at major F&B manufacturer. Financial controls &amp; cost accounting.</p>
+      </div>
+      <div class="card" style="padding: 16px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">👨‍💼</div>
+        <h4 style="font-size: 13px;">Michael Atoyebi</h4>
+        <p style="font-size: 11px; color: var(--primary); font-weight: 600;">Production Manager</p>
+        <p style="font-size: 11px; margin-top: 6px;">Biochemistry (Unilorin). Ex-Doyin Industries, Cascade Waters (QA). Oversees production quality.</p>
+      </div>
+      <div class="card" style="padding: 16px; text-align: center;">
+        <div style="font-size: 32px; margin-bottom: 8px;">👨‍💼</div>
+        <h4 style="font-size: 13px;">Nwaimo Ephraim</h4>
+        <p style="font-size: 11px; color: var(--primary); font-weight: 600;">HR &amp; External Relations</p>
+        <p style="font-size: 11px; margin-top: 6px;">Ex-Arthur Andersen, Accenture. 10+ yrs HR. Government &amp; NAFDAC liaison. From inception.</p>
+      </div>
+    </div>
+    <div style="margin-top: 1.5vh; background: rgba(46,125,123,0.04); border-radius: 12px; padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; border: 1px solid rgba(46,125,123,0.15);">
+      <span style="font-size: 13px;"><strong style="color: var(--primary);">+ Kunle Okunsonya</strong> <span class="dim">— Technical Services Manager (Electrical Engineer)</span></span>
+      <span style="font-size: 13px;"><strong style="color: var(--perfume);">+ [Name TBD]</strong> <span class="dim">— FlourishScent General Manager (runs the perfume line)</span></span>
+    </div>
+    <div style="margin-top: 12px; background: rgba(46,125,123,0.04); border-radius: 12px; padding: 12px 16px; text-align: center; border: 1px solid rgba(46,125,123,0.15);">
+      <span style="font-size: 13px;"><strong style="color: var(--primary);">Hiring Plan:</strong> <span class="dim">+7-9 roles with funding (2 sales, 1 brand, 1 QC, 4 operators, 1-2 fragrance production)</span></span>
+    </div>
+  </div>
+
+  <!-- ======== SLIDE 11: ASK ======== -->
+  <div class="slide" data-index="11">
+    <div class="slide-number">11 / 11</div>
+    <h2>The <span class="teal">Ask</span></h2>
+    <p class="subtitle"><span id="s10_ask_display">N50,000,000</span> — N35M food / N15M perfume — to unlock full production capacity</p>
+    <div class="two-col">
+      <div>
+        <div class="pie-container" style="justify-content: flex-start;">
+          <div class="pie"></div>
+          <div class="pie-legend">
+            <div><span class="dot" style="background: var(--primary);"></span> Raw Materials — 50% (N17.5M)</div>
+            <div><span class="dot" style="background: var(--primary-light);"></span> Packaging — 20% (N7M)</div>
+            <div><span class="dot" style="background: #A8D5D4;"></span> Distribution — 14% (N4.9M)</div>
+            <div><span class="dot" style="background: #CBD5E1;"></span> Equipment — 10% (N3.5M)</div>
+            <div><span class="dot" style="background: #E2E8F0;"></span> Buffer — 6% (N2.1M)</div>
+            <div style="margin-top: 8px;"><strong class="purple">Perfume line: N15M</strong> <span style="color: var(--text-dim);">(same 50/20/14/10/6 split + NAFDAC)</span></div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="card">
+          <table>
+            <tr><th>Term</th><th>Detail</th></tr>
+            <tr><td>Amount</td><td id="s10_amount">N50,000,000</td></tr>
+            <tr><td>Allocation</td><td>N35M food (70%) | N15M perfume (30%)</td></tr>
+            <tr><td>Instrument</td><td>Working capital loan or equity (open)</td></tr>
+            <tr><td>Tenure (if loan)</td><td>12 months, monthly repayments</td></tr>
+            <tr><td>Projected Payback</td><td style="color: var(--primary); font-weight: 600;">~3 months</td></tr>
+            <tr><td>Security</td><td>Company assets + personal guarantees</td></tr>
+            <tr><td>Year 1 Net Profit</td><td id="s10_annual" style="font-weight:600;">N274,751,808</td></tr>
+          </table>
+        </div>
+        <div style="margin-top: 16px; text-align: center;">
+          <p style="font-size: 13px; color: var(--text-dim);">↓ Scan for data room</p>
+          <div style="width: 120px; height: 120px; background: var(--bg-card); border-radius: 12px; margin: 8px auto; display: flex; flex-direction: column; align-items: center; justify-content: center; color: var(--text-dim); font-size: 10px; text-align: center; padding: 8px; border: 2px dashed var(--border); gap: 4px;">
+            <span style="font-size: 24px;">⬜</span>
+            <span style="font-weight: 500; color: var(--primary); font-size: 11px;">YOUR QR CODE</span>
+            <span>Paste your data room<br>link QR here</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Navigation -->
+<div class="nav-bar">
+  <div class="logo">DanDuru Group <span>| Investor Deck</span></div>
+  <div class="nav-controls">
+    <button class="nav-btn" onclick="goToSetup()" title="Edit Data">✏️ <span>Edit Data</span></button>
+    <button class="nav-btn" onclick="window.print()" title="Export PDF">📄 <span>PDF</span></button>
+    <button onclick="prevSlide()">‹</button>
+    <span class="counter" id="counter">01 / 11</span>
+    <button onclick="nextSlide()">›</button>
+  </div>
+  <div class="progress-track" id="progress" style="width: 0%;"></div>
+</div>
+
+<script>
+  let current = 0;
+  const slides = document.querySelectorAll('.slide');
+  const total = slides.length;
+
+  // FlourishScent placeholders (replace with actuals)
+  const PERFUME_MONTHLY_REV = 20000000;
+  const PERFUME_MONTHLY_COGS = 11000000;
+  const PERFUME_MONTHLY_NET = 6000000;
+
+  function showSlide(n) {
+    slides.forEach(s => s.classList.remove('active'));
+    slides[n].classList.add('active');
+    document.getElementById('counter').innerHTML = `<strong>${String(n+1).padStart(2,'0')}</strong> / ${String(total).padStart(2,'0')}`;
+    document.getElementById('progress').style.width = `${((n+1)/total)*100}%`;
+    current = n;
+  }
+
+  function nextSlide() { if (current < total - 1) showSlide(current + 1); }
+  function prevSlide() { if (current > 0) showSlide(current - 1); }
+
+  function goToSetup() { showSlide(0); }
+
+  function formatN(n) {
+    if (n >= 1000000000) return 'N' + (n / 1000000000).toFixed(1) + 'B';
+    if (n >= 1000000) return 'N' + (n / 1000000).toFixed(1) + 'M';
+    if (n >= 1000) return 'N' + n.toLocaleString();
+    return 'N' + n.toFixed(0);
+  }
+
+  function generateDeck() {
+    const get = id => document.getElementById(id);
+    const val = id => parseFloat(get(id).value) || 0;
+    const txt = id => get(id).value || '';
+
+    const company = txt('inp_company');
+    const p1 = txt('inp_p1_name') || 'Product 1';
+    const p2 = txt('inp_p2_name') || 'Product 2';
+    const p1Price = val('inp_p1_price');
+    const p2Price = val('inp_p2_price');
+    const p1Cost = val('inp_p1_cost');
+    const p2Cost = val('inp_p2_cost');
+    const p1Per = val('inp_p1_per') || 1;
+    const p2Per = val('inp_p2_per') || 1;
+    const p1Daily = val('inp_p1_daily');
+    const p2Daily = val('inp_p2_daily');
+    const days = val('inp_days') || 26;
+    const overhead = val('inp_overhead');
+    const ask = val('inp_ask');
+    const growth = val('inp_growth') / 100;
+    const presenter = txt('inp_presenter');
+
+    const p1DailySachets = p1Daily * p1Per;
+    const p2DailySachets = p2Daily * p2Per;
+    const p1DailyRev = p1DailySachets * p1Price;
+    const p2DailyRev = p2DailySachets * p2Price;
+    const p1DailyCost = p1DailySachets * p1Cost;
+    const p2DailyCost = p2DailySachets * p2Cost;
+
+    const p1MonthlyRev = p1DailyRev * days;
+    const p2MonthlyRev = p2DailyRev * days;
+    const totalMonthlyRev = p1MonthlyRev + p2MonthlyRev;
+    const p1MonthlyCost = p1DailyCost * days;
+    const p2MonthlyCost = p2DailyCost * days;
+    const totalMonthlyCost = p1MonthlyCost + p2MonthlyCost;
+    const grossProfit = totalMonthlyRev - totalMonthlyCost;
+    const netProfit = grossProfit - overhead;
+    const annualNet = netProfit * 12;
+
+    // Group totals (food + FlourishScent placeholders)
+    const perfumeOverhead = 3000000;
+    const groupRev = totalMonthlyRev + PERFUME_MONTHLY_REV;
+    const groupCost = totalMonthlyCost + PERFUME_MONTHLY_COGS;
+    const groupGP = groupRev - groupCost;
+    const groupNet = netProfit + PERFUME_MONTHLY_NET;
+    const groupAnnual = groupNet * 12;
+
+    const p1GP = p1Price - p1Cost;
+    const p2GP = p2Price - p2Cost;
+    const p1Margin = (p1GP / p1Price * 100);
+    const p2Margin = (p2GP / p2Price * 100);
+    const blendedMargin = (grossProfit / totalMonthlyRev * 100);
+
+    const ohPct = (overhead / grossProfit * 100);
+
+    // Year 2 & 3 (food line)
+    const y2Rev = totalMonthlyRev * (1 + growth);
+    const y2NP = netProfit * (1 + growth);
+    const y2Annual = y2NP * 12;
+    const y3Rev = y2Rev * (1 + growth);
+    const y3NP = y2NP * (1 + growth);
+    const y3Annual = y3NP * 12;
+    const cum2 = annualNet + y2Annual;
+    const cum3 = cum2 + y3Annual;
+
+    const roi = (cum3 / ask);
+    const paybackMonths = Math.ceil(ask / groupNet);
+
+    const f = v => formatN(v);
+    const fn = v => 'N' + Math.round(v).toLocaleString();
+    const f1 = v => 'N' + (v / 1000000).toFixed(1) + 'M';
+
+    // SLIDE 1: Title
+    get('s1_company').textContent = company;
+    get('s1_ask').textContent = f(ask);
+    get('s1_presenter').textContent = presenter;
+
+    // SLIDE 3: Solution
+    get('s3_p1_margin').textContent = p1Margin.toFixed(1) + '% margin';
+    get('s3_p2_margin').textContent = p2Margin.toFixed(1) + '% margin';
+
+    // SLIDE 5: Traction
+    get('s5_ask').textContent = f(ask) + ' Working Capital';
+    get('s5_rev').textContent = f1(groupRev);
+    get('s5_profit').textContent = f1(groupNet);
+
+    // SLIDE 6: Financial Summary
+    get('s6_ask_label').textContent = f(ask);
+    get('s6_rev').textContent = f1(groupRev);
+    get('s6_gp').textContent = f1(groupGP);
+    get('s6_np').textContent = f1(groupNet);
+    get('s6_annual').textContent = f1(groupAnnual);
+
+    get('s6_p1_name_tbl').textContent = p1;
+    get('s6_p2_name_tbl').textContent = p2;
+    get('s6_p1_rev').textContent = fn(p1MonthlyRev);
+    get('s6_p2_rev').textContent = fn(p2MonthlyRev);
+    get('s6_p3_rev').textContent = fn(PERFUME_MONTHLY_REV);
+    get('s6_total_rev').textContent = fn(groupRev);
+    get('s6_p1_name_cogs').textContent = p1;
+    get('s6_p2_name_cogs').textContent = p2;
+    get('s6_p1_cogs').textContent = '(' + fn(p1MonthlyCost) + ')';
+    get('s6_p2_cogs').textContent = '(' + fn(p2MonthlyCost) + ')';
+    get('s6_p3_cogs').textContent = '(' + fn(PERFUME_MONTHLY_COGS) + ')';
+    get('s6_gp_val').textContent = fn(groupGP);
+    get('s6_oh').textContent = '(' + fn(overhead + perfumeOverhead) + ')';
+    get('s6_np_val').textContent = fn(groupNet);
+    get('s6_p1_margin').textContent = p1 + ' ' + p1Margin.toFixed(1) + '%';
+    get('s6_p2_margin').textContent = p2 + ' ' + p2Margin.toFixed(1) + '%';
+    get('s6_growth_label').textContent = (growth * 100).toFixed(0);
+
+    get('s6_y1_rev').textContent = f1(totalMonthlyRev);
+    get('s6_y2_rev').textContent = f1(y2Rev);
+    get('s6_y3_rev').textContent = f1(y3Rev);
+    get('s6_y1_np').textContent = f1(netProfit);
+    get('s6_y2_np').textContent = f1(y2NP);
+    get('s6_y3_np').textContent = f1(y3NP);
+    get('s6_y1_annual').textContent = f1(annualNet);
+    get('s6_y2_annual').textContent = f1(y2Annual);
+    get('s6_y3_annual').textContent = f1(y3Annual);
+    get('s6_cum2').textContent = f1(cum2);
+    get('s6_cum3').textContent = f1(cum3);
+    get('s6_ask_small').textContent = f(ask);
+    get('s6_roi').textContent = roi.toFixed(1) + 'x';
+    get('s6_days').textContent = days;
+
+    // SLIDE 7: Unit Economics
+    get('s7_p1_name').textContent = p1;
+    get('s7_p2_name').textContent = p2;
+    get('s7_p1_price').textContent = 'N' + p1Price;
+    get('s7_p2_price').textContent = 'N' + p2Price;
+    get('s7_p1_cost').textContent = 'N' + p1Cost.toFixed(2);
+    get('s7_p2_cost').textContent = 'N' + p2Cost.toFixed(2);
+    get('s7_p1_gp').textContent = 'N' + p1GP.toFixed(2);
+    get('s7_p2_gp').textContent = 'N' + p2GP.toFixed(2);
+    get('s7_p1_margin_text').textContent = p1Margin.toFixed(1) + '% margin — volume driver';
+    get('s7_p2_margin_text').textContent = p2Margin.toFixed(1) + '% margin — profit engine';
+    get('s7_p1_volume').innerHTML = p1Per + ' sachets/pack · ' + p1Daily + ' packs/day · <strong>' + p1DailySachets.toLocaleString() + '</strong> sachets/day';
+    get('s7_p2_volume').innerHTML = p2Per + ' sachets/carton · ' + p2Daily + ' cartons/day · <strong>' + p2DailySachets.toLocaleString() + '</strong> sachets/day';
+    get('s7_blended').textContent = blendedMargin.toFixed(1);
+    get('s7_oh_pct').textContent = ohPct.toFixed(1);
+
+    // SLIDE 11: Ask
+    get('s10_ask_display').textContent = f(ask);
+    get('s10_amount').textContent = fn(ask);
+    get('s10_annual').textContent = fn(groupAnnual);
+
+    // Navigate to Slide 1
+    showSlide(1);
+  }
+
+  // Keyboard + touch
+  document.addEventListener('keydown', e => {
+    if (e.key === 'ArrowRight' || e.key === 'ArrowDown') { e.preventDefault(); nextSlide(); }
+    if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { e.preventDefault(); prevSlide(); }
+    if (e.key === 'Enter' && current === 0) { generateDeck(); }
+  });
+
+  let touchStartX = 0;
+  document.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; });
+  document.addEventListener('touchend', e => {
+    const diff = touchStartX - e.changedTouches[0].screenX;
+    if (Math.abs(diff) > 50) { diff > 0 ? nextSlide() : prevSlide(); }
+  });
+
+  // Auto-generate on page load
+  generateDeck();
+</script>
+
+</body>
+</html>
