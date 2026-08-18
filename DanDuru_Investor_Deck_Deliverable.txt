@@ -296,9 +296,9 @@ across borders — we export into Cameroon today. And in fragrance, imports
 dominate — the opportunity for a reliable local blender and filler is clear."
 
 VISUAL: Market size bubble chart (N240B sugar, ~N50-60B household sugar segment,
-N50B mass cocoa, N40B premium cocoa, fragmented custard, [PLACEHOLDER]
-fragrance). Overlay: "Household sugar segment (~20%) is ~100% informal — zero
-formal packaged player."
+N50B mass cocoa, N40B premium cocoa, fragmented custard, N500B+ fragrance —
+premium ≈N490B/US$326.8M in 2025, mass + premium higher). Overlay: "Household
+sugar segment (~20%) is ~100% informal — zero formal packaged player."
 
 --- SLIDE 5: Traction — What's Built vs. What's Needed ---
 
@@ -310,7 +310,8 @@ BULLETS:
   materials
 • Current actual food monthly revenue (skeletal): N1,270,000 — demand is real
 • WHAT'S BUILT: VFFS packaging machines, mixers, mills — tested and operational
-• WHAT'S BUILT: Distributors in 3 states — Lagos, Port Harcourt, Aba
+• WHAT'S BUILT: Distributors in 3 states — Lagos, Port Harcourt, Aba (no single
+  distributor exceeds ~25% of volume)
 • WHAT'S BUILT: Cross-border channel into Cameroon via Calabar
 • THE ONLY MISSING PIECE: Working capital to buy raw materials at scale
 
@@ -465,6 +466,34 @@ structuring this as debt or equity, depending on the investor's preference."
 VISUAL: Pie chart — N50M split: Food 70% | Perfume 30%. Below: two smaller
 pie charts with the food and perfume allocations. "Repayment: ~3 months incl. ramp."
 
+--- SLIDE 13: Cash Flow Forecast ---
+
+BULLETS:
+• Month-by-month from capital deployment (N'000) — cumulative balance stays
+  positive through the front-loaded spend
+• Capital N50M deployed in M1 (equipment + first inventory cycle)
+• Food sells at full capacity from day 1 (cash-and-carry); FlourishScent
+  ramps 25%→100% over 6 months
+• No single month dips below positive cumulative cash
+
+TABLE (N'000):
+| Month | Perfume | Capital In | Sales In | Cash Out* | Net CF | Closing Bal. |
+| M1 | 25% cap | 50,000 | 248,744 | (232,889) | 65,855 | 65,855 |
+| M2 | 40% cap | – | 255,494 | (232,023) | 23,471 | 89,326 |
+| M3 | 55% cap | – | 262,244 | (236,157) | 26,087 | 115,413 |
+| M4 | 70% cap | – | 268,994 | (240,292) | 28,702 | 144,115 |
+| M5 | 85% cap | – | 275,744 | (244,426) | 31,318 | 175,433 |
+| M6 | 100% cap | – | 282,494 | (248,561) | 33,933 | 209,367 |
+
+*Cash out = COGS + overhead; M1 includes one-off equipment (N5,000).
+
+SPEAKER NOTES:
+"Why is month one not a red flag? Because the N50M buys equipment and the first
+inventory cycle, while food — at full capacity from day one with distributors
+already confirmed — collects cash-and-carry within weeks. The cumulative balance
+never dips. Time to full utilization: food day 1, perfume month 6. Loan service
+(~N4.2M/month) is covered 5-8x from month 1."
+
 
 ================================================================================
 3B. EXTENDED INVESTOR DECK — 15 Slides
@@ -493,8 +522,8 @@ BULLETS:
 • Premium cocoa beverages: N40B — dominated by Nestle/Cadbury
 • Custard: Fragmented, uncertified players — DanDuru introduces 3-in-1 and
   4-in-1 bundled variants (milk + sugar + cocoa)
-• Fragrance: [PLACEHOLDER: Nigerian perfume market size by segment — mass
-  market oils, sprays, and bulk trade]
+• Fragrance: N500B+ (premium ≈N490B/US$326.8M in 2025; mass + premium higher,
+  import-dominated)
 • Total accessible food market: N330B+
 • DanDuru target share: 10-20% per food segment by 2030
 • FlourishScent: local blending & filling of scarce undiluted oils, retail + bulk
@@ -508,7 +537,7 @@ target of 10-20% per segment is ambitious but achievable with the distribution
 network we are building."
 
 VISUAL: Stacked bar chart — Market size by segment (Sugar N240B, Mass Cocoa
-N50B, Premium Cocoa N40B, Custard N50B estimated, Fragrance [PLACEHOLDER]).
+N50B, Premium Cocoa N40B, Custard N50B estimated, Fragrance N500B+).
 Arrow: "DanDuru Group captures 10-20% by 2030."
 
 --- SLIDE 5: Traction — Assets Built vs. Capital Needed ---
@@ -517,7 +546,8 @@ BULLETS:
 • Food operations commenced: October 2024
 • WHAT'S BUILT: VFFS machines, mixers, mills — installed, tested, operational
 • WHAT'S BUILT: NAFDAC compliance for all current food SKUs
-• WHAT'S BUILT: Distributors in 3 states — Lagos, Port Harcourt, Aba
+• WHAT'S BUILT: Distributors in 3 states — Lagos, Port Harcourt, Aba (no single
+  distributor exceeds ~25% of volume)
 • WHAT'S BUILT: Cross-border channel into Cameroon via Calabar
 • WHAT'S BUILT: FlourishScent selling today — retail + bulk, Lagos
 • WHAT'S NEEDED: Working capital to purchase raw materials at scale

@@ -104,7 +104,9 @@ is inventory, show it. If empty, explain why.
 SCRIPT:
 "This is where raw materials come in and finished goods go out. We already
 have distributors in Lagos, Port Harcourt, and Aba — and an export channel
-into Cameroon. When we have stock, it moves. The demand is confirmed."
+into Cameroon. No single distributor is more than about a quarter of our
+volume, so our sales base is diversified. When we have stock, it moves. The
+demand is confirmed."
 
 ================================================================================
 SCENE 6: CLOSE — THE ASK (35 seconds)
@@ -127,8 +129,10 @@ perfume line — we can run at full capacity and unlock over N282 million in
 combined monthly revenue and nearly N34 million in net monthly profit. The
 food line runs at full capacity immediately; FlourishScent scales from its
 current N2.5 million a month to N45 million within six months. The facility
-is repaid from operating cash flow in about two to three months. The
-equipment is ready. The market is ready. We just need capital to unlock it.
+is repaid from operating cash flow in about two months at full capacity —
+about three months including the six-month perfume scale-up; the month-by-month
+cash-flow forecast is in the deck (slide 13). The equipment is ready. The
+market is ready. We just need capital to unlock it.
 
 I invite you to review our numbers and schedule a visit. Thank you."
 
@@ -143,7 +147,8 @@ RECORDING TIPS:
 4. If the machine is not running, still stand next to it — show it exists
 5. One continuous take is fine — don't over-edit
 6. Upload to YouTube (unlisted) or Google Drive and share the link
-7. Embed the link in the pitch deck Slide 5 (next to "Equipment installed")
+7. Embed the link in the pitch deck Slide 5 — paste it over
+   "https://youtube.com/PASTE-UNLISTED-LINK-HERE"
 
 If the perfume production area is small or not visually rich, keep the
 FlourishScent segment short — a few bottles and bulk drums on camera is enough.

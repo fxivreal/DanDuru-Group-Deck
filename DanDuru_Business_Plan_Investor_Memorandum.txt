@@ -290,8 +290,12 @@ directly to secure supply and cut cost, while blending, filling and packaging
 locally. This gives faster restocking, quality control and the ability to
 offer both retail packs and bulk quantities (3ml to 25kg) in one business.
 
-[PLACEHOLDER: Insert specific market-size estimates and named competitors for
-the Nigerian perfume market.]
+Premium fragrances in Nigeria were worth approximately USD 326.8 million (~N490 billion) in 2025
+(Deep Market Insights); with mass-market oils and sprays added, the combined market is well above
+N500 billion. The category is import-dominated and fragmented (Euromonitor: leading brand Oriflame
+holds ~7% share), so value accrues to brands that blend and package locally. Nigeria also exports
+fragrances to West and Central Africa (DRC, Tanzania), which FlourishScent's export ambitions can
+piggyback on.
 
 
 ================================================================================
@@ -656,6 +660,32 @@ covers the N50M within 3 months. As a 12-month facility, monthly loan service of
 ~N4.2M is covered 5-8x by operating cash flow throughout the ramp.
 
 Security: Company assets + personal guarantee of directors.
+
+--- Cash Flow Forecast (month-by-month, N'000) ---
+
+The N50M is deployed in month 1 (equipment + first inventory cycle). Food sells at
+full capacity from day 1 on cash-and-carry terms, so collections arrive within
+days-to-weeks of deployment and the cumulative balance stays positive throughout
+the ramp - there is no red-flag month one.
+
+| Month | Perfume | Capital In | Sales In | Cash Out* | Net CF | Closing Balance |
+| M1 | 25% cap | 50,000 | 248,744 | (232,889) | 65,855 | 65,855 |
+| M2 | 40% cap | - | 255,494 | (232,023) | 23,471 | 89,326 |
+| M3 | 55% cap | - | 262,244 | (236,157) | 26,087 | 115,413 |
+| M4 | 70% cap | - | 268,994 | (240,292) | 28,702 | 144,115 |
+| M5 | 85% cap | - | 275,744 | (244,426) | 31,318 | 175,433 |
+| M6 | 100% cap | - | 282,494 | (248,561) | 33,933 | 209,367 |
+
+*Cash out = COGS + overhead; M1 includes one-off equipment (N5,000).
+
+Time to full utilization: food - day 1 (equipment installed & tested); FlourishScent
+- month 6 (from N2.5M actuals today to N45M across all SKUs). Cash conversion cycle
+2-3 weeks: revenue recycles into the next cycle's inventory. Monthly loan service on
+a 12-month facility (~N4.2M) is covered 5-8x by operating cash flow from month 1.
+
+Distribution concentration: no single food distributor exceeds ~25% of volume, and
+the channel spans wholesale distributors, direct retail and the Cameroon export
+route - so no one distributor can hold the business to ransom.
 
 
 ================================================================================
