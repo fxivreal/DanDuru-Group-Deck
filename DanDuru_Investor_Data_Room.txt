@@ -51,7 +51,7 @@ DanDuru_Investor_Data_Room/
 ├── 06_Team/
 │   ├── Management_Profiles.pdf
 │   ├── CVs/                                    ← Folder with individual resumes
-│   ├── FlourishScent_Manager_Profile.pdf       ← [Name TBD]
+│   ├── FlourishScent_Manager_Profile.pdf       ← Mirian Chikwendu
 │   └── Org_Chart.pdf
 │
 ├── 07_Traction/
