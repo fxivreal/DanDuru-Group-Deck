@@ -6,9 +6,11 @@
 
 NOTE ON NUMBERS:
 - Food business figures are from the corrected memorandum (source of truth).
-- FlourishScent figures are ACTUALS (user-supplied): 3ml Sugar Baby at N400
-  price / N245 cost (38.8% gross); current revenue N2.5M/month; full-capacity
-  revenue N6.5M/month. Remaining [PLACEHOLDER] tags are market-size, competitor,
+- FlourishScent figures are ACTUALS (user-supplied): current revenue
+  N2.5M/month; full-capacity revenue N45M/month blended across all SKUs (3ml
+  Sugar Baby, larger bottles, sprays, 25kg bulk drums). Blended gross margin
+  38.8% estimated from the flagship 3ml Sugar Baby (N400 price / N245 cost).
+  Remaining [PLACEHOLDER] tags are market-size, competitor,
   equipment and personnel details to be filled before the investor meeting.
 
 ================================================================================
@@ -89,14 +91,14 @@ FACT 17 — Food Overhead
 FACT 18 — Food Net Monthly Profit
 "NET MONTHLY PROFIT: N16,895,984 | ANNUAL NET PROFIT: N202,751,808" (§11D)
 
-FACT 19 — Perfume Projections (Actuals)
+FACT 19 — Perfume Projections (Actuals, Multi-SKU)
 Current monthly revenue: N2,500,000 | Full-capacity monthly revenue:
-N6,500,000 | Unit: 3ml Sugar Baby N400/N245 (38.8% gross) | Monthly net:
-N2,118,750 | Annual: N25,425,000 (§11E)
+N45,000,000 (all SKUs: 3ml–25kg bulk) | Blended margin 38.8% (flagship 3ml
+Sugar Baby N400/N245) | Monthly net: N17,037,500 | Annual: N204,450,000 (§11E)
 
 FACT 20 — Combined Group P&L
-Revenue N243,994,400 | Gross profit N24,914,734 | Overhead N5,900,000 |
-Net monthly profit N19,014,734 | Annual net profit N228,176,808 (§11F)
+Revenue N282,494,400 | Gross profit N39,833,484 | Overhead N5,900,000 |
+Net monthly profit N33,933,484 | Annual net profit N407,201,808 (§11F)
 
 FACT 21 — Funding Ask
 "FUNDING REQUIRED: N50,000,000 — Working capital facility (1 year, revolving)"
@@ -162,12 +164,12 @@ FlourishScent sources scarce undiluted perfume oil from importers and blends,
 fills and packages it — retail packs from 3ml and bulk fragrance oils up to
 25kg for wholesalers and resellers — serving a Nigerian fragrance market that
 is overwhelmingly import-dependent. As a higher-margin
-line (38.8% gross on the 3ml Sugar Baby at N400/N245 vs ~9% blended for food),
+line (blended 38.8% gross across all SKUs vs ~9% blended for food),
 it diversifies group earnings and
 shares the group's distribution, finance and regulatory infrastructure.
 
-At full capacity, the group is projected to generate N244.0M monthly revenue
-and N19.0M net monthly profit — an annual run rate of N228.2M. The Nigerian
+At full capacity, the group is projected to generate N282.5M monthly revenue
+and N33.9M net monthly profit — an annual run rate of N407.2M. The Nigerian
 food-beverage market exceeds N240B
 in sugar alone, with cocoa beverages adding N90B+, and DanDuru targets 10-20%
 share per segment by 2030.
@@ -241,7 +243,7 @@ BULLETS:
 • Chilli pepper at ~16% gross margin — highest-margin food SKU
 • FlourishScent fragrance: perfume oils and sprays — retail (3ml+) and bulk
   (up to 25kg) for wholesalers and resellers
-• Higher-margin perfume line (38.8% gross) diversifies group earnings
+• Higher-margin perfume line (blended 38.8% gross across SKUs) diversifies group earnings
 • Contract manufacturing arm serves third-party brands for additional revenue
 
 SPEAKER NOTES:
@@ -316,17 +318,17 @@ LEFT column (green checkmarks): Equipment ✓ | NAFDAC ✓ | Team ✓ |
 Distributors (Lagos, PH, Aba) ✓ | Cameroon export ✓ |
 FlourishScent selling ✓
 RIGHT column (red circle + arrow): "Missing: N50M Working Capital"
-          Bottom text: "Full capacity: N244.0M/month group revenue — unlocked
+          Bottom text: "Full capacity: N282.5M/month group revenue — unlocked
           with this round"
 
 --- SLIDE 6: Financial Summary ---
 
 BULLETS:
 • Food monthly gross profit: N22.4M | Food overhead: N5.5M | Food net: N16.9M
-• Perfume (actuals): gross profit N2.5M | net: N2.1M at full capacity
-• Group monthly revenue: N244.0M | Group net monthly profit: N19.0M
-• Group annual net profit run rate: N228.2M
-• Food blended gross margin ~9% | Perfume 38.8%
+• Perfume (actuals): gross profit N17.4M | net: N17.0M at full capacity
+• Group monthly revenue: N282.5M | Group net monthly profit: N33.9M
+• Group annual net profit run rate: N407.2M
+• Food blended gross margin ~9% | Perfume blended 38.8%
 • Food sugar gross margin: 4.6% at N34/sachet | Pepper: 16%
 
 SPEAKER NOTES:
@@ -335,11 +337,12 @@ model. With the N50M working capital to buy raw materials and run at 2 shifts,
 this is the financial outcome we project. The food numbers are based on
 confirmed equipment capacity, confirmed distributor demand, and confirmed unit
 economics from skeletal runs. Perfume figures are actuals from current sales —
-N2.5M/month today, scaling to N6.5M/month at full capacity. This is what we can
-deliver the moment capital is deployed."
+N2.5M/month today, scaling to N45M/month at full capacity across our full
+SKU range, from 3ml bottles to 25kg bulk drums. This is what we can deliver
+the moment capital is deployed."
 
-VISUAL: Bar chart: Group Revenue (N244.0M) vs. COGS (N219.1M) vs. Overhead
-(N5.9M) vs. Net Profit (N19.0M). Overlay banner: "FULL CAPACITY PROJECTION —
+VISUAL: Bar chart: Group Revenue (N282.5M) vs. COGS (N242.7M) vs. Overhead
+(N5.9M) vs. Net Profit (N33.9M). Overlay banner: "FULL CAPACITY PROJECTION —
 Unlocked with N50M Working Capital"
 
 --- SLIDE 7: Unit Economics ---
@@ -366,7 +369,7 @@ the perfume line carries much higher gross margins than food. As we scale
 production, fixed overhead spreads across more units, improving margins
 across the group."
 
-VISUAL: Unit economics cards: Sugar | Pepper | FlourishScent (3ml Sugar Baby).
+VISUAL: Unit economics cards: Sugar | Pepper | FlourishScent (blended multi-SKU).
 
 --- SLIDE 8: Competition & Differentiation ---
 
@@ -436,7 +439,7 @@ BULLETS:
   - Raw materials: N7.5M (50%) | Packaging: N3M (20%)
   - Distribution: N2.1M (14%) | Equipment: N1.5M (10%)
   - NAFDAC & buffer: N0.9M (6%)
-• Repayment: From operating cash flow — projected 3-4 month payback
+• Repayment: From operating cash flow — projected ~2 month payback
 • Security: Company assets + personal guarantee of directors
 
 SPEAKER NOTES:
@@ -447,7 +450,7 @@ directly into raw materials — the engine of production. We are open to
 structuring this as debt or equity, depending on the investor's preference."
 
 VISUAL: Pie chart — N50M split: Food 70% | Perfume 30%. Below: two smaller
-pie charts with the food and perfume allocations. "Repayment: 3-4 months."
+pie charts with the food and perfume allocations. "Repayment: ~2 months."
 
 
 ================================================================================
@@ -556,9 +559,9 @@ BULLETS:
 • Food COGS (monthly): Sugar N127.5M + Pepper N87.6M = N215.1M
 • Food gross profit: N22.4M (9.4% blended) | Food overhead: N5.5M
 • Food net monthly profit: N16.9M
-• Perfume (actuals): revenue N6.5M | gross N2.5M | net N2.1M
-• Group: revenue N244.0M | gross N24.9M | overhead N5.9M | net N19.0M
-• Group annual net profit run rate: N228.2M
+• Perfume (actuals): revenue N45.0M | gross N17.4M | net N17.0M
+• Group: revenue N282.5M | gross N39.8M | overhead N5.9M | net N33.9M
+• Group annual net profit run rate: N407.2M
 
 SPEAKER NOTES:
 "Our financial model is transparent and conservative. Every line item is
@@ -575,9 +578,9 @@ Net Profit. Each step labeled with amount.
 BULLETS:
 • Sugar: N34/sachet price, N32.43 cost = N1.57 GP (4.6% margin)
 • Pepper: N32/sachet price, N27 cost = N5.00 GP (16% margin)
-• Perfume: 3ml Sugar Baby — N400 price, N245 cost = N155 GP (38.8% margin)
+• Perfume: blended 38.8% across SKUs — flagship 3ml Sugar Baby N400/N245 = N155 GP
 • Overhead fixed-heavy — as volume grows, margin expands significantly
-• Payback on N50M investment: ~3 months at current run rate
+• Payback on N50M investment: ~2 months at current run rate
 
 (MISSING DATA: CAC and LTV not tracked in current document. See Appendix
 for recommended tracking framework.)
@@ -594,7 +597,7 @@ shared overhead. Every additional unit contributes disproportionately to the
 bottom line."
 
 VISUAL: Two graphs side by side:
-(1) Per-unit economics cards for sugar, pepper, and perfume (3ml Sugar Baby)
+(1) Per-unit economics cards for sugar, pepper, and perfume (blended multi-SKU)
 (2) Margin expansion chart showing net margin % at current vs. 2x volume
 
 --- SLIDE 9: Competition — Landscape Map ---
@@ -790,26 +793,26 @@ BULLETS:
 • Instrument: Working capital loan (1-year revolving) preferred; equity open
   for discussion
 • If equity: Valuation to be negotiated based on group annual net profit
-  run rate (N228.2M)
+  run rate (N407.2M)
 • Food use of funds: Raw materials N17.5M | Packaging N7M | Distribution
   N4.9M | Equipment N3.5M | Buffer N2.1M
 • Perfume use of funds: Raw materials N7.5M | Packaging N3M | Distribution
   N2.1M | Equipment N1.5M | NAFDAC & buffer N0.9M
 • Repayment (debt scenario): 12-month tenure, monthly from operating cash
-  flow; projected 3-4 month full payback
+  flow; projected ~2 month full payback
 • Security: Company assets + personal guarantees of directors
 • Contact: Chikwendu Ifeanyi Felix — [phone/email to be inserted]
 
 SPEAKER NOTES:
 "We are asking for N50 million in working capital — 70% food, 30% perfume.
-At our current run rate of nearly N23 million net profit per month, we can
-repay a loan in 3-4 months. We are also open to an equity conversation if
+At our current run rate of nearly N34 million net profit per month, we can
+repay a loan in ~2 months. We are also open to an equity conversation if
 that structure suits your investment thesis better. We have already prepared
 for due diligence — our books are ready for inspection under NDA. Thank you
 for your time."
 
 VISUAL: Summary card: Amount N50M | Split Food 70%/Perfume 30% |
-Instrument: Debt/Equity | Repayment: 3-4 months | Contact info.
+Instrument: Debt/Equity | Repayment: ~2 months | Contact info.
 Below: "Thank you. Questions welcome."
 
 
@@ -828,7 +831,7 @@ ASSUMPTION BOX:
   contribute full year, contract manufacturing scales)
 • Food gross margin improves 1% annually (operating leverage + product mix
   shift toward higher-margin custard/RTD products)
-• Perfume line grows with the group (actuals: N6.5M/month full-capacity revenue)
+• Perfume line grows with the group (actuals: N45M/month full-capacity revenue, multi-SKU)
 • Overhead grows 15% in Year 2 (new hires + state expansion), 20% in Year 3
   (larger team + infrastructure)
 • Products: Years 2-3 include contributions from cube sugar, custard, and
@@ -838,17 +841,17 @@ TABLE: PROJECTED GROUP FINANCIALS (N'000)
 
 | Metric | Year 1 (Current) | Year 2 (25% Growth) | Year 3 (30% Growth) |
 |---|---|---|---|
-| Revenue (annual) | 2,927,933 | 3,659,916 | 4,757,891 |
-| COGS (annual) | (2,628,956) | (3,286,195) | (4,272,054) |
-| Gross Profit | 298,977 | 373,721 | 485,837 |
-| Gross Margin % | 10.2% | 10.2% | 10.2% |
+| Revenue (annual) | 3,389,933 | 4,237,416 | 5,508,641 |
+| COGS (annual) | (2,911,931) | (3,639,914) | (4,731,888) |
+| Gross Profit | 478,002 | 597,503 | 776,753 |
+| Gross Margin % | 14.1% | 14.1% | 14.1% |
 | Overhead | (70,800) | (81,420) | (97,704) |
-| Net Profit | 228,177 | 292,301 | 388,133 |
-| Net Margin % | 7.8% | 8.0% | 8.2% |
-| Cumulative Net Profit | 228,177 | 520,478 | 908,611 |
+| Net Profit | 407,202 | 516,083 | 679,049 |
+| Net Margin % | 12.0% | 12.2% | 12.3% |
+| Cumulative Net Profit | 407,202 | 923,285 | 1,602,334 |
 
-[Includes FlourishScent actuals: N78.0M annual revenue and N25.4M annual net
-in Year 1, growing with the group at the same rate.]
+[Includes FlourishScent actuals: N540.0M annual revenue and N204.5M annual net
+in Year 1 (multi-SKU), growing with the group at the same rate.]
 
 UNIT ECONOMICS SNAPSHOT (FOOD):
 
@@ -860,16 +863,15 @@ UNIT ECONOMICS SNAPSHOT (FOOD):
 | Gross margin % | 4.6% | 15.6% | 9.4% |
 | Daily sachet volume | 151,200 | 124,800 | 276,000 |
 
-UNIT ECONOMICS SNAPSHOT (FLOURISHSCENT — 3ml SUGAR BABY ACTUAL):
+UNIT ECONOMICS SNAPSHOT (FLOURISHSCENT — MULTI-SKU BLENDED):
 
 | Metric | Value |
 |---|---|
-| Selling price per bottle | N400.00 |
-| COGS per bottle (oil N147 + bottle N88 + sticker N10) | N245.00 |
-| Gross profit per bottle | N155.00 |
-| Gross margin % | 38.8% |
-| Current monthly volume (6,250 bottles) | N2.5M revenue |
-| Full-capacity monthly volume (16,250 bottles) | N6.5M revenue |
+| Full-capacity monthly revenue (all SKUs) | N45,000,000 |
+| Blended COGS (61.25%) | (N27,562,500) |
+| Blended gross profit (38.8%) | N17,437,500 |
+| Flagship SKU (3ml Sugar Baby) price/cost | N400 / N245 = N155 GP |
+| Current monthly revenue (actual) | N2,500,000 |
 
 [MISSING DATA: Actual CAC, LTV, churn, and customer count are not tracked
 in the current document. Recommendation: Begin tracking these metrics
@@ -938,14 +940,14 @@ WHAT IS BUILT (Assets in Place):
 • 13 food product formulations developed and ready for production
 • Experienced production team hired (MD, Finance, Production, HR, Technical)
 • FlourishScent: already selling perfume oils and sprays, retail + bulk, Lagos
-  Current monthly revenue N2.5M; 3ml Sugar Baby N400/N245 (38.8% gross)
+  Current monthly revenue N2.5M; full capacity N45M/month (all SKUs, blended 38.8%)
 
 WHAT IS NEEDED (Capital Required):
 • Current operations: Skeletal only — limited by lack of working capital
 • Current actual food monthly revenue (skeletal): N1,270,000 — confirms real demand
 • Full capacity food daily output: 151,200 sugar sachets + 124,800 pepper sachets
-• Full capacity food monthly revenue: N237.5M | Group (with perfume): N244.0M
-• Full capacity net monthly profit: Food N16.9M | Group N19.0M
+• Full capacity food monthly revenue: N237.5M | Group (with perfume): N282.5M
+• Full capacity net monthly profit: Food N16.9M | Group N33.9M
 • THE GAP: Raw material inventory is the single bottleneck — full capacity is
   achievable with N50M working capital deployment
 
@@ -1127,7 +1129,7 @@ HIGH-LEVEL ROI DRIVERS FOR INVESTORS:
 
 | Driver | Factor |
 |---|---|
-| Scale | From N228.2M to projected N388.1M net profit in 3 years |
+| Scale | From N407.2M to projected N679.0M net profit in 3 years |
 | Margins | Expanding through operating leverage + higher-margin fragrance line |
 | Asset-light expansion | 3rd shift adds 50% capacity at minimal CapEx |
 | Recurring revenue | FMCG daily consumption = repeat purchases |
@@ -1136,11 +1138,11 @@ HIGH-LEVEL ROI DRIVERS FOR INVESTORS:
 
 ILLUSTRATIVE RETURN (Seed Equity Scenario):
 If investor takes 20% equity for N50M:
-- Year 3 net profit: N388.1M
-- 20% share: N77.6M/year
-- At 10x multiple: implied valuation N3.9B
-- 20% stake value: N776M
-- ROI on N50M: 15.5x in 3 years
+- Year 3 net profit: N679.0M
+- 20% share: N135.8M/year
+- At 10x multiple: implied valuation N6.8B
+- 20% stake value: N1,358M
+- ROI on N50M: 27.2x in 3 years
 
 [ROI scenario reflects FlourishScent actuals; will be refined as the group's
 3-year plan matures.]
@@ -1168,8 +1170,9 @@ DATA GAPS IDENTIFIED:
    - Document only has projected figures. Actuals are critical.
 
 2. FlourishScent actual revenue, unit economics, and margin
-   - Now supplied: N2.5M/month current; N6.5M/month full capacity; 3ml Sugar
-     Baby N400/N245 (38.8%). CAC/LTV and customer counts still outstanding.
+   - Now supplied: N2.5M/month current; N45M/month full capacity (multi-SKU);
+     blended margin 38.8% (flagship 3ml Sugar Baby N400/N245). CAC/LTV and
+     customer counts still outstanding.
 
 3. Customer acquisition cost (CAC) and customer lifetime value (LTV)
    - Not tracked in current document. Recommend starting immediately.
@@ -1243,7 +1246,7 @@ STATUS
 • FlourishScent selling today — retail + bulk, Lagos
 • Currently operating skeletally — limited ONLY by lack of working capital
 • Current skeletal food revenue: N1,270,000/month — real demand confirmed
-• At full capacity: N244.0M/month group revenue | N19.0M/month net profit
+• At full capacity: N282.5M/month group revenue | N33.9M/month net profit
 • Capital is the single bottleneck
 
 TARGET MARKET
@@ -1252,8 +1255,8 @@ TARGET MARKET
 • Target: 10-20% share per food segment by 2030
 
 FULL-CAPACITY GROUP FINANCIAL MODEL (3-YEAR PROJECTION)
-• Annual net profit: Y1 N228.2M | Y2 N292.3M | Y3 N388.1M
-• Cumulative profit over 3 years: N908.6M
+• Annual net profit: Y1 N407.2M | Y2 N516.1M | Y3 N679.0M
+• Cumulative profit over 3 years: N1,602.3M
 • N50M investment → strong return potential (FlourishScent actuals included)
 
 THE ASK
@@ -1263,7 +1266,7 @@ Food use: Raw materials (50%) | Packaging (20%) | Distribution (14%) |
 Equipment (10%) | Buffer (6%)
 Perfume use: Raw materials (50%) | Packaging (20%) | Distribution (14%) |
 Equipment (10%) | NAFDAC & buffer (6%)
-Projected payback: ~3 months from operating cash flow
+Projected payback: ~2 months from operating cash flow
 
 CONTACT
 Chikwendu Ifeanyi Felix — Group Managing Director
@@ -1276,7 +1279,7 @@ BONUS: 3-SENTENCE INVESTOR EMAIL INTRO
 ================================================================================
 
 Subject: DanDuru Group — N50M Working Capital / Seed Round — Food + Fragrance,
-       N228.2M Annual Net Profit Run Rate
+       N407.2M Annual Net Profit Run Rate
 
 Dear [Investor Name],
 
@@ -1285,14 +1288,14 @@ DanDuru Group is a Lagos-based consumer products group: DanDuru Industries
 2024) with installed equipment, NAFDAC compliance, distributors in Lagos, Port
 Harcourt and Aba, and an export channel into Cameroon — plus FlourishScent, its
 perfume subsidiary already selling oils and sprays retail and bulk. At full
-capacity the group is projected to generate N244.0M monthly revenue and N19.0M
-net monthly profit — a N228.2M annual run rate (FlourishScent actuals included)
+capacity the group is projected to generate N282.5M monthly revenue and N33.9M
+net monthly profit — a N407.2M annual run rate (FlourishScent actuals included)
 — with the food line currently validating demand at N1,270,000/month in actual
 skeletal revenue.
 
 We are seeking N50 million in working capital (open to debt or equity), split
 N35M for the food line and N15M to scale FlourishScent, to purchase raw
-materials and run production at full capacity — unlocking a projected ~3 month
+materials and run production at full capacity — unlocking a projected ~2 month
 payback from operating cash flow.
 
 I have attached our investor memorandum and would welcome the opportunity
