@@ -24,8 +24,8 @@ SCRIPT:
 "I'm Chikwendu Ifeanyi Felix, Group Managing Director of DanDuru Industries —
 the parent company of DanDuru Group. This is our production facility in Ogba,
 Lagos — where we package sugar, chilli pepper, and other food products for the
-Nigerian mass market, and where our subsidiary FlourishScent produces perfume
-oils and sprays."
+Nigerian mass market, and where our subsidiary FlourishScent blends, fills and
+packages perfume oils and sprays."
 
 ================================================================================
 SCENE 2: VFFS PACKAGING MACHINE (40 seconds)
@@ -86,10 +86,13 @@ drums/containers. Pick up a retail bottle and a sample vial. If available,
 show the mixing/blending and filling area.
 
 SCRIPT:
-"We also run FlourishScent — our fragrance subsidiary. Perfume oils and sprays,
-from 3ml sample vials up to 25kg bulk drums. We sell retail to consumers and
-bulk to wholesalers and resellers across Lagos. Fragrance carries a much higher
-margin than food, so this line adds profitability to the group's volume."
+"We also run FlourishScent — our fragrance subsidiary. Undiluted perfume oil
+is scarce in Nigeria and West Africa, so we source it from importers who
+bring it in and sell locally, then we blend, fill and package it ourselves.
+Perfume oils and sprays, from 3ml sample vials up to 25kg bulk drums. We sell
+retail to consumers and bulk to wholesalers and resellers across Lagos.
+Fragrance carries a much higher margin than food, so this line adds
+profitability to the group's volume."
 
 ================================================================================
 SCENE 5: DISTRIBUTION / STORAGE AREA (20 seconds)
