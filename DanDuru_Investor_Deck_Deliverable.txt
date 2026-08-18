@@ -65,10 +65,7 @@ FACT 11 — Market Share Targets by 2030
 "Cube sugar market: 10% | Packaged granulated sugar market: 15% | Custard
 market: 20% | Mass market chocolate powder: 20%" (§8 — Market Share Strategy)
 
-FACT 12 — Tax Incentive Gained
-"Pioneer Status granted by the Federal Government" (§8 — Market Share Strategy)
-
-FACT 13 — Production Capacity (Food)
+FACT 12 — Production Capacity (Food)
 "1,050 packs/day" of sugar (144 sachets/pack = 151,200 sachets/day)
 "480 cartons/day" of chilli pepper (260 sachets/carton = 124,800 sachets/day)
 "2 production shifts every 24 hours" (§10, §11A)
@@ -299,7 +296,6 @@ BULLETS:
 • WHAT'S BUILT: VFFS packaging machines, mixers, mills — tested and operational
 • WHAT'S BUILT: Distributors in 3 states — Lagos, Port Harcourt, Aba
 • WHAT'S BUILT: Cross-border channel into Cameroon via Calabar
-• WHAT'S BUILT: Pioneer Status tax incentive granted by Federal Government
 • THE ONLY MISSING PIECE: Working capital to buy raw materials at scale
 
 SPEAKER NOTES:
@@ -313,7 +309,7 @@ market is ready. The only bottleneck is capital."
 
 VISUAL: Two-column layout:
 LEFT column (green checkmarks): Equipment ✓ | NAFDAC ✓ | Team ✓ |
-Distributors (Lagos, PH, Aba) ✓ | Cameroon export ✓ | Pioneer Status ✓ |
+Distributors (Lagos, PH, Aba) ✓ | Cameroon export ✓ |
 FlourishScent selling ✓
 RIGHT column (red circle + arrow): "Missing: N50M Working Capital"
           Bottom text: "Full capacity: N257.5M/month group revenue — unlocked
@@ -503,7 +499,6 @@ BULLETS:
 • WHAT'S BUILT: NAFDAC compliance for all current food SKUs
 • WHAT'S BUILT: Distributors in 3 states — Lagos, Port Harcourt, Aba
 • WHAT'S BUILT: Cross-border channel into Cameroon via Calabar
-• WHAT'S BUILT: Pioneer Status granted — federal tax incentive secured
 • WHAT'S BUILT: FlourishScent selling today — retail + bulk, Lagos
 • WHAT'S NEEDED: Working capital to purchase raw materials at scale
 • Current skeletal food revenue: N1,270,000/month — confirms real demand
@@ -522,7 +517,7 @@ bottleneck is capital."
 
 VISUAL: Two-column infographic:
 LEFT (Green): "ALREADY BUILT" — Equipment ✓ | NAFDAC ✓ | Team ✓ |
-Distributors (3 states) ✓ | Export channel ✓ | Pioneer Status ✓ |
+Distributors (3 states) ✓ | Export channel ✓ |
 FlourishScent selling ✓
 RIGHT (Amber): "MISSING PIECE" — N50M Working Capital for raw materials
 
@@ -642,7 +637,6 @@ BULLETS:
 • FlourishScent: local blending & filling — quality control, restock
   speed, and the ability to supply both retail and 25kg bulk
 • Contract manufacturing model: Diversified revenue, higher capacity utilization
-• Pioneer Status tax incentive for 3-5 years (subject to terms)
 
 SPEAKER NOTES:
 "Our moat is built on three layers. First, regulatory: the government now
@@ -935,7 +929,6 @@ WHAT IS BUILT (Assets in Place):
 • Food operations commenced: October 2024
 • Equipment installed: VFFS machines, mixers, mills — tested and functional
 • NAFDAC compliance secured for all current food SKUs
-• Pioneer Status tax incentive granted by Federal Government (§8)
 • Cross-border channel: Exporting to Cameroon via Calabar (§6)
 • Distributor network: Active in 3 states — Lagos, Port Harcourt, Aba
 • 13 food product formulations developed and ready for production
@@ -1047,7 +1040,7 @@ KEY RISKS & MITIGATIONS:
 | Informal sector undercutting | High | Regulatory moat (NAFDAC + fortification) protects institutional buyers |
 | Naira devaluation | Medium | Majority local sourcing; quick inventory turnover |
 | Equipment downtime | Low | Local vendor support; experienced technician on staff |
-| New entrant with deeper pockets | Low | First-mover advantage; Pioneer Status tax benefit |
+| New entrant with deeper pockets | Low | First-mover advantage; regulatory moat |
 | Fragrance raw material sourcing | Medium | Local importers + international sourcing flexibility |
 
 
@@ -1135,7 +1128,6 @@ HIGH-LEVEL ROI DRIVERS FOR INVESTORS:
 | Asset-light expansion | 3rd shift adds 50% capacity at minimal CapEx |
 | Recurring revenue | FMCG daily consumption = repeat purchases |
 | Diversification | Food volume + fragrance margin under one group |
-| Tax advantage | Pioneer Status reduces effective tax rate |
 | Exit multiple | FMCG trade sales at 8-15x net profit possible |
 
 ILLUSTRATIVE RETURN (Seed Equity Scenario):
@@ -1160,7 +1152,6 @@ SUPPORTING DOCUMENTS TO ATTACH:
 [ ] Product photos and packaging mockups (food + fragrance)
 [ ] Current NAFDAC registration certificates (food)
 [ ] NAFDAC cosmetics/aromatics registration (FlourishScent — TBC)
-[ ] Pioneer Status approval letter from Federal Government
 [ ] Customer purchase orders or distributor agreements
 [ ] Equipment vendor contracts and invoices
 [ ] Current cap table (if equity round)
@@ -1248,7 +1239,7 @@ STATUS
 • Currently operating skeletally — limited ONLY by lack of working capital
 • Current skeletal food revenue: N1,270,000/month — real demand confirmed
 • At full capacity: N257.5M/month group revenue | N22.9M/month net profit
-• Pioneer Status tax incentive granted | Capital is the single bottleneck
+• Capital is the single bottleneck
 
 TARGET MARKET
 • Sugar: N240B+ | Cocoa beverages: N90B+ | Custard: fragmented, growing
