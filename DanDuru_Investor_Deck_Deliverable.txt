@@ -150,12 +150,12 @@ formulations, NAFDAC compliance, and distributor relationships in 3 states
 (Lagos, Port Harcourt, Aba) — but currently operates skeletally due to lack of
 working capital. It addresses a critical gap in bulk breaking: Nigeria imports
 over 96% of its 1.6M-ton annual sugar consumption as bulk, and retail-pack
-sugar imports are banned — so every sachet sold to households must be packaged
-in Nigeria. Yet the household segment (<20% of consumption, ~N50-60B estimate)
+sugar imports are banned — so every sachet and pack sold to households must be
+packaged in Nigeria. Yet the household segment (<20% of consumption, ~N50-60B estimate)
 is served almost entirely by unhygienic informal "mallam" packers, with no
 NAFDAC-approved, vitamin-fortified packaged granulated sugar for the mass
 market. DanDuru buys that bulk from the refiners and repacks it into fortified
-15g sachets.
+15g sachets, 500g and 1kg home packs.
 
 FlourishScent produces perfume oils and sprays — retail packs from 3ml and bulk
 fragrance oils up to 25kg for wholesalers and resellers — serving a Nigerian
@@ -204,7 +204,8 @@ bottles. Contact info bottom.
 
 BULLETS:
 • 1.6M tons of sugar consumed annually in Nigeria — 96% imported as bulk;
-  retail-pack imports banned, so all household sachets are packaged locally
+  retail-pack imports banned, so all household sachets and packs are packaged
+  locally
 • Households (<20% of consumption, ~N50-60B est.) buy sugar from unhygienic
   informal "mallam" packers — no NAFDAC approval, no vitamin fortification
 • Over 80% of Nigerians eat beverages as daily staple — yet pay premium prices
@@ -223,8 +224,8 @@ Nigerians spend heavily on perfume, but almost everything is imported. DanDuru
 Group answers both gaps with local production."
 
 VISUAL: Side-by-side comparison — informal "mallam" sugar on dirty table vs.
-DanDuru hygienic sealed sachet. Callout: "96% imported as bulk — every sachet
-packed in Nigeria."
+DanDuru hygienic sealed sachet. Callout: "96% imported as bulk — every retail
+pack made in Nigeria."
 Small secondary panel: imported perfume bottles vs. FlourishScent local brand.
 
 --- SLIDE 3: The Solution — DanDuru Group Products ---
@@ -256,8 +257,10 @@ BULLETS:
 • Food: Sugar market >N240B | Cocoa beverages >N90B combined | Custard
   fragmented, growing
 • Sugar retail segment: households <20% of consumption (~N50-60B est.); DanDuru
-  buys 50kg bulk from refiners and repacks into fortified 15g sachets
-• Retail-pack sugar imports banned — all household sachets packaged in Nigeria
+  buys 50kg bulk from refiners and repacks into fortified 15g sachets, 500g
+  and 1kg home packs
+• Retail-pack sugar imports banned — all household sachets and packs packaged
+  in Nigeria
 • Fragrance: [PLACEHOLDER: Nigerian perfume/fragrance market size]
 • Fast urbanization + government push for local manufacturing driving demand
 • No formal competitor in packaged granulated sugar for domestic consumers
@@ -268,8 +271,9 @@ BULLETS:
 SPEAKER NOTES:
 "The numbers speak for themselves. The sugar market alone is over a quarter
 trillion naira. Dangote, Bua and Golden Sugar sell 50kg bulk bags to factories —
-that is our raw material, not our market. Our market is the household sachet:
-retail-pack imports are banned, so every sachet must be packed in Nigeria, and
+that is our raw material, not our market. Our market is the household pack:
+retail-pack imports are banned, so every sachet and pack must be made in
+Nigeria, and
 that segment is still served by informal packers. There is no formal player
 serving the packaged domestic consumer. We have already proven we can sell
 across borders — we export into Cameroon today. And in fragrance, imports
@@ -379,7 +383,7 @@ SPEAKER NOTES:
 "Our competitive landscape is unusual: the market leaders Dangote and Bua
 don't compete with us — they sell 50kg bulk bags to factories and beverage
 makers, and they are in fact our raw-material feedstock. Retail-pack imports
-are banned, so the household sachet must be packaged in Nigeria. Our real
+are banned, so the household sachet and pack must be made in Nigeria. Our real
 competition is the informal sector: unlicensed, unhygienic, unfortified. We
 win on every dimension: quality, compliance, price, and brand trust. In
 fragrance, FlourishScent offers the same import-replacement play — quality
@@ -611,9 +615,10 @@ BULLETS:
 SPEAKER NOTES:
 "When investors look at competition, they usually worry about Dangote. But
 Dangote sells sugar in 50kg bags to factories — they don't compete in the
-15g sachet at the local canteen; in fact they are our raw-material supplier.
-Retail-pack imports are banned, so the household sachet must be packaged in
-Nigeria. Our real competition is the informal market, and we beat them on
+15g sachet or the 500g/1kg home pack at the local canteen; in fact they are
+our raw-material supplier.
+Retail-pack imports are banned, so the household sachet and pack must be made
+in Nigeria. Our real competition is the informal market, and we beat them on
 every regulatory and quality dimension. This is a market-creation play, not
 a market-share fight. And in fragrance, the same story: we replace imports
 with quality local production."
@@ -1218,7 +1223,8 @@ team hired.
 
 THE OPPORTUNITY
 Nigeria consumes 1.6M tons of sugar annually — 96% imported as bulk, and
-retail-pack imports are banned, so all household sachets are packaged locally.
+retail-pack imports are banned, so all household sachets and packs are made
+locally.
 The household segment (<20% of consumption, ~N50-60B est.) is served almost
 entirely by informal packers, and no formal NAFDAC-approved, vitamin-fortified
 packaged granulated sugar exists for the mass market. The fragrance market is

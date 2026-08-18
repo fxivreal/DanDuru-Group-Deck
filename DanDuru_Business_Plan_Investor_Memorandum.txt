@@ -229,9 +229,10 @@ that less than 20% of consumption reaches households.
 
 DanDuru operates downstream of these refiners. Our model is bulk breaking: we
 buy refined sugar in bulk bags and repack it into hygienic, NAFDAC-approved,
-vitamin-A-fortified single-serve sachets for the domestic market. Imported
+vitamin-A-fortified retail packs — 15g single-serve sachets, plus 500g and 1kg
+family packs — for the domestic market. Imported
 refined sugar in retail packaging is banned by the Federal Government, so all
-household sachets must be packaged in Nigeria — a structural advantage for
+household sugar must be packaged in Nigeria — a structural advantage for
 local packagers like DanDuru. The household retail segment is estimated at
 approximately N50-60 billion annually.
 
@@ -448,7 +449,7 @@ production model (in-house blending vs contract filling).]
 
 --- 11A. Daily Production & Profit (Food) ---
 
-DANFAM GRANULATED SUGAR (15g Sachets)
+DANFAM GRANULATED SUGAR (15g Sachets; also 500g & 1kg Packs)
 
 | Item | Value |
 | Production cost per sachet | N32.43 |
@@ -538,6 +539,8 @@ premium to bulk retail sugar (N1,700-N2,000/kg). This premium is justified by:
 - Vitamin A fortification - mandated by law but not practiced by informal packers
 - Single-serve convenience - 144 sachets per pack, targeting canteens, bukas,
   and low-income households who buy in small quantities daily
+- Home-pack economy - 500g and 1kg packs serve families at per-kg prices closer
+  to bulk, with the same hygiene and fortification guarantees
 - Brand trust and traceability - consumers can identify and trust the DanFam brand
 
 The 4.6% net margin on sugar is deliberately thin to drive volume. Higher-margin

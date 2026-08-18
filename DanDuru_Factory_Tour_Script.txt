@@ -68,11 +68,11 @@ VISUAL: Pick up actual product sachets/packs. Show the DanFam brand.
 Display a few different products — sugar sachets, pepper, chocolate powder.
 
 SCRIPT:
-"Here are the products. DanFam Granulated Sugar — 15g sachets, vitamin A
-fortified, NAFDAC approved. This is the first packaged granulated sugar
-of its kind in Nigeria. We also have DanFam Chilli Pepper at 16% margin,
-and several other products: custard, chocolate powder, date powder, and
-cereal.
+"Here are the products. DanFam Granulated Sugar — 15g sachets, 500g and 1kg
+packs, vitamin A fortified, NAFDAC approved. This is the first packaged
+granulated sugar of its kind in Nigeria. We also have DanFam Chilli Pepper at
+16% margin, and several other products: custard, chocolate powder, date powder,
+and cereal.
 
 The branding is clean, the packaging is professional, and consumers can
 trust what they're buying. That's our competitive advantage."
