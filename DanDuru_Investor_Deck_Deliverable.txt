@@ -33,7 +33,9 @@ fragrance oils (up to 25kg) for wholesalers and resellers (§1B)
 FACT 04 — Nigeria Sugar Consumption Gap
 "Sugar consumption in Nigeria is currently estimated to be over 1.6 million tons
 per annum but Nigeria produces only about 50,000 tons (approximately 4% of
-national consumption)" (§4 — Industry Prospects)
+national consumption)" (§4 — Industry Prospects). Nearly all of it enters the
+market as bulk; retail-pack sugar imports are banned, and households (<20% of
+consumption, ~N50-60B est.) buy mainly from unlicensed informal packers.
 
 FACT 05 — Mass Market Cocoa Beverage Size
 "The mass market cocoa based beverage market in Nigeria is estimated to be over
@@ -146,10 +148,14 @@ DanDuru Industries (food manufacturing, founded October 2024) and FlourishScent
 (perfumery, already selling). DanDuru has installed equipment, 13 food product
 formulations, NAFDAC compliance, and distributor relationships in 3 states
 (Lagos, Port Harcourt, Aba) — but currently operates skeletally due to lack of
-working capital. It addresses a critical gap: over 96% of Nigeria's 1.6M-ton
-annual sugar consumption is imported or sold through unhygienic informal
-channels, with no NAFDAC-approved, vitamin-fortified packaged granulated sugar
-available for the mass market.
+working capital. It addresses a critical gap in bulk breaking: Nigeria imports
+over 96% of its 1.6M-ton annual sugar consumption as bulk, and retail-pack
+sugar imports are banned — so every sachet sold to households must be packaged
+in Nigeria. Yet the household segment (<20% of consumption, ~N50-60B estimate)
+is served almost entirely by unhygienic informal "mallam" packers, with no
+NAFDAC-approved, vitamin-fortified packaged granulated sugar for the mass
+market. DanDuru buys that bulk from the refiners and repacks it into fortified
+15g sachets.
 
 FlourishScent produces perfume oils and sprays — retail packs from 3ml and bulk
 fragrance oils up to 25kg for wholesalers and resellers — serving a Nigerian
@@ -197,10 +203,10 @@ bottles. Contact info bottom.
 --- SLIDE 2: The Problem ---
 
 BULLETS:
-• 1.6M tons of sugar consumed annually in Nigeria — 96% imported or refined
-  by only 2 players (Dangote, Bua)
-• Most granulated sugar sold through unhygienic informal "mallam" packers —
-  no NAFDAC approval, no vitamin fortification
+• 1.6M tons of sugar consumed annually in Nigeria — 96% imported as bulk;
+  retail-pack imports banned, so all household sachets are packaged locally
+• Households (<20% of consumption, ~N50-60B est.) buy sugar from unhygienic
+  informal "mallam" packers — no NAFDAC approval, no vitamin fortification
 • Over 80% of Nigerians eat beverages as daily staple — yet pay premium prices
   for poorly packaged goods
 • Cocoa beverage market (N50B+) dominated by expensive premium brands
@@ -217,7 +223,8 @@ Nigerians spend heavily on perfume, but almost everything is imported. DanDuru
 Group answers both gaps with local production."
 
 VISUAL: Side-by-side comparison — informal "mallam" sugar on dirty table vs.
-DanDuru hygienic sealed sachet. Callout: "96% of sugar consumed is imported."
+DanDuru hygienic sealed sachet. Callout: "96% imported as bulk — every sachet
+packed in Nigeria."
 Small secondary panel: imported perfume bottles vs. FlourishScent local brand.
 
 --- SLIDE 3: The Solution — DanDuru Group Products ---
@@ -248,6 +255,9 @@ FlourishScent panel (3ml sample → 25kg bulk drum).
 BULLETS:
 • Food: Sugar market >N240B | Cocoa beverages >N90B combined | Custard
   fragmented, growing
+• Sugar retail segment: households <20% of consumption (~N50-60B est.); DanDuru
+  buys 50kg bulk from refiners and repacks into fortified 15g sachets
+• Retail-pack sugar imports banned — all household sachets packaged in Nigeria
 • Fragrance: [PLACEHOLDER: Nigerian perfume/fragrance market size]
 • Fast urbanization + government push for local manufacturing driving demand
 • No formal competitor in packaged granulated sugar for domestic consumers
@@ -257,15 +267,18 @@ BULLETS:
 
 SPEAKER NOTES:
 "The numbers speak for themselves. The sugar market alone is over a quarter
-trillion naira, and there is no formal player serving the packaged domestic
-consumer. Dangote and Bua fight over industrial-scale supply. The local
-mom-and-pop segment is wide open. We have already proven we can sell across
-borders — we export into Cameroon today. And in fragrance, imports dominate —
-the opportunity for a reliable local producer is clear."
+trillion naira. Dangote, Bua and Golden Sugar sell 50kg bulk bags to factories —
+that is our raw material, not our market. Our market is the household sachet:
+retail-pack imports are banned, so every sachet must be packed in Nigeria, and
+that segment is still served by informal packers. There is no formal player
+serving the packaged domestic consumer. We have already proven we can sell
+across borders — we export into Cameroon today. And in fragrance, imports
+dominate — the opportunity for a reliable local producer is clear."
 
-VISUAL: Market size bubble chart (N240B sugar, N50B mass cocoa, N40B premium
-cocoa, fragmented custard, [PLACEHOLDER] fragrance). Overlay: ">90% of sugar
-market unserved for packaged domestic consumption."
+VISUAL: Market size bubble chart (N240B sugar, ~N50-60B household sugar segment,
+N50B mass cocoa, N40B premium cocoa, fragmented custard, [PLACEHOLDER]
+fragrance). Overlay: "Household sugar segment (~20%) is ~100% informal — zero
+formal packaged player."
 
 --- SLIDE 5: Traction — What's Built vs. What's Needed ---
 
@@ -351,7 +364,8 @@ VISUAL: Unit economics cards: Sugar | Pepper | FlourishScent (placeholder).
 --- SLIDE 8: Competition & Differentiation ---
 
 BULLETS:
-• Direct: Dangote/Bua (industrial sugar) — not focused on domestic packaged
+• Direct: Dangote/Bua/Golden Sugar (bulk 50kg bags to industry) — they are
+  our feedstock, not competitors in domestic packaged sugar
 • Indirect: Informal mallam packers (no NAFDAC, no fortification, unhygienic)
 • Premium: St. Louis Cube, Golden Penny — priced above mass market
 • Fragrance: imported brands dominate; [PLACEHOLDER: named competitors]
@@ -363,11 +377,13 @@ BULLETS:
 
 SPEAKER NOTES:
 "Our competitive landscape is unusual: the market leaders Dangote and Bua
-don't compete with us — they sell at industrial scale. Our real competition
-is the informal sector: unlicensed, unhygienic, unfortified. We win on every
-dimension: quality, compliance, price, and brand trust. In fragrance,
-FlourishScent offers the same import-replacement play — quality local
-production at accessible prices, from sample vials to bulk drums."
+don't compete with us — they sell 50kg bulk bags to factories and beverage
+makers, and they are in fact our raw-material feedstock. Retail-pack imports
+are banned, so the household sachet must be packaged in Nigeria. Our real
+competition is the informal sector: unlicensed, unhygienic, unfortified. We
+win on every dimension: quality, compliance, price, and brand trust. In
+fragrance, FlourishScent offers the same import-replacement play — quality
+local production at accessible prices, from sample vials to bulk drums."
 
 VISUAL: 2x2 competitive positioning matrix:
 X-axis: Price (Low to High) | Y-axis: Quality/Compliance (Low to High)
@@ -436,7 +452,8 @@ pie charts with the food and perfume allocations. "Repayment: 3-4 months."
 
 --- SLIDE 2: The Problem — Detailed ---
 (Same as Compact deck Slide 2, with added bullets:)
-• Only 2 industrial sugar refineries (Dangote, Bua) serve 1.6M ton market
+• Dangote, Bua & Golden Sugar sell bulk 50kg bags to industry — they are
+  feedstock suppliers to packagers, not household competitors
 • No formal player targets the individual consumer packaged segment
 • Imported fragrance leaves consumers paying premium prices for products with
   no local after-sales or supply reliability
@@ -577,8 +594,9 @@ VISUAL: Two graphs side by side:
 --- SLIDE 9: Competition — Landscape Map ---
 
 BULLETS:
-• Industrial Tier: Dangote Sugar, Bua Sugar — compete on bulk B2B, not
-  domestic packaged. Not direct competitors.
+• Industrial Tier: Dangote Sugar, Bua Sugar, Golden Sugar — sell 50kg bulk
+  bags to factories and beverage makers. They are our raw-material feedstock,
+  not direct competitors in domestic packaged sugar.
 • Premium Tier: St. Louis Cube, Golden Penny — higher price point, limited
   to cube segment.
 • Informal Tier: Thousands of unlicensed "mallam" packers — no NAFDAC, no
@@ -593,10 +611,12 @@ BULLETS:
 SPEAKER NOTES:
 "When investors look at competition, they usually worry about Dangote. But
 Dangote sells sugar in 50kg bags to factories — they don't compete in the
-15g sachet at the local canteen. Our real competition is the informal market,
-and we beat them on every regulatory and quality dimension. This is a
-market-creation play, not a market-share fight. And in fragrance, the same
-story: we replace imports with quality local production."
+15g sachet at the local canteen; in fact they are our raw-material supplier.
+Retail-pack imports are banned, so the household sachet must be packaged in
+Nigeria. Our real competition is the informal market, and we beat them on
+every regulatory and quality dimension. This is a market-creation play, not
+a market-share fight. And in fragrance, the same story: we replace imports
+with quality local production."
 
 VISUAL: Competitive matrix or bubble chart with competitors plotted on
 Quality/Compliance (Y) vs. Price (X). DanDuru Group in upper-left.
@@ -1197,10 +1217,12 @@ powder; founded October 2024) and FlourishScent (perfume oils and sprays, retail
 team hired.
 
 THE OPPORTUNITY
-Nigeria consumes 1.6M tons of sugar annually — 96% imported. No formal
-NAFDAC-approved, vitamin-fortified packaged granulated sugar exists for the
-mass market. The fragrance market is import-dominated. The only bottleneck to
-capturing both is working capital.
+Nigeria consumes 1.6M tons of sugar annually — 96% imported as bulk, and
+retail-pack imports are banned, so all household sachets are packaged locally.
+The household segment (<20% of consumption, ~N50-60B est.) is served almost
+entirely by informal packers, and no formal NAFDAC-approved, vitamin-fortified
+packaged granulated sugar exists for the mass market. The fragrance market is
+import-dominated. The only bottleneck to capturing both is working capital.
 
 THE SOLUTION
 DanDuru is the first packaged, NAFDAC-approved, vitamin-A-fortified granulated
