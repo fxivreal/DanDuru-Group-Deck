@@ -298,8 +298,12 @@
             <input type="number" id="inp_ask" value="50000000">
           </div>
           <div class="form-group">
-            <label>Annual Growth Rate (%)</label>
-            <input type="number" id="inp_growth" value="20">
+            <label>Year 2 Growth (%)</label>
+            <input type="number" id="inp_growth2" value="25">
+          </div>
+          <div class="form-group">
+            <label>Year 3 Growth (%)</label>
+            <input type="number" id="inp_growth3" value="30">
           </div>
           <div class="form-group full">
             <label>Presented By</label>
@@ -462,7 +466,7 @@
       <div>
         <div class="compare-box amber-box">
           <h4 style="color: var(--primary);">✦ Missing Piece</h4>
-          <div class="gap-item"><strong id="s5_ask">N50M Working Capital</strong> <span>— N35M food / N15M perfume — for raw materials to run at full capacity</span></div>
+          <div class="gap-item"><strong id="s5_ask">N50M Working Capital</strong> <span>— N35M food / N15M perfume — seeds the first production cycle, then revolves to fund full capacity</span></div>
           <div style="margin-top: 20px;">
             <h3 style="font-size: 16px; margin-bottom: 8px;">Unlocks at full capacity:</h3>
             <div class="card" style="padding: 16px; margin-bottom: 8px;">
@@ -510,17 +514,17 @@
         <p style="font-size: 11px; color: var(--text-dim); margin-top: 6px;">Product margin: <span id="s6_p1_margin">Sugar 4.6%</span> | <span id="s6_p2_margin">Pepper 15.6%</span> | Perfume 38.8%</p>
       </div>
       <div>
-        <h4 style="font-size: 14px; margin-bottom: 12px; color: var(--primary);">Food Line 3-Year Projection (<span id="s6_growth_label">20</span>% Growth)</h4>
+        <h4 style="font-size: 14px; margin-bottom: 12px; color: var(--primary);">Group 3-Year Projection (<span id="s6_growth_label">Y2 +25% / Y3 +30%</span>)</h4>
         <table>
           <tr><th>Metric</th><th>Year 1</th><th>Year 2</th><th>Year 3</th></tr>
-          <tr><td>Monthly Revenue</td><td style="text-align:right;" id="s6_y1_rev">N237.5M</td><td style="text-align:right;" id="s6_y2_rev">N285.0M</td><td style="text-align:right;" id="s6_y3_rev">N342.0M</td></tr>
-          <tr><td>Monthly Net Profit</td><td style="text-align:right; color: var(--primary);" id="s6_y1_np">N16.9M</td><td style="text-align:right; color: var(--primary);" id="s6_y2_np">N20.3M</td><td style="text-align:right; color: var(--primary);" id="s6_y3_np">N24.3M</td></tr>
-          <tr><td>Annual Net Profit</td><td style="text-align:right;" id="s6_y1_annual">N202.8M</td><td style="text-align:right;" id="s6_y2_annual">N243.3M</td><td style="text-align:right;" id="s6_y3_annual">N292.0M</td></tr>
-          <tr><td>Cumulative Profit</td><td style="text-align:right;">N202.8M</td><td style="text-align:right;" id="s6_cum2">N446.1M</td><td style="text-align:right;" id="s6_cum3">N738.0M</td></tr>
+          <tr><td>Monthly Revenue</td><td style="text-align:right;" id="s6_y1_rev">N282.5M</td><td style="text-align:right;" id="s6_y2_rev">N353.1M</td><td style="text-align:right;" id="s6_y3_rev">N459.1M</td></tr>
+          <tr><td>Monthly Net Profit</td><td style="text-align:right; color: var(--primary);" id="s6_y1_np">N33.9M</td><td style="text-align:right; color: var(--primary);" id="s6_y2_np">N43.0M</td><td style="text-align:right; color: var(--primary);" id="s6_y3_np">N56.6M</td></tr>
+          <tr><td>Annual Net Profit</td><td style="text-align:right;" id="s6_y1_annual">N407.2M</td><td style="text-align:right;" id="s6_y2_annual">N516.1M</td><td style="text-align:right;" id="s6_y3_annual">N679.0M</td></tr>
+          <tr><td>Cumulative Profit</td><td style="text-align:right;">N407.2M</td><td style="text-align:right;" id="s6_cum2">N923.3M</td><td style="text-align:right;" id="s6_cum3">N1,602.3M</td></tr>
         </table>
         <div style="margin-top: 12px; background: rgba(46,125,123,0.04); border-radius: 12px; padding: 12px; text-align: center; border: 1px solid rgba(46,125,123,0.15);">
-          <p style="font-size: 12px; color: var(--primary); font-weight: 600;"><span id="s6_ask_small">N50M</span> Investment → <span id="s6_roi">14.8x</span> return in 3 years (food model)</p>
-          <p style="font-size: 11px; color: var(--text-dim);">Payback period: ~2 months from operating cash flow</p>
+          <p style="font-size: 12px; color: var(--primary); font-weight: 600;"><span id="s6_ask_small">N50M</span> Investment → <span id="s6_roi">32.0x</span> return in 3 years (cumulative group profit)</p>
+          <p style="font-size: 11px; color: var(--text-dim);">Payback period: ~2 months at full capacity; ~3 months including perfume scale-up</p>
         </div>
       </div>
     </div>
@@ -630,6 +634,33 @@
         <p style="font-size: 11px; color: var(--text-dim); margin-top: 6px;">NAFDAC (cosmetics/aromatics) status being confirmed.</p>
       </div>
     </div>
+    <div class="two-col" style="margin-top: 2vh;">
+      <div class="card">
+        <h4 style="font-size: 14px; color: var(--perfume);">6-Month Ramp to N45M</h4>
+        <table>
+          <tr><th>Month</th><th style="text-align:right;">% Cap</th><th style="text-align:right;">Revenue</th><th style="text-align:right;">Net</th></tr>
+          <tr><td>M1 (post-deploy)</td><td style="text-align:right;">25%</td><td style="text-align:right;">N11,250,000</td><td style="text-align:right;">N3,959,375</td></tr>
+          <tr><td>M2</td><td style="text-align:right;">40%</td><td style="text-align:right;">N18,000,000</td><td style="text-align:right;">N6,575,000</td></tr>
+          <tr><td>M3</td><td style="text-align:right;">55%</td><td style="text-align:right;">N24,750,000</td><td style="text-align:right;">N9,190,625</td></tr>
+          <tr><td>M4</td><td style="text-align:right;">70%</td><td style="text-align:right;">N31,500,000</td><td style="text-align:right;">N11,806,250</td></tr>
+          <tr><td>M5</td><td style="text-align:right;">85%</td><td style="text-align:right;">N38,250,000</td><td style="text-align:right;">N14,421,875</td></tr>
+          <tr><td>M6+</td><td style="text-align:right;">100%</td><td style="text-align:right;">N45,000,000</td><td style="text-align:right;">N17,037,500</td></tr>
+        </table>
+        <p style="font-size: 11px; color: var(--text-dim); margin-top: 6px;">Drivers: bulk/wholesale contracts, retail expansion, N15M deployment. N45M is the 6-month target.</p>
+      </div>
+      <div class="card">
+        <h4 style="font-size: 14px; color: var(--perfume);">Scenario Check — Margin Sensitivity</h4>
+        <table>
+          <tr><th>Blended Margin</th><th style="text-align:right;">Base 38.8%</th><th style="text-align:right;">Conservative 30%</th></tr>
+          <tr><td>Full-capacity revenue</td><td style="text-align:right;">N45,000,000</td><td style="text-align:right;">N45,000,000</td></tr>
+          <tr><td>Cost of sales</td><td style="text-align:right;">(N27,562,500)</td><td style="text-align:right;">(N31,500,000)</td></tr>
+          <tr><td>Gross profit</td><td style="text-align:right;">N17,437,500</td><td style="text-align:right;">N13,500,000</td></tr>
+          <tr><td>Net monthly profit</td><td style="text-align:right;">N17,037,500</td><td style="text-align:right;">N13,100,000</td></tr>
+          <tr><td style="font-weight:600;">Group annual net</td><td style="text-align:right; font-weight:600;">N407.2M</td><td style="text-align:right; font-weight:600;">N360.0M</td></tr>
+        </table>
+        <p style="font-size: 11px; color: var(--text-dim); margin-top: 6px;">Even at a 30% blended margin, group profitability stays strong — the investment thesis holds.</p>
+      </div>
+    </div>
   </div>
 
   <!-- ======== SLIDE 9: COMPETITION ======== -->
@@ -716,7 +747,7 @@
   <div class="slide" data-index="11">
     <div class="slide-number">11 / 11</div>
     <h2>The <span class="teal">Ask</span></h2>
-    <p class="subtitle"><span id="s10_ask_display">N50,000,000</span> — N35M food / N15M perfume — to unlock full production capacity</p>
+    <p class="subtitle"><span id="s10_ask_display">N50,000,000</span> — N35M food / N15M perfume — seeds the first production cycle; revenue recycles into full-capacity inventory</p>
     <div class="two-col">
       <div>
         <div class="pie-container" style="justify-content: flex-start;">
@@ -739,7 +770,7 @@
             <tr><td>Allocation</td><td>N35M food (70%) | N15M perfume (30%)</td></tr>
             <tr><td>Instrument</td><td>Working capital loan or equity (open)</td></tr>
             <tr><td>Tenure (if loan)</td><td>12 months, monthly repayments</td></tr>
-            <tr><td>Projected Payback</td><td style="color: var(--primary); font-weight: 600;">~2 months</td></tr>
+            <tr><td>Projected Payback</td><td style="color: var(--primary); font-weight: 600;">~2 mo at full cap / ~3 mo incl. ramp</td></tr>
             <tr><td>Security</td><td>Company assets + personal guarantees</td></tr>
             <tr><td>Year 1 Net Profit</td><td id="s10_annual" style="font-weight:600;">N407,201,808</td></tr>
           </table>
@@ -821,7 +852,8 @@
     const days = val('inp_days') || 26;
     const overhead = val('inp_overhead');
     const ask = val('inp_ask');
-    const growth = val('inp_growth') / 100;
+    const growth2 = val('inp_growth2') / 100;
+    const growth3 = val('inp_growth3') / 100;
     const presenter = txt('inp_presenter');
 
     const p1DailySachets = p1Daily * p1Per;
@@ -838,15 +870,14 @@
     const p2MonthlyCost = p2DailyCost * days;
     const totalMonthlyCost = p1MonthlyCost + p2MonthlyCost;
     const grossProfit = totalMonthlyRev - totalMonthlyCost;
-    const netProfit = grossProfit - overhead;
-    const annualNet = netProfit * 12;
 
     // Group totals (food + FlourishScent actuals)
     const perfumeOverhead = 400000;
     const groupRev = totalMonthlyRev + PERFUME_MONTHLY_REV;
     const groupCost = totalMonthlyCost + PERFUME_MONTHLY_COGS;
     const groupGP = groupRev - groupCost;
-    const groupNet = netProfit + PERFUME_MONTHLY_NET;
+    const groupOH = overhead + perfumeOverhead;
+    const groupNet = groupGP - groupOH;
     const groupAnnual = groupNet * 12;
 
     const p1GP = p1Price - p1Cost;
@@ -857,18 +888,21 @@
 
     const ohPct = (overhead / grossProfit * 100);
 
-    // Year 2 & 3 (food line)
-    const y2Rev = totalMonthlyRev * (1 + growth);
-    const y2NP = netProfit * (1 + growth);
-    const y2Annual = y2NP * 12;
-    const y3Rev = y2Rev * (1 + growth);
-    const y3NP = y2NP * (1 + growth);
-    const y3Annual = y3NP * 12;
-    const cum2 = annualNet + y2Annual;
-    const cum3 = cum2 + y3Annual;
+    // Group 3-year projection (rev/COGS +25%/+30%, overhead +15%/+20%)
+    const gRev2 = groupRev * (1 + growth2);
+    const gCost2 = groupCost * (1 + growth2);
+    const gOH2 = groupOH * 1.15;
+    const gNet2 = (gRev2 - gCost2) - gOH2;
+    const gAnnual2 = gNet2 * 12;
+    const gRev3 = gRev2 * (1 + growth3);
+    const gCost3 = gCost2 * (1 + growth3);
+    const gOH3 = gOH2 * 1.20;
+    const gNet3 = (gRev3 - gCost3) - gOH3;
+    const gAnnual3 = gNet3 * 12;
+    const cum2 = groupAnnual + gAnnual2;
+    const cum3 = cum2 + gAnnual3;
 
     const roi = (cum3 / ask);
-    const paybackMonths = Math.ceil(ask / groupNet);
 
     const f = v => formatN(v);
     const fn = v => 'N' + Math.round(v).toLocaleString();
@@ -907,21 +941,21 @@
     get('s6_p2_cogs').textContent = '(' + fn(p2MonthlyCost) + ')';
     get('s6_p3_cogs').textContent = '(' + fn(PERFUME_MONTHLY_COGS) + ')';
     get('s6_gp_val').textContent = fn(groupGP);
-    get('s6_oh').textContent = '(' + fn(overhead + perfumeOverhead) + ')';
+    get('s6_oh').textContent = '(' + fn(groupOH) + ')';
     get('s6_np_val').textContent = fn(groupNet);
     get('s6_p1_margin').textContent = p1 + ' ' + p1Margin.toFixed(1) + '%';
     get('s6_p2_margin').textContent = p2 + ' ' + p2Margin.toFixed(1) + '%';
-    get('s6_growth_label').textContent = (growth * 100).toFixed(0);
+    get('s6_growth_label').textContent = 'Y2 +' + (growth2 * 100).toFixed(0) + '% / Y3 +' + (growth3 * 100).toFixed(0) + '%';
 
-    get('s6_y1_rev').textContent = f1(totalMonthlyRev);
-    get('s6_y2_rev').textContent = f1(y2Rev);
-    get('s6_y3_rev').textContent = f1(y3Rev);
-    get('s6_y1_np').textContent = f1(netProfit);
-    get('s6_y2_np').textContent = f1(y2NP);
-    get('s6_y3_np').textContent = f1(y3NP);
-    get('s6_y1_annual').textContent = f1(annualNet);
-    get('s6_y2_annual').textContent = f1(y2Annual);
-    get('s6_y3_annual').textContent = f1(y3Annual);
+    get('s6_y1_rev').textContent = f1(groupRev);
+    get('s6_y2_rev').textContent = f1(gRev2);
+    get('s6_y3_rev').textContent = f1(gRev3);
+    get('s6_y1_np').textContent = f1(groupNet);
+    get('s6_y2_np').textContent = f1(gNet2);
+    get('s6_y3_np').textContent = f1(gNet3);
+    get('s6_y1_annual').textContent = f1(groupAnnual);
+    get('s6_y2_annual').textContent = f1(gAnnual2);
+    get('s6_y3_annual').textContent = f1(gAnnual3);
     get('s6_cum2').textContent = f1(cum2);
     get('s6_cum3').textContent = f1(cum3);
     get('s6_ask_small').textContent = f(ask);

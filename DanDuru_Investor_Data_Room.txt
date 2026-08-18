@@ -23,14 +23,16 @@ DanDuru_Investor_Data_Room/
 ├── 02_Financial_Model/
 │   ├── DanDuru_Financial_Projections.xlsx      ← Food line (P&L, Cashflow,
 │   │                                            Unit Economics, Overhead, Margins)
-│   ├── FlourishScent_Financial_Projections.xlsx ← Perfume line (same sheets)
+│   ├── FlourishScent_Financial_Projections.xlsx ← Perfume line (same sheets;
+│   │                                            based on ACTUALS: N45M/mo
+│   │                                            multi-SKU, 38.8% blended,
+│   │                                            6-month ramp, 30% conservative)
 │   ├── Group_Consolidated_Projections.xlsx     ← Combined group P&L
 │   └── DanDuru_Group_Business_Plan_Full.pdf    ← Merged plan document
 │
 ├── 03_Legal_Regulatory/
 │   ├── NAFDAC_Registration_Certificates.pdf    ← Food products
 │   ├── NAFDAC_Cosmetics_Aromatics.pdf          ← FlourishScent (TBC)
-│   ├── Pioneer_Status_Approval_Letter.pdf
 │   ├── CAC_Registration_Documents.pdf
 │   └── Company_Profile_TIN.pdf
 │
@@ -76,9 +78,10 @@ HIGH PRIORITY (Must have before investor meeting):
 [ ] 02_Financial_Model/Group_Consolidated_Projections.xlsx
 [ ] 03_Legal_Regulatory/NAFDAC_Registration_Certificates.pdf
 [ ] 03_Legal_Regulatory/CAC_Registration_Documents.pdf
-[ ] 03_Legal_Regulatory/Pioneer_Status_Approval_Letter.pdf
 [ ] 09_Factory_Tour/DanDuru_Group_Factory_Tour.mp4
 [ ] 07_Traction/FlourishScent_Sales_Records.xlsx    ← Actual perfume revenue
+                                                     (must substantiate the
+                                                     N2.5M→N45M ramp claim)
 [ ] 03_Legal_Regulatory/NAFDAC_Cosmetics_Aromatics.pdf ← Confirm status
 
 MEDIUM PRIORITY (Before or during due diligence):
