@@ -104,7 +104,7 @@ Net monthly profit N33,933,484 | Annual net profit N407,201,808 (§11F)
 Conservative (30% perfume): N29,995,984/month | N359,951,808 annual (§11F)
 
 FACT 21 — Funding Ask
-"FUNDING REQUIRED: N50,000,000 — Working capital facility (1 year, revolving)"
+"FUNDING REQUIRED: N50,000,000 — Working capital facility (36-month amortizing loan)"
 Allocation: N35,000,000 (70%) food / N15,000,000 (30%) perfume (§13)
 
 FACT 22 — Use of Funds (Food N35M)
@@ -138,7 +138,7 @@ FACT 28 — Distribution Network (Food)
 Distributors already in place across 3 states: Aba, Port Harcourt, Lagos.
 
 FACT 29 — Funding Structure
-Working capital loan (12-month revolving) — repaid from operating cash flow.
+Working capital loan (36-month, amortized monthly) — repaid from operating cash flow.
 
 FACT 30 — Actual Skeletal Revenue (Food)
 Current monthly revenue at skeletal operations: N1,270,000. This validates real
@@ -182,7 +182,7 @@ food-beverage market exceeds N240B
 in sugar alone, with cocoa beverages adding N90B+, and DanDuru targets 10-20%
 share per segment by 2030.
 
-DanDuru Group is raising N50,000,000 as a 12-month working-capital loan: N35M
+DanDuru Group is raising N50,000,000 as a 36-month working-capital loan (amortized monthly): N35M
 for food raw materials and capacity, N15M to scale the perfume line. The
 facility seeds the first production cycle, then revolves as
 revenue is recycled into inventory. Capital is the only missing piece —
@@ -444,7 +444,7 @@ badge below each. Company logo in corner.
 
 BULLETS:
 • Amount: N50,000,000 (N35M food / N15M perfume)
-• Instrument: Working capital facility (12-month revolving)
+• Instrument: Working capital facility (36-month amortizing)
 • Interest: To be agreed — typical 15-25%/yr for working capital
 • Food use of funds:
   - Raw materials: N17.5M (50%) | Packaging: N7M (20%)
@@ -453,21 +453,23 @@ BULLETS:
   - Raw materials: N7.5M (50%) | Packaging: N3M (20%)
   - Distribution: N2.1M (14%) | Equipment: N1.5M (10%)
   - NAFDAC & buffer: N0.9M (6%)
-• Repayment: From operating cash flow — profit-equivalent ~2 months at full
-  capacity, ~3 months including perfume ramp; loan serviced 5-8x monthly
+• Repayment: 36-month amortizing term — monthly service ≈N1.9M (principal +
+  interest, ~20%/yr) covered 10x+; operating profit clears the principal in
+  ~3 months (early repayment possible)
 • Security: Company assets + personal guarantee of directors
 
 SPEAKER NOTES:
-"We are asking for N50 million as a 12-month working-capital loan — 70% to the
-food line, 30% to the perfume line. For a group generating nearly N34 million
-in net monthly profit at full capacity, this facility is repaid from operating
-cash flow in about three months including the perfume ramp. Half of each
-allocation goes directly into raw materials — the engine of production. The
-interest rate is to be agreed; the repayment is what's provable, and it's in
-the cash flow forecast."
+"We are asking for N50 million as a 36-month working-capital loan, amortized
+monthly — 70% to the food line, 30% to the perfume line. For a group generating
+nearly N34 million in net monthly profit at full capacity, the ≈N1.9M monthly
+service is covered more than ten times from month one, and operating profit
+clears the principal in about three months — early repayment possible. Half of
+each allocation goes directly into raw materials — the engine of production.
+The interest rate is to be agreed; the repayment is what's provable, and it's
+in the cash flow forecast."
 
 VISUAL: Pie chart — N50M split: Food 70% | Perfume 30%. Below: two smaller
-pie charts with the food and perfume allocations. "Repayment: ~3 months incl. ramp."
+pie charts with the food and perfume allocations. "Repayment: 36-month term — ≈N1.9M/month, cleared in ~3 months."
 
 --- SLIDE 13: Cash Flow Forecast ---
 
@@ -495,28 +497,29 @@ SPEAKER NOTES:
 inventory cycle, while food — at full capacity from day one with distributors
 already confirmed — collects cash-and-carry within weeks. The cumulative balance
 never dips. Time to full utilization: food day 1, perfume month 6. Loan service
-(~N4.2M/month) is covered 5-8x from month 1."
+(≈N1.9M/month) is covered 10x+ from month 1 (~18x at full capacity)."
 
 --- SLIDE 14: Exit = Repayment ---
 
 BULLETS:
 • Headline: This is a working-capital loan — the exit is repayment from
   operating cash flow, not an equity sale. No acquisition story needed.
-• Monthly service ≈N4.2M is covered 5-8x every month of the ramp (slide 13).
-• Principal repaid in ~3 months including the perfume scale-up — ~2 months at
-  full capacity.
-• Full N50M + interest is back within the 12-month term.
+• Agreed term: 36 months, amortized monthly.
+• Monthly service ≈N1.9M (principal + interest, ~20%/yr) is covered 10x+
+  every month of the ramp (slide 13).
+• Operating profit clears the principal in ~3 months — early repayment
+  possible; full N50M + interest is back within the 36-month term.
 
 SPEAKER NOTES (30-45 seconds — a quick slide on purpose):
 "When you lend us N50M, the 'exit' isn't a sale — it's repayment. The facility
-is serviced monthly from operating cash flow: the ≈N4.2M monthly service is
-covered 5-8x every month of the ramp, on the previous slide. The principal is
-repaid in about three months at the pace of the ramp — about two months at full
-capacity — and the full amount plus interest is back within the 12-month term.
-If pushed for a number: 'The interest rate and structure are to be agreed — but
-the repayment is what's provable, and it's in the cash flow forecast.' Spending
-30-45 seconds here is deliberate — this is a loan, repaid from cash flow, not
-an equity stake waiting on a sale."
+is an amortizing 36-month loan, serviced monthly from operating cash flow: the
+≈N1.9M monthly service is covered 10x+ every month of the ramp, on the previous
+slide. Operating profit clears the principal in about three months — so early
+repayment is possible — and the full amount plus interest is back within the
+36-month term. If pushed for a number: 'The interest rate and structure are to
+be agreed — but the repayment is what's provable, and it's in the cash flow
+forecast.' Spending 30-45 seconds here is deliberate — this is a loan, repaid
+from cash flow, not an equity stake waiting on a sale."
 
 
 ================================================================================
@@ -648,7 +651,7 @@ BULLETS:
 • Pepper: N32/sachet price, N27 cost = N5.00 GP (16% margin)
 • Perfume: blended 38.8% across SKUs — flagship 3ml Sugar Baby N400/N245 = N155 GP
 • Overhead fixed-heavy — as volume grows, margin expands significantly
-• Payback on N50M investment: ~2 months at full capacity; ~3 months incl. 6-month perfume ramp
+• Repayment: 36-month amortizing term; ≈N1.9M monthly service covered 10x+; profit clears principal in ~3 months
 
 (MISSING DATA: CAC and LTV not tracked in current document. See Appendix
 for recommended tracking framework.)
@@ -850,30 +853,30 @@ yellow for moderate risk, green for well-mitigated.
 
 BULLETS:
 • Amount: N50,000,000 (N35M food / N15M perfume)
-• Instrument: Working capital loan (12-month revolving)
+• Instrument: Working capital loan (36-month amortizing)
 • Interest: To be agreed — typical 15-25%/yr for working capital
 • Food use of funds: Raw materials N17.5M | Packaging N7M | Distribution
   N4.9M | Equipment N3.5M | Buffer N2.1M
 • Perfume use of funds: Raw materials N7.5M | Packaging N3M | Distribution
   N2.1M | Equipment N1.5M | NAFDAC & buffer N0.9M
-• Repayment: 12-month tenure, monthly from operating cash flow;
-  profit-equivalent payback ~2 months at full capacity, ~3 months incl.
-  perfume ramp (loan serviced 5-8x monthly)
+• Repayment: 36-month amortizing tenure, monthly from operating cash flow;
+  monthly service ≈N1.9M covered 10x+; profit clears principal in ~3 months
 • Security: Company assets + personal guarantees of directors
 • Contact: Chikwendu Ifeanyi Felix — [phone/email to be inserted]
 
 SPEAKER NOTES:
 "We are asking for N50 million in working capital — 70% food, 30% perfume.
-At full capacity we net nearly N34 million per month, so the facility is
-repaid in ~2-3 months from operating cash flow — and comfortably serviced
-throughout the 12-month tenure. The interest rate is to be agreed; the
+At full capacity we net nearly N34 million per month, so the ≈N1.9M monthly
+service is covered 10x+ — and operating profit clears the principal in ~3
+months (early repayment possible) throughout the 36-month tenure. The interest
+rate is to be agreed; the
 repayment is what's provable and it's in the cash flow forecast. We have
 already prepared for due diligence — our books are ready for inspection under
 NDA. Thank you for your time."
 
 VISUAL: Summary card: Amount N50M | Split Food 70%/Perfume 30% |
-Instrument: Working capital loan (12-month) | Repayment: ~2-3 months incl.
-ramp | Contact info.
+Instrument: Working capital loan (36-month) | Repayment: ≈N1.9M/month covered
+10x+, cleared in ~3 months | Contact info.
 Below: "Thank you. Questions welcome."
 
 
@@ -945,7 +948,7 @@ immediately — see Appendix for tracking template.]
 ================================================================================
 
 Round Type: SEED / Working Capital Facility
-(Decision made: 12-month working-capital loan, repaid from operating cash flow.)
+(Decision made: 36-month amortizing working-capital loan, repaid from operating cash flow.)
 
 Amount Requested: N50,000,000
 Allocation: N35,000,000 (70%) — DanDuru Industries (food)
@@ -984,7 +987,7 @@ MILESTONES THIS FUNDING WILL ACHIEVE:
 | Cube sugar + custard product launch | Months 6-9 | 2 new SKUs in market |
 | FlourishScent retail + private-label growth | Months 6-9 | Retail outlets + bulk clients |
 | Revenue run rate +25% | Month 12 | Group monthly target N321M |
-| Full facility repayment (debt) | Months 3-4 | N50M repaid from operating cash flow |
+| Facility service (debt) | Months 1-36 | ≈N1.9M/month from operating cash flow; principal clearable in ~3-4 months |
 
 
 ================================================================================
@@ -1158,7 +1161,7 @@ MIRIAN CHIKWENDU — GENERAL MANAGER, FLOURISHSCENT
 • [PLACEHOLDER: background and credentials]
 • WHY IT MATTERS: Dedicated leadership for the fragrance line.
 
-ORG HIRING PLAN (Funded Period — 12 months):
+ORG HIRING PLAN (Funded Period — first 12 months):
 • Month 1-3: 2 x Sales Representatives (state expansion)
 • Month 3-6: 1 x Brand/Marketing Officer
 • Month 6-9: 1 x Quality Control Officer (new product launches)
@@ -1174,13 +1177,16 @@ FRAMING:
 This is a working-capital loan — the investor's exit is repayment, not an
 equity sale. No acquisition, dividend, or buyback story is needed. The return
 to the lender is: principal + agreed interest, repaid monthly from operating
-cash flow over a 12-month term.
+cash flow over a 36-month amortizing term.
 
 REPAYMENT MECHANICS (provable — backed by slide 13 cash flow forecast):
-- Monthly service ~N4.2M is covered 5-8x every month of the ramp.
-- Principal repaid in ~3 months including the perfume scale-up; ~2 months at
-  full capacity (food sells at full capacity from day 1, cash-and-carry).
-- Full N50M + interest is back within the 12-month term; cumulative balance
+- 36-month amortizing term; monthly service ≈N1.9M (principal + interest,
+  ~20%/yr midpoint of the 15-25% range) is covered 10x+ every month of the
+  ramp — ~11x in month 1, ~18x at full capacity.
+- Operating profit clears the principal in ~3 months including the perfume
+  scale-up (food sells at full capacity from day 1, cash-and-carry) — early
+  repayment is possible.
+- Full N50M + interest is back within the 36-month term; cumulative balance
   stays positive throughout (never dips).
 
 BUSINESS-HEALTH DRIVERS (why the repayment is safe):
@@ -1198,9 +1204,11 @@ BUSINESS-HEALTH DRIVERS (why the repayment is safe):
 IF PUSHED FOR A NUMBER (interest rate or structure):
 "The interest rate and structure are to be agreed — typical for working capital
 is 15-25%/yr. What we can defend is the repayment: it's in the cash flow
-forecast, serviced 5-8x every month, with the principal back in about three
-months at the pace of the ramp." Stronger than a confident guess — same move
-as the cash flow and payback numbers: show the work, don't perform certainty.
+forecast, serviced 10x+ every month, with the principal clearable in about
+three months. Note the tradeoff: over a 36-month term, total interest is
+roughly N17-22M at 15-25%/yr — but the monthly burden is minimal because the
+cash flow carries it easily." Stronger than a confident guess — same move as
+the cash flow and payback numbers: show the work, don't perform certainty.
 
 
 ================================================================================
@@ -1244,7 +1252,7 @@ TARGETED CLARIFYING QUESTIONS (Update after investor Q&A):
     full capacity projections are NOT actuals but are what the installed
     equipment and confirmed distributor network can deliver.
 [✓] Q2 ANSWERED: Distributors exist in Aba, Port Harcourt, Lagos.
-[✓] Q3 ANSWERED: Working capital loan (12-month revolving), repaid from
+[✓] Q3 ANSWERED: Working capital loan (36-month amortizing), repaid from
     operating cash flow.
 [✓] Q4 ANSWERED: Current skeletal food monthly revenue = N1,270,000
 [✓] Q5 ANSWERED: FlourishScent is already selling — retail + bulk, Lagos.
@@ -1315,13 +1323,13 @@ FULL-CAPACITY GROUP FINANCIAL MODEL (3-YEAR PROJECTION)
 • N50M investment → strong return potential (FlourishScent actuals included)
 
 THE ASK
-N50,000,000 — 12-month working-capital loan (interest to be agreed)
+N50,000,000 — 36-month working-capital loan, amortized monthly (interest to be agreed)
 Split: N35M food (70%) | N15M perfume (30%)
 Food use: Raw materials (50%) | Packaging (20%) | Distribution (14%) |
 Equipment (10%) | Buffer (6%)
 Perfume use: Raw materials (50%) | Packaging (20%) | Distribution (14%) |
 Equipment (10%) | NAFDAC & buffer (6%)
-Projected payback: ~2-3 months from operating cash flow (incl. perfume scale-up)
+Repayment: 36-month amortizing term; monthly service ≈N1.9M covered 10x+; principal clearable in ~3 months
 
 CONTACT
 Chikwendu Ifeanyi Felix — Group Managing Director
@@ -1349,11 +1357,12 @@ net monthly profit — a N407.2M annual run rate (FlourishScent actuals included
 skeletal revenue and FlourishScent scaling from N2.5M/month toward N45M/month
 within 6 months.
 
-We are seeking N50 million as a 12-month working-capital loan, split
-N35M for the food line and N15M to scale FlourishScent, to seed the first
-production cycle and run production at full capacity — unlocking a projected
-2-3 month payback from operating cash flow (loan serviced 5-8x monthly;
-cumulative 3-year group profit of N1.6B = 32.0x the loan as business health).
+We are seeking N50 million as a 36-month working-capital loan, amortized
+monthly, split N35M for the food line and N15M to scale FlourishScent, to seed
+the first production cycle and run production at full capacity — a ≈N1.9M
+monthly service covered 10x+ by operating cash flow, with the principal
+clearable in ~3 months (cumulative 3-year group profit of N1.6B = 32.0x the
+loan as business health).
 
 I have attached our investor memorandum and would welcome the opportunity
 to present our business to you at your earliest convenience. Would you be

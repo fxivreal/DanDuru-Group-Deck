@@ -609,10 +609,10 @@ N13,100,000/month (N157.2M annually).
 13. FUNDING REQUIREMENT
 ================================================================================
 
-FUNDING REQUIRED: N50,000,000 - WORKING CAPITAL FACILITY (1 YEAR, REVOLVING)
+FUNDING REQUIRED: N50,000,000 - WORKING CAPITAL FACILITY (36-MONTH, AMORTIZED MONTHLY)
 
 DanDuru Group is a consumer products group with two production lines (food and
-fragrance). We require a short-term working capital facility.
+fragrance). We require a 36-month working-capital facility, amortized monthly.
 
 ALLOCATION: N35,000,000 (70%) to the food business; N15,000,000 (30%) to the
 perfume business.
@@ -654,10 +654,12 @@ months (see 11E ramp table). Group operating profit by month during the ramp:
 | M5 | 16,895,984 | 14,421,875 | 31,317,859 |
 | M6+ | 16,895,984 | 17,037,500 | 33,933,484 |
 
-At full capacity the group nets N33.9M/month, so profit-equivalent payback is
-~2 months; including the 6-month perfume scale-up, cumulative operating profit
-covers the N50M within 3 months. As a 12-month facility, monthly loan service of
-~N4.2M is covered 5-8x by operating cash flow throughout the ramp.
+At full capacity the group nets N33.9M/month. As a 36-month amortizing
+facility, the monthly service of ≈N1.9M (principal + interest, ~20%/yr midpoint
+of the 15-25% range) is covered 10x+ by operating cash flow throughout the ramp
+- ~11x in month 1, ~18x at full capacity. Including the 6-month perfume
+scale-up, cumulative operating profit clears the N50M principal within 3 months
+- so early repayment is possible.
 
 Security: Company assets + personal guarantee of directors.
 
@@ -681,7 +683,7 @@ the ramp - there is no red-flag month one.
 Time to full utilization: food - day 1 (equipment installed & tested); FlourishScent
 - month 6 (from N2.5M actuals today to N45M across all SKUs). Cash conversion cycle
 2-3 weeks: revenue recycles into the next cycle's inventory. Monthly loan service on
-a 12-month facility (~N4.2M) is covered 5-8x by operating cash flow from month 1.
+a 36-month facility (≈N1.9M) is covered 10x+ by operating cash flow from month 1.
 
 Distribution concentration: no single food distributor exceeds ~25% of volume, and
 the channel spans wholesale distributors, direct retail and the Cameroon export
@@ -695,16 +697,16 @@ route - so no one distributor can hold the business to ransom.
 | Item | Detail |
 | Amount Required | N50,000,000 |
 | Allocation | N35,000,000 food / N15,000,000 perfume |
-| Instrument | Working capital loan (12-month) |
+| Instrument | Working capital loan (36-month amortizing) |
 | Interest | To be agreed — typical 15-25%/yr for working capital |
-| Repayment | 12-month tenure, monthly repayments |
+| Repayment | 36-month tenure, monthly amortized repayments |
 | Repayment Source | Operating cash flow from production sales |
 | Security | Company assets + personal guarantees |
 | Projected Annual Net Profit (food) | N202,751,808 |
 | Projected Annual Net Profit (perfume) | N204,450,000 |
 | Projected Group Annual Net Profit | N407,201,808 |
 | Group Annual Net Profit (conservative 30% perfume) | N359,951,808 |
-| Estimated Payback Period | ~2 months at full capacity / ~3 months incl. ramp |
+| Estimated Payback Period | 36-month term; operating profit clears principal in ~3 months (early repayment possible) |
 
 All financial projections are subject to verification through due diligence.
 DanDuru Group is prepared to open its books for inspection upon execution of a
