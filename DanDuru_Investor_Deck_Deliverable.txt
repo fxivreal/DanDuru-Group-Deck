@@ -147,6 +147,13 @@ customer demand. Full-capacity food revenue of N237.5M/month represents an
 Perfume: N2.5M/month actual today, ramping to N45M/month within 6 months of
 deployment (18x scale-up).
 
+FACT 31 — Indicative Valuation
+Going-concern value at funded full capacity: N2.0B — 5x conservative annual net
+profit (N360M), cross-checked by DCF (≈N2.3B) and revenue multiple (0.5-0.6x on
+N3.39B/yr). Reference only — the ask remains a 36-month loan. Hard-asset NAV
+today: N26.8M (equipment N17M + inventory N9.8M) plus current assets less
+liabilities. The N50M facility is ≈2.5% of going-concern value.
+
 ================================================================================
 2. EXECUTIVE SUMMARY (One Page / ~200 Words)
 ================================================================================
@@ -1330,11 +1337,42 @@ Equipment (10%) | Buffer (6%)
 Perfume use: Raw materials (50%) | Packaging (20%) | Distribution (14%) |
 Equipment (10%) | NAFDAC & buffer (6%)
 Repayment: 36-month amortizing term; monthly service ≈N1.9M covered 10x+; principal clearable in ~3 months
+Indicative valuation (funded full-capacity): N2.0B — the N50M facility is ≈2.5% of value
+Negotiation line: "At N2.0B, N50M is ~2.5% — we'd rather pay interest than sell
+the company cheap."
 
 CONTACT
 Chikwendu Ifeanyi Felix — Group Managing Director
 [Phone] | [Email]
 DanDuru Group | 3-5 Omitogun Close, Alaafia Estate, Ogba, Lagos
+
+
+VALUATION DERIVATION (how the numbers were determined):
+
+Going-concern (earnings-based) -> N2.0B
+| Method | Input | Result |
+|---|---|---|
+| Earnings multiple | Conservative group net N360M x 5.0x (private FMCG, ~50% discount to listed peers) | N1.80B |
+| DCF | 3-yr profits (407/516/679) at 30% discount, 6% terminal growth | ≈N2.3B |
+| Revenue multiple | N3.39B/yr revenue x 0.5-0.6 | N1.70-2.03B |
+| Headline | Triangulated, rounded | N2.0B |
+
+Net Asset Value (asset-based, today):
+| Asset | Amount |
+|---|---|
+| Equipment (all lines) | N17,000,000 |
+| Inventory - packaging materials | N6,500,000 |
+| Inventory - raw materials | N800,000 |
+| Inventory - finished goods | N2,500,000 |
+| Cash at bank | [PLACEHOLDER] |
+| Accounts receivable | [PLACEHOLDER] |
+| Prepayments | [PLACEHOLDER] |
+| Intangibles (NAFDAC, trademarks) | [PLACEHOLDER] |
+| Less liabilities | ([PLACEHOLDER]) |
+| Net Asset Value | N26.8M confirmed + [placeholders] less liabilities |
+
+Assets = security (partial physical cover); earnings = repayment (10x+ cover).
+The ask remains the 36-month loan.
 
 
 ================================================================================
