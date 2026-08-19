@@ -494,6 +494,39 @@ already confirmed — collects cash-and-carry within weeks. The cumulative balan
 never dips. Time to full utilization: food day 1, perfume month 6. Loan service
 (~N4.2M/month) is covered 5-8x from month 1."
 
+--- SLIDE 14: Exit & Liquidity — Options, Not a Plan ---
+
+BULLETS:
+• Opening (name the tension ourselves): "We know it's early to talk exit —
+  we're not at full capacity yet — but it shapes how you structure your
+  investment." Self-awareness first; reframes exit from "prediction" to
+  "we've thought this through."
+• Option 1 — Dividend / Cash Buyback (provable from month 1):
+  Cash flow turns positive from month 1 (slide 13) · N33.9M/mo net at full
+  capacity · loan service covered 5-8x. Even setting aside acquisition,
+  profit distribution can service returns starting month one.
+• Option 2 — Strategic Acquisition (most likely path, hedged):
+  Realistically, the exit looks like acquisition by a larger FMCG player who
+  wants our compliance position and distribution rather than building it
+  themselves — the standard pattern for companies at our stage in this market.
+  No named buyer, no multiple, no committed year.
+• Footnote: No committed buyer, multiple, or date — honest at 18 months old.
+  We only cite numbers we can defend.
+
+SPEAKER NOTES (30-45 seconds — a quick slide on purpose):
+"We know it's early to talk exit — we're not at full capacity yet — but we want
+to show we're thinking about it, because it matters for how you structure your
+investment. The most likely paths are two. Even setting aside acquisition, our
+cash flow model shows we can service returns through profit distribution
+starting month one — the numbers on the previous slide. And realistically, exit
+here looks like acquisition by a larger FMCG player who wants our compliance
+position and distribution rather than building it themselves — that's the
+standard pattern for companies at our stage in this market. If pushed for a
+number or a date: 'We don't want to give you a number we can't defend. What we
+can tell you is the multiple depends on comparable transactions and on hitting
+full capacity first.' Spending 30-45 seconds here is deliberate — it shows
+we've thought about it, not that we're building for the exit."
+
 
 ================================================================================
 3B. EXTENDED INVESTOR DECK — 15 Slides
@@ -1147,23 +1180,35 @@ ORG HIRING PLAN (Funded Period — 12 months):
 9. EXIT & INVESTOR RETURN THESIS
 ================================================================================
 
+FRAMING (open by naming the tension ourselves):
+"We know it's early to talk exit — we're not at full capacity yet — but it
+shapes how you structure your investment." Present as options, not a plan:
+"the most likely paths" / "how this typically plays out for companies like
+ours." Plans invite "why that specific thing?"; options invite "that's a
+reasonable set of possibilities."
+
 TWO PLAUSIBLE EXIT PATHS:
 
-1. TRADE SALE TO LARGER FMCG CONGLOMERATE
-   - Indicative buyers: Nestle Nigeria, Promasidor, Dangote, Bua, or a
-     pan-African FMCG group (e.g., Tiger Brands, Unilever)
-   - Rationale: Large FMCG players seek to enter the mass-market packaged
-     food segment. DanDuru Group offers a turnkey production platform with
-     existing distribution, NAFDAC compliance, and brand presence.
-   - Typical multiples in Nigerian FMCG: 8-15x annual net profit
+1. DIVIDEND / CASH BUYBACK (provable — lead with this)
+   - Even setting aside acquisition, the cash flow model services returns
+     through profit distribution starting month one.
+   - Backed by numbers already on the table: cash flow positive from month 1
+     (cumulative balance never dips), N33.9M/mo group net at full capacity,
+     loan service covered 5-8x every month of the ramp.
+   - This anchors the conversation in something defensible before the more
+     speculative acquisition scenario.
 
-2. STRATEGIC ACQUISITION BY SUGAR/FRAGRANCE MAJOR
-   - Indicative buyers: Dangote Sugar, Bua Sugar, Flour Mills of Nigeria,
-     or a consumer/beauty group seeking the local fragrance line
-   - Rationale: Sugar producers lack downstream consumer packaged goods
-     capability. DanDuru is a ready-made distribution and branding channel
-     for their product. The fragrance line adds beauty-sector appeal.
-   - Premium for strategic value could exceed standard FMCG multiples.
+2. STRATEGIC ACQUISITION (hedged — category and reason, not names)
+   - Realistically, the exit looks like acquisition by a larger FMCG player
+     who wants our compliance position and distribution rather than building
+     it themselves — the standard pattern for companies at our stage in this
+     market.
+   - The food line offers a turnkey packaged-FMCG platform (production,
+     distribution, NAFDAC compliance, brand); the fragrance line adds
+     beauty-sector appeal to a consumer/beauty acquirer.
+   - No named buyer, no committed multiple, no committed year. If asked "who
+     specifically," the honest answer is we haven't had that conversation yet
+     — expected at 18 months old.
 
 HIGH-LEVEL ROI DRIVERS FOR INVESTORS:
 
@@ -1175,19 +1220,27 @@ HIGH-LEVEL ROI DRIVERS FOR INVESTORS:
 | Asset-light expansion | 3rd shift adds 50% capacity at minimal CapEx |
 | Recurring revenue | FMCG daily consumption = repeat purchases |
 | Diversification | Food volume + fragrance margin under one group |
-| Exit multiple | FMCG trade sales at 8-15x net profit possible |
+| Exit optionality | Dividend/buyback today; trade sale later if it materializes |
 
-ILLUSTRATIVE EXIT (Seed Equity Scenario — separate methodology from the 32.0x
-cumulative-profit return above):
+IF PUSHED FOR A NUMBER OR A DATE:
+"We don't want to give you a number we can't defend. What we can tell you is
+the multiple depends on comparable transaction patterns in general terms and
+on hitting full capacity first." Stronger than a confident guess — same move
+as the cash flow and payback numbers: show the work, don't perform certainty.
+
+ILLUSTRATIVE EXIT (Seed Equity Scenario — illustrative only, separate
+methodology from the 32.0x cumulative-profit return above; no committed
+multiple):
 If investor takes 20% equity for N50M:
 - Year 3 net profit: N679.0M
 - 20% share: N135.8M/year
-- At 10x multiple: implied valuation N6.8B
+- Illustrative 10x multiple: implied valuation N6.8B
 - 20% stake value: N1,358M
-- ROI on N50M: 27.2x in 3 years
+- ROI on N50M: 27.2x in 3 years (illustrative)
 
 [ROI scenario reflects FlourishScent actuals; will be refined as the group's
-3-year plan matures.]
+3-year plan matures. The 8-15x "typical FMCG multiple" figure has been
+removed: it is a range we cannot yet defend for a company this young.]
 
 
 ================================================================================
