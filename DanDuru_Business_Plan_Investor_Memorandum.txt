@@ -695,9 +695,9 @@ route - so no one distributor can hold the business to ransom.
 | Item | Detail |
 | Amount Required | N50,000,000 |
 | Allocation | N35,000,000 food / N15,000,000 perfume |
-| Instrument | Working capital loan (preferred) or equity investment |
-| If Equity | To be negotiated based on valuation |
-| If Loan | 12-month tenure, monthly repayments |
+| Instrument | Working capital loan (12-month) |
+| Interest | To be agreed — typical 15-25%/yr for working capital |
+| Repayment | 12-month tenure, monthly repayments |
 | Repayment Source | Operating cash flow from production sales |
 | Security | Company assets + personal guarantees |
 | Projected Annual Net Profit (food) | N202,751,808 |

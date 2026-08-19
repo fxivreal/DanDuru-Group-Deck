@@ -138,7 +138,7 @@ FACT 28 — Distribution Network (Food)
 Distributors already in place across 3 states: Aba, Port Harcourt, Lagos.
 
 FACT 29 — Funding Structure
-Undecided between debt and equity — open to discussion with investors.
+Working capital loan (12-month revolving) — repaid from operating cash flow.
 
 FACT 30 — Actual Skeletal Revenue (Food)
 Current monthly revenue at skeletal operations: N1,270,000. This validates real
@@ -182,9 +182,9 @@ food-beverage market exceeds N240B
 in sugar alone, with cocoa beverages adding N90B+, and DanDuru targets 10-20%
 share per segment by 2030.
 
-DanDuru Group is raising N50,000,000 as working capital (debt or equity — open
-to discussion): N35M for food raw materials and capacity, N15M to scale the
-perfume line. The facility seeds the first production cycle, then revolves as
+DanDuru Group is raising N50,000,000 as a 12-month working-capital loan: N35M
+for food raw materials and capacity, N15M to scale the perfume line. The
+facility seeds the first production cycle, then revolves as
 revenue is recycled into inventory. Capital is the only missing piece —
 products, equipment, people,
 and routes to market are already in place.
@@ -444,7 +444,8 @@ badge below each. Company logo in corner.
 
 BULLETS:
 • Amount: N50,000,000 (N35M food / N15M perfume)
-• Instrument: Working capital facility (1-year revolving) or equity (negotiable)
+• Instrument: Working capital facility (12-month revolving)
+• Interest: To be agreed — typical 15-25%/yr for working capital
 • Food use of funds:
   - Raw materials: N17.5M (50%) | Packaging: N7M (20%)
   - Distribution: N4.9M (14%) | Equipment: N3.5M (10%) | Buffer: N2.1M (6%)
@@ -457,11 +458,13 @@ BULLETS:
 • Security: Company assets + personal guarantee of directors
 
 SPEAKER NOTES:
-"We are asking for N50 million — 70% to the food line, 30% to the perfume
-line. For a group generating nearly N23 million in net monthly profit, this
-facility can be repaid in under 4 months. Half of each allocation goes
-directly into raw materials — the engine of production. We are open to
-structuring this as debt or equity, depending on the investor's preference."
+"We are asking for N50 million as a 12-month working-capital loan — 70% to the
+food line, 30% to the perfume line. For a group generating nearly N34 million
+in net monthly profit at full capacity, this facility is repaid from operating
+cash flow in about three months including the perfume ramp. Half of each
+allocation goes directly into raw materials — the engine of production. The
+interest rate is to be agreed; the repayment is what's provable, and it's in
+the cash flow forecast."
 
 VISUAL: Pie chart — N50M split: Food 70% | Perfume 30%. Below: two smaller
 pie charts with the food and perfume allocations. "Repayment: ~3 months incl. ramp."
@@ -494,35 +497,26 @@ already confirmed — collects cash-and-carry within weeks. The cumulative balan
 never dips. Time to full utilization: food day 1, perfume month 6. Loan service
 (~N4.2M/month) is covered 5-8x from month 1."
 
---- SLIDE 14: Exit & Liquidity — Options, Not a Plan ---
+--- SLIDE 14: Exit = Repayment ---
 
 BULLETS:
-• Opening (name the tension ourselves): "We know it's early to talk exit —
-  we're not at full capacity yet — but it shapes how you structure your
-  investment." Self-awareness first; reframes exit from "prediction" to
-  "we've thought this through."
-• The return path (headline, provable): Dividend / Cash Buyback.
-  Cash flow turns positive from month 1 (slide 13) · N33.9M/mo net at full
-  capacity · loan service covered 5-8x. Even setting aside any sale, profit
-  distribution can service returns starting month one.
-• Acquisition, muted one-liner: "If we mature into a strategic asset,
-  acquisition by a larger FMCG player is the standard path — but that's not
-  what we're building for." No named buyer, no multiple, no committed year.
-• Footnote: No committed buyer, multiple, or date — honest at 18 months old.
-  We only cite numbers we can defend.
+• Headline: This is a working-capital loan — the exit is repayment from
+  operating cash flow, not an equity sale. No acquisition story needed.
+• Monthly service ≈N4.2M is covered 5-8x every month of the ramp (slide 13).
+• Principal repaid in ~3 months including the perfume scale-up — ~2 months at
+  full capacity.
+• Full N50M + interest is back within the 12-month term.
 
 SPEAKER NOTES (30-45 seconds — a quick slide on purpose):
-"We know it's early to talk exit — we're not at full capacity yet — but we want
-to show we're thinking about it, because it matters for how you structure your
-investment. The returns here come from the business, not from selling it: even
-setting aside acquisition, our cash flow model shows we can service returns
-through profit distribution starting month one — the numbers on the previous
-slide. If we mature into a strategic asset, acquisition is the standard path
-for companies like ours — but that's not what we're building for. If pushed for
-a number or a date: 'We don't want to give you a number we can't defend. What
-we can tell you is the multiple depends on comparable transactions and on
-hitting full capacity first.' Spending 30-45 seconds here is deliberate — it
-shows we've thought about it, not that we're building for the exit."
+"When you lend us N50M, the 'exit' isn't a sale — it's repayment. The facility
+is serviced monthly from operating cash flow: the ≈N4.2M monthly service is
+covered 5-8x every month of the ramp, on the previous slide. The principal is
+repaid in about three months at the pace of the ramp — about two months at full
+capacity — and the full amount plus interest is back within the 12-month term.
+If pushed for a number: 'The interest rate and structure are to be agreed — but
+the repayment is what's provable, and it's in the cash flow forecast.' Spending
+30-45 seconds here is deliberate — this is a loan, repaid from cash flow, not
+an equity stake waiting on a sale."
 
 
 ================================================================================
@@ -641,7 +635,7 @@ SPEAKER NOTES:
 "Our financial model is transparent and conservative. Every line item is
 itemized. Food gross margin is modest at 9.4%, but overhead is lean, and the
 perfume line adds a much higher margin on top. The result is a group net
-monthly profit of nearly N23 million and an annual run rate exceeding N270
+monthly profit of nearly N34 million and an annual run rate exceeding N407
 million across just the current product set."
 
 VISUAL: Waterfall chart: Group Revenue -> COGS -> Gross Profit -> Overhead ->
@@ -856,16 +850,14 @@ yellow for moderate risk, green for well-mitigated.
 
 BULLETS:
 • Amount: N50,000,000 (N35M food / N15M perfume)
-• Instrument: Working capital loan (1-year revolving) preferred; equity open
-  for discussion
-• If equity: Valuation to be negotiated based on group annual net profit
-  run rate (N407.2M)
+• Instrument: Working capital loan (12-month revolving)
+• Interest: To be agreed — typical 15-25%/yr for working capital
 • Food use of funds: Raw materials N17.5M | Packaging N7M | Distribution
   N4.9M | Equipment N3.5M | Buffer N2.1M
 • Perfume use of funds: Raw materials N7.5M | Packaging N3M | Distribution
   N2.1M | Equipment N1.5M | NAFDAC & buffer N0.9M
-• Repayment (debt scenario): 12-month tenure, monthly from operating cash
-  flow; profit-equivalent payback ~2 months at full capacity, ~3 months incl.
+• Repayment: 12-month tenure, monthly from operating cash flow;
+  profit-equivalent payback ~2 months at full capacity, ~3 months incl.
   perfume ramp (loan serviced 5-8x monthly)
 • Security: Company assets + personal guarantees of directors
 • Contact: Chikwendu Ifeanyi Felix — [phone/email to be inserted]
@@ -874,13 +866,14 @@ SPEAKER NOTES:
 "We are asking for N50 million in working capital — 70% food, 30% perfume.
 At full capacity we net nearly N34 million per month, so the facility is
 repaid in ~2-3 months from operating cash flow — and comfortably serviced
-throughout the 12-month tenure. We are also open to an equity conversation if
-that structure suits your investment thesis better. We have already prepared
-for due diligence — our books are ready for inspection under NDA. Thank you
-for your time."
+throughout the 12-month tenure. The interest rate is to be agreed; the
+repayment is what's provable and it's in the cash flow forecast. We have
+already prepared for due diligence — our books are ready for inspection under
+NDA. Thank you for your time."
 
 VISUAL: Summary card: Amount N50M | Split Food 70%/Perfume 30% |
-Instrument: Debt/Equity | Repayment: ~2-3 months incl. ramp | Contact info.
+Instrument: Working capital loan (12-month) | Repayment: ~2-3 months incl.
+ramp | Contact info.
 Below: "Thank you. Questions welcome."
 
 
@@ -952,7 +945,7 @@ immediately — see Appendix for tracking template.]
 ================================================================================
 
 Round Type: SEED / Working Capital Facility
-(User to confirm: Is this a debt facility or an equity round?)
+(Decision made: 12-month working-capital loan, repaid from operating cash flow.)
 
 Amount Requested: N50,000,000
 Allocation: N35,000,000 (70%) — DanDuru Industries (food)
@@ -1174,67 +1167,40 @@ ORG HIRING PLAN (Funded Period — 12 months):
 
 
 ================================================================================
-9. EXIT & INVESTOR RETURN THESIS
+9. REPAYMENT & INVESTOR RETURN
 ================================================================================
 
-FRAMING (open by naming the tension ourselves):
-"We know it's early to talk exit — we're not at full capacity yet — but it
-shapes how you structure your investment." Present as options, not a plan:
-"the most likely paths" / "how this typically plays out for companies like
-ours." Plans invite "why that specific thing?"; options invite "that's a
-reasonable set of possibilities."
+FRAMING:
+This is a working-capital loan — the investor's exit is repayment, not an
+equity sale. No acquisition, dividend, or buyback story is needed. The return
+to the lender is: principal + agreed interest, repaid monthly from operating
+cash flow over a 12-month term.
 
-THE RETURN PATH (headline — provable):
+REPAYMENT MECHANICS (provable — backed by slide 13 cash flow forecast):
+- Monthly service ~N4.2M is covered 5-8x every month of the ramp.
+- Principal repaid in ~3 months including the perfume scale-up; ~2 months at
+  full capacity (food sells at full capacity from day 1, cash-and-carry).
+- Full N50M + interest is back within the 12-month term; cumulative balance
+  stays positive throughout (never dips).
 
-DIVIDEND / CASH BUYBACK (lead with this)
-   - Even setting aside acquisition, the cash flow model services returns
-     through profit distribution starting month one.
-   - Backed by numbers already on the table: cash flow positive from month 1
-     (cumulative balance never dips), N33.9M/mo group net at full capacity,
-     loan service covered 5-8x every month of the ramp.
-   - This anchors the conversation in something defensible before the more
-     speculative acquisition scenario.
-
-ACQUISITION (muted one-liner — not the plan we're building toward):
-"If we mature into a strategic asset, acquisition by a larger FMCG player is
-the standard path — but that's not what we're building for." No named buyer,
-no committed multiple, no committed year. If asked "who specifically," the
-honest answer is we haven't had that conversation yet — expected at 18 months
-old. The food line could offer a turnkey packaged-FMCG platform (production,
-distribution, NAFDAC compliance, brand); the fragrance line could add
-beauty-sector appeal to a consumer/beauty acquirer.
-
-HIGH-LEVEL ROI DRIVERS FOR INVESTORS:
+BUSINESS-HEALTH DRIVERS (why the repayment is safe):
 
 | Driver | Factor |
 |---|---|
 | Scale | From N407.2M to projected N679.0M net profit in 3 years |
-| Cumulative profit | N1,602.3M over 3 years = 32.0x return on N50M |
+| Cumulative profit | N1,602.3M over 3 years = 32.0x the loan (business health) |
 | Margins | Expanding through operating leverage + higher-margin fragrance line |
 | Asset-light expansion | 3rd shift adds 50% capacity at minimal CapEx |
 | Recurring revenue | FMCG daily consumption = repeat purchases |
 | Diversification | Food volume + fragrance margin under one group |
-| Exit optionality | Dividend/buyback today; trade sale later if it materializes |
+| Cash conversion cycle | 2-3 weeks — revenue recycles into inventory |
 
-IF PUSHED FOR A NUMBER OR A DATE:
-"We don't want to give you a number we can't defend. What we can tell you is
-the multiple depends on comparable transaction patterns in general terms and
-on hitting full capacity first." Stronger than a confident guess — same move
+IF PUSHED FOR A NUMBER (interest rate or structure):
+"The interest rate and structure are to be agreed — typical for working capital
+is 15-25%/yr. What we can defend is the repayment: it's in the cash flow
+forecast, serviced 5-8x every month, with the principal back in about three
+months at the pace of the ramp." Stronger than a confident guess — same move
 as the cash flow and payback numbers: show the work, don't perform certainty.
-
-ILLUSTRATIVE EXIT (Seed Equity Scenario — illustrative only, separate
-methodology from the 32.0x cumulative-profit return above; no committed
-multiple):
-If investor takes 20% equity for N50M:
-- Year 3 net profit: N679.0M
-- 20% share: N135.8M/year
-- Illustrative 10x multiple: implied valuation N6.8B
-- 20% stake value: N1,358M
-- ROI on N50M: 27.2x in 3 years (illustrative)
-
-[ROI scenario reflects FlourishScent actuals; will be refined as the group's
-3-year plan matures. The 8-15x "typical FMCG multiple" figure has been
-removed: it is a range we cannot yet defend for a company this young.]
 
 
 ================================================================================
@@ -1249,7 +1215,7 @@ SUPPORTING DOCUMENTS TO ATTACH:
 [ ] NAFDAC cosmetics/aromatics registration (FlourishScent — TBC)
 [ ] Customer purchase orders or distributor agreements
 [ ] Equipment vendor contracts and invoices
-[ ] Current cap table (if equity round)
+[ ] N/A — loan round; no cap table needed
 [ ] Due diligence data room (financial records since Oct 2024)
 [ ] FlourishScent sales records and channel list
 
@@ -1278,8 +1244,8 @@ TARGETED CLARIFYING QUESTIONS (Update after investor Q&A):
     full capacity projections are NOT actuals but are what the installed
     equipment and confirmed distributor network can deliver.
 [✓] Q2 ANSWERED: Distributors exist in Aba, Port Harcourt, Lagos.
-[~] Q3 NOT YET DECIDED: Open to debt or equity — to be discussed with
-    investors at meeting.
+[✓] Q3 ANSWERED: Working capital loan (12-month revolving), repaid from
+    operating cash flow.
 [✓] Q4 ANSWERED: Current skeletal food monthly revenue = N1,270,000
 [✓] Q5 ANSWERED: FlourishScent is already selling — retail + bulk, Lagos.
 [?] Q6 STILL OPEN: FlourishScent current monthly revenue figure.
@@ -1349,7 +1315,7 @@ FULL-CAPACITY GROUP FINANCIAL MODEL (3-YEAR PROJECTION)
 • N50M investment → strong return potential (FlourishScent actuals included)
 
 THE ASK
-N50,000,000 — open to debt (working capital facility) or equity
+N50,000,000 — 12-month working-capital loan (interest to be agreed)
 Split: N35M food (70%) | N15M perfume (30%)
 Food use: Raw materials (50%) | Packaging (20%) | Distribution (14%) |
 Equipment (10%) | Buffer (6%)
@@ -1383,10 +1349,11 @@ net monthly profit — a N407.2M annual run rate (FlourishScent actuals included
 skeletal revenue and FlourishScent scaling from N2.5M/month toward N45M/month
 within 6 months.
 
-We are seeking N50 million in working capital (open to debt or equity), split
+We are seeking N50 million as a 12-month working-capital loan, split
 N35M for the food line and N15M to scale FlourishScent, to seed the first
 production cycle and run production at full capacity — unlocking a projected
-2-3 month payback from operating cash flow (32.0x cumulative 3-year return).
+2-3 month payback from operating cash flow (loan serviced 5-8x monthly;
+cumulative 3-year group profit of N1.6B = 32.0x the loan as business health).
 
 I have attached our investor memorandum and would welcome the opportunity
 to present our business to you at your earliest convenience. Would you be

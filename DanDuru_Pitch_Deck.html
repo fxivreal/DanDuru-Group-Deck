@@ -567,8 +567,8 @@
           <tr><td>Cumulative Profit</td><td style="text-align:right;">N407.2M</td><td style="text-align:right;" id="s6_cum2">N923.3M</td><td style="text-align:right;" id="s6_cum3">N1,602.3M</td></tr>
         </table>
         <div style="margin-top: 12px; background: rgba(46,125,123,0.04); border-radius: 12px; padding: 12px; text-align: center; border: 1px solid rgba(46,125,123,0.15);">
-          <p style="font-size: 12px; color: var(--primary); font-weight: 600;"><span id="s6_ask_small">N50M</span> Investment → <span id="s6_roi">32.0x</span> return in 3 years (cumulative group profit)</p>
-          <p style="font-size: 11px; color: var(--text-dim);">Payback period: ~2 months at full capacity; ~3 months including perfume scale-up</p>
+          <p style="font-size: 12px; color: var(--primary); font-weight: 600;"><span id="s6_ask_small">N50M</span> repaid from operating cash flow — ~2 months at full capacity, ~3 months incl. perfume scale-up</p>
+          <p style="font-size: 11px; color: var(--text-dim);">Cumulative 3-yr group profit: <span id="s6_cum3b">N1,602.3M</span> = <span id="s6_roi">32.0x</span> the loan — business health</p>
         </div>
       </div>
     </div>
@@ -803,8 +803,9 @@
             <tr><th>Term</th><th>Detail</th></tr>
             <tr><td>Amount</td><td id="s10_amount">N50,000,000</td></tr>
             <tr><td>Allocation</td><td>N35M food (70%) | N15M perfume (30%)</td></tr>
-            <tr><td>Instrument</td><td>Working capital loan or equity (open)</td></tr>
-            <tr><td>Tenure (if loan)</td><td>12 months, monthly repayments</td></tr>
+            <tr><td>Instrument</td><td>12-month working-capital loan</td></tr>
+            <tr><td>Tenure</td><td>12 months, monthly repayments</td></tr>
+            <tr><td>Interest</td><td>To be agreed — typical 15–25%/yr for working capital</td></tr>
             <tr><td>Projected Payback</td><td style="color: var(--primary); font-weight: 600;">~2 mo at full cap / ~3 mo incl. ramp (slide 13)</td></tr>
             <tr><td>Security</td><td>Company assets + personal guarantees</td></tr>
             <tr><td>Year 1 Net Profit</td><td id="s10_annual" style="font-weight:600;">N407.2M</td></tr>
@@ -864,17 +865,16 @@
     </div>
   </div>
 
-  <!-- ======== SLIDE 13: EXIT & LIQUIDITY ======== -->
+  <!-- ======== SLIDE 13: EXIT = REPAYMENT ======== -->
   <div class="slide" data-index="13">
     <div class="slide-number">14 / 14</div>
-    <h2>Exit &amp; <span class="teal">Liquidity</span></h2>
-    <p class="subtitle">Options, not a plan — we know it's early to talk exit, but it shapes how you structure your investment</p>
+    <h2>Exit = <span class="teal">Repayment</span></h2>
+    <p class="subtitle">This is a working-capital loan — the exit is repayment from operating cash flow, not an equity sale</p>
     <div class="card" style="padding: 24px; border-top: 4px solid var(--primary);">
-      <h4 style="font-size: 14px; color: var(--primary);">Dividend / Cash Buyback <span style="font-size: 11px; font-weight: 500; color: var(--text-dim);">— provable from month 1</span></h4>
-      <p style="font-size: 13px; margin-top: 8px;">Cash flow turns positive from month 1 (slide 13) · N33.9M/mo net at full capacity · loan service covered 5–8x. Even setting aside any sale, profit distribution can service returns starting month one.</p>
+      <h4 style="font-size: 14px; color: var(--primary);">Repaid from operating cash flow <span style="font-size: 11px; font-weight: 500; color: var(--text-dim);">— covered 5–8x every month</span></h4>
+      <p style="font-size: 13px; margin-top: 8px;">Monthly service ≈N4.2M is covered 5–8x every month of the ramp (slide 13). Principal repaid in ~3 months including the perfume scale-up — ~2 months at full capacity. Full N50M + interest is back within the 12-month term.</p>
     </div>
-    <p style="font-size: 12px; color: var(--text-dim); margin-top: 2vh; text-align: center;">If we mature into a strategic asset, acquisition by a larger FMCG player is the standard path — but that's not what we're building for.</p>
-    <p style="font-size: 12px; color: var(--text-dim); margin-top: 2vh; text-align: center; border-top: 1px solid var(--border); padding-top: 12px;">No committed buyer, multiple, or date — honest at 18 months old. We only cite numbers we can defend.</p>
+    <p style="font-size: 12px; color: var(--text-dim); margin-top: 2vh; text-align: center; border-top: 1px solid var(--border); padding-top: 12px;">No equity exit story needed — debt is repaid from cash flow, not sold to an acquirer.</p>
   </div>
 
 </div>
@@ -1048,6 +1048,7 @@
     get('s6_y3_annual').textContent = f1(gAnnual3);
     get('s6_cum2').textContent = f1(cum2);
     get('s6_cum3').textContent = f1(cum3);
+    get('s6_cum3b').textContent = f1(cum3);
     get('s6_ask_small').textContent = f(ask);
     get('s6_roi').textContent = roi.toFixed(1) + 'x';
     get('s6_days').textContent = days;
