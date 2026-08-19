@@ -501,31 +501,28 @@ BULLETS:
   we're not at full capacity yet — but it shapes how you structure your
   investment." Self-awareness first; reframes exit from "prediction" to
   "we've thought this through."
-• Option 1 — Dividend / Cash Buyback (provable from month 1):
+• The return path (headline, provable): Dividend / Cash Buyback.
   Cash flow turns positive from month 1 (slide 13) · N33.9M/mo net at full
-  capacity · loan service covered 5-8x. Even setting aside acquisition,
-  profit distribution can service returns starting month one.
-• Option 2 — Strategic Acquisition (most likely path, hedged):
-  Realistically, the exit looks like acquisition by a larger FMCG player who
-  wants our compliance position and distribution rather than building it
-  themselves — the standard pattern for companies at our stage in this market.
-  No named buyer, no multiple, no committed year.
+  capacity · loan service covered 5-8x. Even setting aside any sale, profit
+  distribution can service returns starting month one.
+• Acquisition, muted one-liner: "If we mature into a strategic asset,
+  acquisition by a larger FMCG player is the standard path — but that's not
+  what we're building for." No named buyer, no multiple, no committed year.
 • Footnote: No committed buyer, multiple, or date — honest at 18 months old.
   We only cite numbers we can defend.
 
 SPEAKER NOTES (30-45 seconds — a quick slide on purpose):
 "We know it's early to talk exit — we're not at full capacity yet — but we want
 to show we're thinking about it, because it matters for how you structure your
-investment. The most likely paths are two. Even setting aside acquisition, our
-cash flow model shows we can service returns through profit distribution
-starting month one — the numbers on the previous slide. And realistically, exit
-here looks like acquisition by a larger FMCG player who wants our compliance
-position and distribution rather than building it themselves — that's the
-standard pattern for companies at our stage in this market. If pushed for a
-number or a date: 'We don't want to give you a number we can't defend. What we
-can tell you is the multiple depends on comparable transactions and on hitting
-full capacity first.' Spending 30-45 seconds here is deliberate — it shows
-we've thought about it, not that we're building for the exit."
+investment. The returns here come from the business, not from selling it: even
+setting aside acquisition, our cash flow model shows we can service returns
+through profit distribution starting month one — the numbers on the previous
+slide. If we mature into a strategic asset, acquisition is the standard path
+for companies like ours — but that's not what we're building for. If pushed for
+a number or a date: 'We don't want to give you a number we can't defend. What
+we can tell you is the multiple depends on comparable transactions and on
+hitting full capacity first.' Spending 30-45 seconds here is deliberate — it
+shows we've thought about it, not that we're building for the exit."
 
 
 ================================================================================
@@ -1187,9 +1184,9 @@ shapes how you structure your investment." Present as options, not a plan:
 ours." Plans invite "why that specific thing?"; options invite "that's a
 reasonable set of possibilities."
 
-TWO PLAUSIBLE EXIT PATHS:
+THE RETURN PATH (headline — provable):
 
-1. DIVIDEND / CASH BUYBACK (provable — lead with this)
+DIVIDEND / CASH BUYBACK (lead with this)
    - Even setting aside acquisition, the cash flow model services returns
      through profit distribution starting month one.
    - Backed by numbers already on the table: cash flow positive from month 1
@@ -1198,17 +1195,14 @@ TWO PLAUSIBLE EXIT PATHS:
    - This anchors the conversation in something defensible before the more
      speculative acquisition scenario.
 
-2. STRATEGIC ACQUISITION (hedged — category and reason, not names)
-   - Realistically, the exit looks like acquisition by a larger FMCG player
-     who wants our compliance position and distribution rather than building
-     it themselves — the standard pattern for companies at our stage in this
-     market.
-   - The food line offers a turnkey packaged-FMCG platform (production,
-     distribution, NAFDAC compliance, brand); the fragrance line adds
-     beauty-sector appeal to a consumer/beauty acquirer.
-   - No named buyer, no committed multiple, no committed year. If asked "who
-     specifically," the honest answer is we haven't had that conversation yet
-     — expected at 18 months old.
+ACQUISITION (muted one-liner — not the plan we're building toward):
+"If we mature into a strategic asset, acquisition by a larger FMCG player is
+the standard path — but that's not what we're building for." No named buyer,
+no committed multiple, no committed year. If asked "who specifically," the
+honest answer is we haven't had that conversation yet — expected at 18 months
+old. The food line could offer a turnkey packaged-FMCG platform (production,
+distribution, NAFDAC compliance, brand); the fragrance line could add
+beauty-sector appeal to a consumer/beauty acquirer.
 
 HIGH-LEVEL ROI DRIVERS FOR INVESTORS:
 
