@@ -71,11 +71,11 @@ services to its clients.
 ----------------------------------------------------------------------
 
 FlourishScent is the perfumery arm of DanDuru Group, operating under the
-Flourishcraft brand. It is a Lagos-based blender and distributor of fragrance
-oils and perfume sprays. Undiluted perfume oil is scarce in Nigeria and West
-Africa; FlourishScent sources it from importers who import and sell locally,
-then blends, fills and packages it for sale across retail and bulk/wholesale
-channels, with pack sizes ranging from 3ml samples to 25kg bulk containers.
+Flourishcraft brand. It is a Lagos-based distributor of fragrance oils and
+perfume sprays. Undiluted perfume oil is scarce in Nigeria and West Africa;
+FlourishScent buys it directly from importers who import and sell locally,
+and resells it across retail and bulk/wholesale channels, with pack sizes
+ranging from 3ml samples to 25kg bulk containers.
 Our goal is to import undiluted perfume oil directly to secure supply and
 control cost.
 
@@ -284,11 +284,11 @@ The market spans:
 - Bulk/wholesale supply of fragrance oils - resellers, retailers, event
   businesses and private-label brands
 
-FlourishScent's model is local value addition on imported raw materials:
-sourcing scarce undiluted perfume oil from importers today, and importing
-directly to secure supply and cut cost, while blending, filling and packaging
-locally. This gives faster restocking, quality control and the ability to
-offer both retail packs and bulk quantities (3ml to 25kg) in one business.
+FlourishScent's model is direct sourcing of imported raw materials:
+buying scarce undiluted perfume oil from importers today, and importing
+directly to secure supply and cut cost, before reselling locally. This gives
+faster restocking, quality assurance and the ability to offer both retail
+packs and bulk quantities (3ml to 25kg) in one business.
 
 Premium fragrances in Nigeria were worth approximately USD 326.8 million (~N490 billion) in 2025
 (Deep Market Insights); with mass-market oils and sprays added, the combined market is well above
@@ -375,12 +375,12 @@ DanDuru Group has identified the following gaps in the market:
 
 - Affordable local fragrance: The Nigerian perfume market is dominated by
   imported brands priced beyond the mass market. FlourishScent fills the gap of
-  quality locally blended and packaged fragrance oils and sprays at accessible
+  quality fragrance oils and sprays sourced direct from importers at accessible
   prices, sold retail and in bulk to the wholesale trade.
 
 - Bulk fragrance supply: Undiluted perfume oil is scarce in Nigeria and West
-  Africa. FlourishScent sources it from importers and blends, fills and packages
-  it, supplying resellers and small businesses from 3ml up to 25kg — a gap
+  Africa. FlourishScent buys it directly from importers and resells it,
+  supplying resellers and small businesses from 3ml up to 25kg — a gap
   currently served by imports.
 
 
@@ -451,11 +451,11 @@ to continue purchasing locally until it becomes efficient to import. Packaging
 materials are produced locally. Brown sugar is imported directly from abroad.
 
 Perfume Business:
-FlourishScent production involves the blending, filling and packaging of
-fragrance oils and sprays. Equipment includes mixing/blending vessels, filling
-equipment, and storage for bulk oils.
-[PLACEHOLDER: Confirm FlourishScent equipment list, capacity per shift, and
-production model (in-house blending vs contract filling).]
+FlourishScent buys fragrance oils and sprays directly from importers and
+resells them in retail and bulk pack sizes. Storage is maintained for bulk
+oils.
+[PLACEHOLDER: Confirm FlourishScent sourcing terms, capacity per shift, and
+pack/order sizes.]
 
 
 ================================================================================
