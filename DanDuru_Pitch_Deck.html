@@ -488,6 +488,7 @@
         <div class="compare-box green-box">
           <h4 style="color: var(--primary);">✓ Already Built</h4>
           <div class="built-item"><strong>Equipment</strong> <span>VFFS machines, mixers, mills — installed &amp; tested</span></div>
+          <div class="built-item"><strong>Assets</strong> <span>NAV N31.8M — Equipment N17M · Inventory N9.8M · Cash N3.5M · Receivables N4.0M (less liabilities N2.5M). Plus intangibles, no value assigned: NAFDAC approvals, trademarks, distribution network, Cameroon export channel</span></div>
           <div class="built-item"><strong>Compliance</strong> <span>NAFDAC approved for all current food SKUs</span></div>
           <div class="built-item"><strong>Team</strong> <span>3 key managers hired (MD, Production, HR) + FlourishScent GM</span></div>
           <div class="built-item"><strong>Distributors</strong> <span>Active in 3 states — Lagos, Port Harcourt, Aba · no single distributor exceeds ~25% of volume</span></div>
@@ -994,7 +995,7 @@
     const f1 = v => 'N' + (v / 1000000).toFixed(1) + 'M';
 
     // SLIDE 1: Title
-    get('s1_company').textContent = company;
+    get('s1_company').textContent = company.replace(/\s+Group$/i, '');
     get('s1_ask').textContent = f(ask);
     get('s1_presenter').textContent = presenter;
 
