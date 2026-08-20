@@ -68,6 +68,7 @@ DanDuru_Investor_Data_Room/
 │
 └── 09_Factory_Tour/
     └── DanDuru_Group_Factory_Tour.mp4          ← LIVE: https://www.youtube.com/shorts/3zROgVumKTU
+    └── FlourishScent_Perfume_Line.mp4        ← LIVE: https://youtube.com/shorts/kszAL-bOjdg
 
 ================================================================================
 DOCUMENTS TO PREPARE (Priority Order)
@@ -79,6 +80,7 @@ HIGH PRIORITY (Must have before investor meeting):
 [ ] 03_Legal_Regulatory/NAFDAC_Registration_Certificates.pdf
 [x] 03_Legal_Regulatory/CAC_Registration_Documents.pdf    ← CERTIFICATE CAC.pdf (attached)
 [x] 09_Factory_Tour/Factory_Tour_YouTube.mp4    ← LIVE: https://www.youtube.com/shorts/3zROgVumKTU
+[x] 09_Factory_Tour/Perfume_Line_YouTube.mp4    ← LIVE: https://youtube.com/shorts/kszAL-bOjdg
 [ ] 07_Traction/FlourishScent_Sales_Records.xlsx    ← Actual perfume revenue
                                                      (must substantiate the
                                                      N2.5M→N45M ramp claim)
