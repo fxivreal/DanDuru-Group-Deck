@@ -659,7 +659,10 @@ facility, the monthly service of ≈N1.9M (principal + interest, ~20%/yr midpoin
 of the 15-25% range) is covered 10x+ by operating cash flow throughout the ramp
 - ~11x in month 1, ~18x at full capacity. Including the 6-month perfume
 scale-up, cumulative operating profit clears the N50M principal within 3 months
-- so early repayment is possible.
+- so early repayment is possible, though we deliberately retain the capital
+over the full 36-month term to fund the 2-3 week cash conversion cycle
+(revenue recycles into the next cycle's inventory) rather than repay early and
+slow growth.
 
 Security: Company assets + personal guarantee of directors.
 

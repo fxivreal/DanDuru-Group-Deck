@@ -517,15 +517,20 @@ BULLETS:
 • Agreed term: 36 months, amortized monthly.
 • Monthly service ≈N1.9M (principal + interest, ~20%/yr) is covered 10x+
   every month of the ramp (slide 13).
-• Operating profit clears the principal in ~3 months — early repayment
-  possible; full N50M + interest is back within the 36-month term.
+• Principal could be cleared in ~3 months, but we deliberately keep capital in
+  the business over the 36-month term to fund the 2–3 week cash conversion
+  cycle (revenue recycles into the next cycle's inventory) — repay early and
+  we slow growth; full N50M + interest is back within the term.
 
 SPEAKER NOTES (30-45 seconds — a quick slide on purpose):
 "When you lend us N50M, the 'exit' isn't a sale — it's repayment. The facility
 is an amortizing 36-month loan, serviced monthly from operating cash flow: the
 ≈N1.9M monthly service is covered 10x+ every month of the ramp, on the previous
-slide. Operating profit clears the principal in about three months — so early
-repayment is possible — and the full amount plus interest is back within the
+slide. Operating profit could clear the principal in about three months — but
+we deliberately keep capital in the business for the full 36-month term to
+fund the 2-3 week cash conversion cycle (revenue recycles into the next
+cycle's inventory), rather than repay early and slow growth. The full amount
+plus interest is back within the
 36-month term. If pushed for a number: 'The interest rate and structure are to
 be agreed — but the repayment is what's provable, and it's in the cash flow
 forecast.' Spending 30-45 seconds here is deliberate — this is a loan, repaid
