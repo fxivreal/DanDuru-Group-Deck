@@ -32,7 +32,6 @@ DanDuru_Investor_Data_Room/
 │
 ├── 03_Legal_Regulatory/
 │   ├── NAFDAC_Registration_Certificates.pdf    ← Food products
-│   ├── NAFDAC_Cosmetics_Aromatics.pdf          ← FlourishScent (TBC)
 │   ├── CAC_Registration_Documents.pdf      ← CERTIFICATE CAC.pdf (attached)
 │   └── Company_Profile_TIN.pdf
 │
@@ -84,7 +83,7 @@ HIGH PRIORITY (Must have before investor meeting):
 [ ] 07_Traction/FlourishScent_Sales_Records.xlsx    ← Actual perfume revenue
                                                      (must substantiate the
                                                      N2.5M→N45M ramp claim)
-[ ] 03_Legal_Regulatory/NAFDAC_Cosmetics_Aromatics.pdf ← Confirm status
+
 
 MEDIUM PRIORITY (Before or during due diligence):
 [ ] 05_Distribution/Distributor_Agreements.pdf

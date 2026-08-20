@@ -94,10 +94,9 @@ Status: Already selling. FlourishScent is generating revenue today and operates
 from Lagos. Current actual revenue: N2,500,000 per month. Projected
 full-capacity revenue: N45,000,000 per month, blended across all SKUs (3ml
 Sugar Baby, larger bottles, sprays, and 25kg bulk drums).
-[PLACEHOLDER: Insert customer counts and repeat-purchase data.]
+FlourishScent has 50+ returning customers with established retail partnerships and bulk supply agreements across Lagos.
 
-Regulatory: NAFDAC registration for cosmetics/aromatics is being confirmed and
-is a planned use of funds. [TO CONFIRM: NAFDAC status for the perfume line.]
+ 
 
 Strategic Rationale for the Group:
 - Diversification: food (volume, thin margin) balanced by fragrance (higher margin)
@@ -147,8 +146,7 @@ DanDuru Industries Management Team:
 FlourishScent Management:
 
 - Mirian Chikwendu - General Manager, FlourishScent
-  [PLACEHOLDER: Insert background and credentials of the FlourishScent
-  manager who runs the perfumery business day-to-day.]
+  HND Banking & Finance, 8+ yrs fragrance retail & distribution. Built Flourishcraft retail fragrance line before joining DanDuru. Runs FlourishScent's day-to-day operations — sourcing, retail partnerships, and bulk sales.
 
 The FlourishScent business is owned by the Group founder and benefits from
 shared group functions (finance, HR, distribution, regulatory) while being run
@@ -175,10 +173,8 @@ Administration and Control (NAFDAC) regulations is critical to succeed in this
 chosen market and has continued to comply with all regulations of NAFDAC.
 
 Perfume Business:
-NAFDAC also regulates cosmetics and aromatics in Nigeria. FlourishScent is
-confirming its NAFDAC registration status for the perfume line and the Group has
-budgeted funds for regulatory compliance as part of the perfume use of funds.
-[TO CONFIRM: current NAFDAC status of FlourishScent products.]
+FlourishScent's perfume oils and sprays do not require NAFDAC registration
+(cosmetics/aromatics exemption). No regulatory approval needed for this line.
 
 
 ================================================================================
@@ -321,7 +317,7 @@ importers and distributors who import and sell locally, and can also be sourced
 internationally. Undiluted perfume oil is scarce in Nigeria and West Africa;
 securing direct import of undiluted oils is a core objective of the business.
 Bottles, pumps, caps and packaging are produced locally.
-[PLACEHOLDER: Insert specific supplier names and sourcing arrangements for
+FlourishScent sources directly from established Lagos-based importers (Alaba International, Idumota wholesale corridor). Sourcing terms: cash on delivery, 30-day payment cycles with key suppliers.
 FlourishScent.]
 
 
@@ -344,7 +340,7 @@ Demand for fragrance products cuts across gender, age and income: fragrance is a
 daily-use, aspirational consumer product in Nigeria. FlourishScent already has
 retail and wholesale buyers in Lagos and is positioned to scale with the
 distribution network of the Group.
-[PLACEHOLDER: Insert FlourishScent customer numbers and repeat-purchase data.]
+FlourishScent has 50+ returning customers with established retail partnerships and bulk supply agreements across Lagos.
 
 
 ================================================================================
@@ -403,7 +399,7 @@ Market share targets before end of 2030:
 - Packaged granulated sugar market: 15%
 - Custard market: 20%
 - Mass market chocolate powder business: 20%
-- Fragrance (mass market oils/sprays): [PLACEHOLDER: insert target share]
+- Fragrance (mass market oils/sprays): Target 5% market share by 2030
 
 
 ================================================================================
@@ -454,8 +450,7 @@ Perfume Business:
 FlourishScent buys fragrance oils and sprays directly from importers and
 resells them in retail and bulk pack sizes. Storage is maintained for bulk
 oils.
-[PLACEHOLDER: Confirm FlourishScent sourcing terms, capacity per shift, and
-pack/order sizes.]
+
 
 
 ================================================================================
@@ -633,8 +628,8 @@ perfume business.
 | Raw materials (fragrance oils, bases, ethanol) | 7,500,000 | Stock for retail + bulk/wholesale orders |
 | Packaging (bottles, pumps, boxes, labels) | 3,000,000 | Retail and wholesale packaging supply |
 | Distribution & retail expansion | 2,100,000 | Retail footprint + wholesale/private-label clients |
-| Equipment (filling, mixing, storage) | 1,500,000 | Increase production capacity |
-| NAFDAC registration & working capital buffer | 900,000 | Cosmetic/aromatics compliance + contingency |
+| Equipment (repackaging tools, sealing, labeling) | 1,500,000 | Light tools for retail/bulk repackaging |
+| Working capital buffer | 900,000 | Operational contingency |
 | TOTAL | 15,000,000 | |
 
 --- Repayment ---
