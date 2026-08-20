@@ -511,8 +511,9 @@ never dips. Time to full utilization: food day 1, perfume month 6. Loan service
 --- SLIDE 14: Exit = Repayment ---
 
 BULLETS:
-• Headline: This is a working-capital loan — the exit is repayment from
-  operating cash flow, not an equity sale. No acquisition story needed.
+• Headline: This is a working-capital loan — the primary exit is repayment from
+  operating cash flow; an equity sale is open for discussion if proposed.
+• If an investor prefers an equity stake over the loan, we are open to that conversation.
 • Agreed term: 36 months, amortized monthly.
 • Monthly service ≈N1.9M (principal + interest, ~20%/yr) is covered 10x+
   every month of the ramp (slide 13).
